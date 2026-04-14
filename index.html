@@ -1,0 +1,864 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NaveGaGuia — Plataforma do Aquaviário</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #0b1120;
+      color: #f1f5f9;
+      -webkit-font-smoothing: antialiased;
+    }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: #0b1120; }
+    ::-webkit-scrollbar-thumb { background: #334155; border-radius: 3px; }
+
+    input, select, button { font-family: 'Inter', sans-serif; }
+    input[type="date"]::-webkit-calendar-picker-indicator { filter: invert(1); }
+
+    .nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 0 40px; height: 68px;
+      background: rgba(11,17,32,0.85);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .nav-logo {
+      display: flex; align-items: center; gap: 12px;
+      text-decoration: none;
+    }
+    .nav-logo-badge {
+      width: 38px; height: 38px; border-radius: 8px;
+      background: #0ea5e9;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px;
+    }
+    .nav-logo-text {
+      font-size: 17px; font-weight: 700; color: #fff; letter-spacing: -0.3px;
+    }
+    .nav-links {
+      display: flex; gap: 8px; align-items: center;
+    }
+    .nav-link {
+      padding: 7px 16px; border-radius: 8px;
+      font-size: 14px; font-weight: 500; color: #94a3b8;
+      cursor: pointer; border: none; background: transparent;
+      transition: all 0.15s;
+    }
+    .nav-link:hover { color: #fff; background: rgba(255,255,255,0.06); }
+    .nav-link.active { color: #0ea5e9; background: rgba(14,165,233,0.1); }
+
+    .hero {
+      position: relative; min-height: 100vh;
+      display: flex; flex-direction: column; justify-content: flex-end;
+      padding-bottom: 100px;
+      overflow: hidden;
+    }
+    .hero-bg {
+      position: absolute; inset: 0;
+      background-image: url('hero-platform.jpg');
+      background-size: cover; background-position: center 45%;
+      background-color: #062840;
+      filter: brightness(0.75) saturate(1.1);
+    }
+    .hero-overlay {
+      position: absolute; inset: 0;
+      background: linear-gradient(
+        180deg,
+        rgba(2,13,26,0.35) 0%,
+        rgba(2,13,26,0.20) 30%,
+        rgba(2,13,26,0.60) 68%,
+        rgba(11,17,32,0.96) 88%,
+        rgba(11,17,32,1) 100%
+      );
+    }
+    .hero-content {
+      position: relative; z-index: 2;
+      max-width: 760px; margin: 0 auto; padding: 0 24px;
+      text-align: center;
+    }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: rgba(14,165,233,0.15);
+      border: 1px solid rgba(14,165,233,0.35);
+      border-radius: 100px; padding: 6px 16px;
+      font-size: 12px; font-weight: 600; color: #38bdf8;
+      letter-spacing: 0.8px; text-transform: uppercase;
+      margin-bottom: 28px;
+    }
+    .hero-title {
+      font-size: clamp(36px, 6vw, 68px);
+      font-weight: 900; color: #fff;
+      line-height: 1.05; letter-spacing: -1.5px;
+      margin-bottom: 20px;
+    }
+    .hero-title span { color: #0ea5e9; }
+    .hero-sub {
+      font-size: 18px; color: rgba(255,255,255,0.65);
+      line-height: 1.6; margin-bottom: 44px;
+      max-width: 560px; margin-left: auto; margin-right: auto;
+    }
+    .hero-ctas {
+      display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;
+    }
+    .btn-primary {
+      padding: 14px 32px; border-radius: 10px; border: none;
+      background: #0ea5e9; color: #fff;
+      font-size: 15px; font-weight: 700; cursor: pointer;
+      transition: all 0.15s; letter-spacing: -0.2px;
+    }
+    .btn-primary:hover { background: #0284c7; transform: translateY(-1px); }
+    .btn-secondary {
+      padding: 14px 32px; border-radius: 10px;
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.25);
+      color: #fff; font-size: 15px; font-weight: 600;
+      cursor: pointer; transition: all 0.15s;
+    }
+    .btn-secondary:hover { border-color: rgba(255,255,255,0.5); background: rgba(255,255,255,0.05); }
+
+    .section { padding: 80px 24px; max-width: 1200px; margin: 0 auto; }
+    .section-label {
+      font-size: 12px; font-weight: 700; color: #0ea5e9;
+      letter-spacing: 1.5px; text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .section-title {
+      font-size: clamp(28px, 4vw, 42px); font-weight: 800;
+      color: #fff; letter-spacing: -0.8px; margin-bottom: 16px;
+    }
+    .section-sub { font-size: 17px; color: #64748b; max-width: 560px; line-height: 1.6; }
+
+    .divider { height: 1px; background: rgba(255,255,255,0.06); margin: 0 24px; }
+
+    .card {
+      background: #131c2e;
+      border: 1px solid #1e2d45;
+      border-radius: 16px; padding: 28px;
+    }
+    .card-sm { padding: 20px; border-radius: 12px; }
+
+    .label {
+      font-size: 13px; font-weight: 600; color: #64748b;
+      text-transform: uppercase; letter-spacing: 0.6px;
+      margin-bottom: 8px; display: block;
+    }
+    .input {
+      width: 100%; padding: 12px 16px;
+      background: #0d1625; border: 1px solid #1e2d45;
+      border-radius: 10px; color: #fff;
+      font-size: 15px; outline: none; transition: border 0.15s;
+    }
+    .input:focus { border-color: #0ea5e9; }
+    select.input { cursor: pointer; }
+
+    .tag {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: 3px 10px; border-radius: 6px;
+      font-size: 11px; font-weight: 700;
+    }
+    .tag-pt  { background: rgba(59,130,246,0.15); color: #60a5fa; }
+    .tag-mat { background: rgba(16,185,129,0.15); color: #34d399; }
+    .tag-hard   { background: rgba(239,68,68,0.15);  color: #f87171; }
+    .tag-medium { background: rgba(245,158,11,0.15); color: #fbbf24; }
+    .tag-easy   { background: rgba(16,185,129,0.15); color: #34d399; }
+
+    .progress-bar {
+      height: 4px; background: #1e2d45; border-radius: 2px; overflow: hidden;
+    }
+    .progress-fill {
+      height: 100%; background: #0ea5e9; border-radius: 2px;
+      transition: width 0.3s;
+    }
+
+    .stat-card {
+      background: #131c2e; border: 1px solid #1e2d45;
+      border-radius: 12px; padding: 20px;
+    }
+    .stat-val { font-size: 28px; font-weight: 800; color: #fff; letter-spacing: -0.5px; }
+    .stat-label { font-size: 12px; color: #64748b; margin-top: 4px; font-weight: 500; }
+
+    .week-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: 20px; padding-bottom: 16px;
+      border-bottom: 1px solid #1e2d45;
+    }
+    .week-num { font-size: 13px; font-weight: 700; color: #0ea5e9; text-transform: uppercase; letter-spacing: 0.8px; }
+    .week-focus { font-size: 15px; font-weight: 700; color: #fff; }
+
+    .day-card {
+      background: #0d1625; border: 1px solid #1e2d45;
+      border-radius: 12px; padding: 14px; min-height: 80px;
+    }
+    .day-name { font-size: 11px; font-weight: 700; color: #0ea5e9; text-transform: uppercase; letter-spacing: 1px; }
+    .day-num { font-size: 11px; color: #334155; margin-bottom: 10px; }
+
+    .activity {
+      background: #131c2e; border: 1px solid #1e2d45;
+      border-radius: 8px; padding: 10px; margin-bottom: 6px;
+    }
+    .act-header { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+    .act-hours { font-size: 13px; font-weight: 800; color: #fff; }
+    .act-type { font-size: 10px; font-weight: 700; padding: 2px 7px; border-radius: 4px; }
+    .act-name { font-size: 12px; font-weight: 600; color: #e2e8f0; margin-bottom: 2px; }
+    .act-desc { font-size: 11px; color: #475569; line-height: 1.4; }
+
+    .tipo-teoria   { background: rgba(59,130,246,0.2);  color: #60a5fa; }
+    .tipo-pratica  { background: rgba(16,185,129,0.2);  color: #34d399; }
+    .tipo-simulado { background: rgba(139,92,246,0.2);  color: #a78bfa; }
+    .tipo-revisao  { background: rgba(245,158,11,0.2);  color: #fbbf24; }
+    .tipo-descanso { background: rgba(6,182,212,0.2);   color: #22d3ee; }
+
+    .alert-card {
+      display: flex; gap: 16px; align-items: flex-start;
+      background: #131c2e; border: 1px solid #1e2d45;
+      border-radius: 12px; padding: 18px; margin-bottom: 12px;
+      cursor: pointer; transition: border-color 0.15s;
+    }
+    .alert-card:hover { border-color: #334155; }
+    .alert-icon {
+      width: 42px; height: 42px; border-radius: 10px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 20px; flex-shrink: 0;
+    }
+    .alert-meta { font-size: 11px; color: #475569; margin-top: 4px; }
+    .alert-title { font-size: 14px; font-weight: 600; color: #e2e8f0; line-height: 1.4; }
+    .badge-new {
+      display: inline-block; padding: 2px 8px; border-radius: 100px;
+      font-size: 10px; font-weight: 700; background: rgba(14,165,233,0.15);
+      color: #38bdf8; margin-left: 8px; vertical-align: middle;
+    }
+    .badge-urgent {
+      display: inline-block; padding: 2px 8px; border-radius: 100px;
+      font-size: 10px; font-weight: 700; background: rgba(239,68,68,0.15);
+      color: #f87171; margin-left: 8px; vertical-align: middle;
+    }
+
+    .features-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px; margin-top: 48px;
+    }
+    .feature-card {
+      background: #131c2e; border: 1px solid #1e2d45;
+      border-radius: 16px; padding: 28px;
+      transition: border-color 0.15s, transform 0.15s;
+    }
+    .feature-card:hover { border-color: #334155; transform: translateY(-2px); }
+    .feature-icon {
+      width: 48px; height: 48px; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px; margin-bottom: 18px;
+    }
+    .feature-title { font-size: 16px; font-weight: 700; color: #fff; margin-bottom: 8px; }
+    .feature-desc { font-size: 14px; color: #64748b; line-height: 1.6; }
+
+    .tab-bar {
+      display: flex; gap: 4px; background: #0d1625;
+      border: 1px solid #1e2d45; border-radius: 12px; padding: 5px;
+      margin-bottom: 32px;
+    }
+    .tab {
+      flex: 1; padding: 10px 16px; border-radius: 8px; border: none;
+      font-size: 14px; font-weight: 600; cursor: pointer;
+      transition: all 0.15s; color: #64748b; background: transparent;
+    }
+    .tab.active { background: #131c2e; color: #fff; border: 1px solid #1e2d45; }
+    .tab:hover:not(.active) { color: #94a3b8; }
+
+    @media (max-width: 640px) {
+      .nav { padding: 0 16px; }
+      .nav-links { display: none; }
+      .hero { min-height: 85vh; padding-bottom: 80px; }
+      .section { padding: 60px 16px; }
+    }
+  </style>
+</head>
+<body>
+<div id="root"></div>
+
+<script type="text/babel">
+const { useState, useEffect } = React;
+
+// ─── DADOS ────────────────────────────────────────────────────────────────────
+const MATERIAS = {
+  interpretacao:      { nome:'Interpretação de Texto',          area:'PT',  peso:12, dificuldade:'alta'  },
+  concordancia:       { nome:'Concordância Nominal e Verbal',   area:'PT',  peso:5,  dificuldade:'alta'  },
+  verbos:             { nome:'Verbos',                          area:'PT',  peso:4,  dificuldade:'alta'  },
+  pontuacao:          { nome:'Pontuação',                       area:'PT',  peso:4,  dificuldade:'media' },
+  ortografia:         { nome:'Ortografia e Acentuação',         area:'PT',  peso:4,  dificuldade:'media' },
+  pronomes:           { nome:'Pronomes',                        area:'PT',  peso:3,  dificuldade:'media' },
+  conjuntos:          { nome:'Conjuntos',                       area:'MAT', peso:3,  dificuldade:'media' },
+  fracoes:            { nome:'Frações',                         area:'MAT', peso:8,  dificuldade:'alta'  },
+  unidades:           { nome:'Transformação de Unidades',       area:'MAT', peso:7,  dificuldade:'alta'  },
+  geometria:          { nome:'Geometria',                       area:'MAT', peso:9,  dificuldade:'alta'  },
+  potenciacao:        { nome:'Potenciação e Radiciação',        area:'MAT', peso:5,  dificuldade:'alta'  },
+  equacoes:           { nome:'Equações 1º e 2º Grau',           area:'MAT', peso:5,  dificuldade:'alta'  },
+  naturais:           { nome:'Números Naturais',                area:'MAT', peso:5,  dificuldade:'media' },
+  decimais:           { nome:'Números Decimais',                area:'MAT', peso:4,  dificuldade:'media' },
+  porcentagem:        { nome:'Porcentagem',                     area:'MAT', peso:4,  dificuldade:'media' },
+};
+
+const VAGAS_DATA_URL = './vagas-data.json';
+
+const VAGAS_FALLBACK = [
+  { id:'f1', titulo:'Monitor de vagas ativo — execute monitor_vagas.py para carregar vagas reais.', keywords:['embarcado'], fonte:'MONITOR', data:'—', urgente:false, link:'#' },
+];
+
+// Fonte de dados PREPOM — gerado pelo monitor.py
+// Localmente: ../prepom-monitor/output/prepom-data.json (copiado para ./prepom-data.json pelo monitor)
+const PREPOM_DATA_URL = './prepom-data.json';
+
+const PREPOM_FALLBACK = {
+  stats: { alertas_mes: 0, ultimo_edital: '—', vagas_detectadas: 0 },
+  editals: [
+    { id:'f1', titulo:'Marinha do Brasil — CFAQ/CAAQ em aberto. Monitor ativo.', fonte:'MONITOR', data:'—', urgente:false, link:'#' },
+  ],
+};
+
+// ─── NAV ─────────────────────────────────────────────────────────────────────
+function Nav({ tab, setTab }) {
+  return (
+    <nav className="nav">
+      <div className="nav-logo">
+        <div className="nav-logo-badge">⚓</div>
+        <span className="nav-logo-text">NaveGaGuia</span>
+      </div>
+      <div className="nav-links">
+        {[['home','Início'],['cronograma','Cronograma'],['vagas','Vagas'],['prepom','PREPOM']].map(([id,label]) => (
+          <button key={id} className={`nav-link ${tab===id?'active':''}`} onClick={()=>setTab(id)}>{label}</button>
+        ))}
+      </div>
+    </nav>
+  );
+}
+
+// ─── HERO ─────────────────────────────────────────────────────────────────────
+function Hero({ setTab }) {
+  return (
+    <div className="hero">
+      <div className="hero-bg"/>
+      <div className="hero-overlay"/>
+      <div className="hero-content">
+        <div className="hero-badge">
+          ⚓ &nbsp;Para quem quer embarcar
+        </div>
+        <h1 className="hero-title">
+          Sua aprovação no<br/>
+          <span>CFAQ e CAAQ começa aqui.</span>
+        </h1>
+        <p className="hero-sub">
+          Cronograma personalizado por matéria e peso no edital, alertas de vagas
+          embarcadas e editais da Marinha — tudo que você precisa para conquistar
+          sua habilitação aquaviária.
+        </p>
+        <div className="hero-ctas">
+          <button className="btn-primary" onClick={()=>setTab('cronograma')}>
+            Montar meu plano de estudos
+          </button>
+          <button className="btn-secondary" onClick={()=>setTab('vagas')}>
+            Ver vagas embarcadas
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── FEATURES ─────────────────────────────────────────────────────────────────
+function Features({ setTab }) {
+  return (
+    <div style={{ background: '#0b1120' }}>
+      <div className="section">
+        <p className="section-label">Sua jornada até o embarque</p>
+        <h2 className="section-title">Do estudo à primeira vaga embarcada</h2>
+        <p className="section-sub">Tudo que você precisa para passar no CFAQ ou CAAQ e entrar no mercado aquaviário — em um só lugar.</p>
+        <div className="features-grid">
+          {[
+            { icon:'📅', color:'rgba(14,165,233,0.15)', title:'Cronograma CFAQ / CAAQ', desc:'Insira sua data de prova e horas disponíveis. O sistema monta um plano de estudos semana a semana, por matéria e peso no edital.', tab:'cronograma' },
+            { icon:'⚓', color:'rgba(16,185,129,0.15)', title:'Vagas Embarcadas', desc:'Após sua habilitação, encontre sua primeira vaga. Alertas diários de vagas para Moço de Convés, Taifeiro, Eletricista, Enfermeiro Offshore e mais.', tab:'vagas' },
+            { icon:'🚢', color:'rgba(139,92,246,0.15)', title:'Alertas de Edital PREPOM', desc:'Não perca a data de inscrição. Monitoramos a Marinha do Brasil 24h por dia e avisamos na hora que um novo edital for publicado.', tab:'prepom' },
+          ].map(f => (
+            <div key={f.title} className="feature-card" onClick={()=>setTab(f.tab)} style={{ cursor:'pointer' }}>
+              <div className="feature-icon" style={{ background: f.color }}>{f.icon}</div>
+              <div className="feature-title">{f.title}</div>
+              <div className="feature-desc">{f.desc}</div>
+              <div style={{ marginTop:18, fontSize:13, color:'#0ea5e9', fontWeight:600 }}>Acessar →</div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── CRONOGRAMA ───────────────────────────────────────────────────────────────
+const LS_KEY = 'navegaguia_cronograma_v1';
+
+function Cronograma() {
+  // Carregar estado salvo do localStorage
+  const savedRaw = localStorage.getItem(LS_KEY);
+  const saved = savedRaw ? JSON.parse(savedRaw) : null;
+
+  const [sigla, setSigla]       = useState(saved?.sigla    || 'CFAQ-MOC');
+  const [horas, setHoras]       = useState(saved?.horas    || 3);
+  const [dataProva, setData]    = useState(saved?.dataProva|| '');
+  const [nivel, setNivel]       = useState(saved?.nivel    || 'intermediario');
+  const [cronograma, setCrono]  = useState(saved?.cronograma || null);
+
+  const diasRestantes = () => {
+    if (!dataProva) return 0;
+    return Math.max(0, Math.ceil((new Date(dataProva) - new Date()) / 86400000));
+  };
+
+  const gerar = () => {
+    const dias = diasRestantes();
+    if (!dias) { alert('Selecione uma data de prova válida.'); return; }
+    const total = dias * horas;
+    const ordenadas = Object.keys(MATERIAS).sort((a,b) => MATERIAS[b].peso - MATERIAS[a].peso);
+    const semanas = [];
+    const nSem = Math.ceil(dias / 7);
+    const diasNome = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
+
+    for (let s = 1; s <= nSem; s++) {
+      const qtd = Math.min(7, dias - (s-1)*7);
+      const diasSem = [];
+      for (let d = 1; d <= qtd; d++) {
+        let atividades = [];
+        if (d === 6) {
+          atividades = [{ tipo:'simulado', materia:'Simulado Completo', horas, desc:'Prova completa nas condições reais' }];
+        } else if (d === 7) {
+          atividades = [{ tipo:'revisao', materia:'Revisão Geral', horas:Math.min(2,horas), desc:'Revisar erros do simulado' }];
+          if (horas > 2) atividades.push({ tipo:'descanso', materia:'Descanso Ativo', horas:horas-2, desc:'Leitura leve' });
+        } else {
+          const key = ordenadas[((s-1)*5+d-1) % ordenadas.length];
+          const m = MATERIAS[key];
+          const hT = Math.round(horas*0.4*10)/10;
+          const hP = Math.round(horas*0.5*10)/10;
+          const hR = Math.max(0, Math.round((horas-hT-hP)*10)/10);
+          atividades = [
+            { tipo:'teoria',  materia:m.nome, area:m.area, horas:hT, desc:'Teoria e conceitos fundamentais' },
+            { tipo:'pratica', materia:m.nome, area:m.area, horas:hP, desc:'15–20 exercícios práticos' },
+          ];
+          if (hR > 0) atividades.push({ tipo:'revisao', materia:'Revisão do Dia', area:m.area, horas:hR, desc:'Fixar erros' });
+        }
+        diasSem.push({ d, nome: diasNome[d%7], atividades });
+      }
+      semanas.push({ s, dias:diasSem, foco: s <= nSem/2 ? 'Aprendizado Intensivo' : 'Revisão e Prática' });
+    }
+    if (nSem > 0) semanas[semanas.length-1].foco = '🔥 Semana Final — Revisão Intensiva';
+    const novo = { semanas, dias, total, dataProva };
+    setCrono(novo);
+    // Salvar tudo no localStorage
+    localStorage.setItem(LS_KEY, JSON.stringify({ sigla, horas, dataProva, nivel, cronograma: novo }));
+  };
+
+  const tipoClass = { teoria:'tipo-teoria', pratica:'tipo-pratica', simulado:'tipo-simulado', revisao:'tipo-revisao', descanso:'tipo-descanso' };
+
+  if (cronograma) return (
+    <div className="section">
+      <div style={{ display:'flex', justifyContent:'space-between', alignItems:'center', marginBottom:32, flexWrap:'wrap', gap:16 }}>
+        <div>
+          <p className="section-label">Cronograma gerado</p>
+          <h2 style={{ fontSize:28, fontWeight:800, color:'#fff', letterSpacing:'-0.5px' }}>
+            {sigla} — Plano Personalizado
+          </h2>
+        </div>
+        <div style={{ display:'flex', gap:10 }}>
+          <button onClick={()=>{ setCrono(null); localStorage.removeItem(LS_KEY); }} className="btn-secondary" style={{ fontSize:14 }}>← Refazer</button>
+          <span style={{ fontSize:12, color:'#22c55e', alignSelf:'center', display:'flex', alignItems:'center', gap:5 }}>
+            <span>●</span> Plano salvo automaticamente
+          </span>
+        </div>
+      </div>
+
+      <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(140px,1fr))', gap:12, marginBottom:32 }}>
+        {[
+          { label:'Dias restantes', val:`${cronograma.dias}`, sub:'dias' },
+          { label:'Horas por dia',  val:`${horas}h`,          sub:'diários' },
+          { label:'Total de horas', val:`${cronograma.total}h`, sub:'de estudo' },
+          { label:'Data da prova',  val: new Date(cronograma.dataProva).toLocaleDateString('pt-BR','short'), sub:'' },
+        ].map(s => (
+          <div key={s.label} className="stat-card">
+            <div className="stat-label">{s.label}</div>
+            <div className="stat-val">{s.val}</div>
+            {s.sub && <div style={{ fontSize:11, color:'#334155', marginTop:2 }}>{s.sub}</div>}
+          </div>
+        ))}
+      </div>
+
+      <div style={{ display:'flex', flexDirection:'column', gap:16 }}>
+        {cronograma.semanas.map((sem,si) => (
+          <div key={si} className="card">
+            <div className="week-header">
+              <span className="week-num">Semana {sem.s}</span>
+              <span className="week-focus">{sem.foco}</span>
+            </div>
+            <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(148px,1fr))', gap:10 }}>
+              {sem.dias.map((dia,di) => (
+                <div key={di} className="day-card">
+                  <div className="day-name">{dia.nome}</div>
+                  <div className="day-num">Dia {(si*7)+dia.d}</div>
+                  {dia.atividades.map((a,ai) => (
+                    <div key={ai} className="activity">
+                      <div className="act-header">
+                        <span className="act-hours">{a.horas}h</span>
+                        <span className={`act-type ${tipoClass[a.tipo]||''}`}>{a.tipo}</span>
+                        {a.area && <span className={`tag tag-${a.area.toLowerCase()}`}>{a.area}</span>}
+                      </div>
+                      <div className="act-name">{a.materia}</div>
+                      <div className="act-desc">{a.desc}</div>
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+
+  return (
+    <div className="section">
+      <p className="section-label">Preparatório</p>
+      <h2 className="section-title">Gerador de Cronograma</h2>
+      <p className="section-sub" style={{ marginBottom:40 }}>Configure abaixo e receba um plano de estudos semana a semana, personalizado para sua data de prova.</p>
+
+      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:24 }}>
+        <div className="card" style={{ gridColumn:'1/-1' }}>
+          <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))', gap:20, marginBottom:28 }}>
+            <div>
+              <label className="label">Sigla do Curso</label>
+              <select className="input" value={sigla} onChange={e=>setSigla(e.target.value)}>
+                <option value="CFAQ-MOC">CFAQ — Moço de Convés (MOC)</option>
+                <option value="CFAQ-MOM">CFAQ — Moço de Máquinas (MOM)</option>
+                <option value="CAAQ-CTS">CAAQ — Taifeiro / Cozinheiro / Enfermeiro (CTS)</option>
+                <option value="CAAQ-ELT">CAAQ — Eletricista Aquaviário (ELT)</option>
+                <option value="CAAQ-CDM">CAAQ — Condutor de Moto de Popa (CDM)</option>
+              </select>
+            </div>
+            <div>
+              <label className="label">Data da Prova</label>
+              <input type="date" className="input" value={dataProva} onChange={e=>setData(e.target.value)}/>
+            </div>
+            <div>
+              <label className="label">Horas por Dia</label>
+              <input type="number" className="input" min="1" max="12" value={horas}
+                onChange={e=>setHoras(parseInt(e.target.value)||1)}
+                style={{ fontWeight:800, fontSize:18 }}/>
+            </div>
+            <div>
+              <label className="label">Nível Atual</label>
+              <select className="input" value={nivel} onChange={e=>setNivel(e.target.value)}>
+                <option value="iniciante">Iniciante</option>
+                <option value="intermediario">Intermediário</option>
+                <option value="avancado">Avançado</option>
+              </select>
+            </div>
+          </div>
+
+          {dataProva && (
+            <div style={{ background:'rgba(14,165,233,0.08)', border:'1px solid rgba(14,165,233,0.2)', borderRadius:10, padding:'12px 18px', marginBottom:20, display:'flex', gap:24 }}>
+              <span style={{ color:'#94a3b8', fontSize:14 }}>
+                <strong style={{ color:'#38bdf8', fontSize:20, fontWeight:800 }}>{diasRestantes()}</strong> dias restantes
+              </span>
+              <span style={{ color:'#94a3b8', fontSize:14 }}>
+                <strong style={{ color:'#38bdf8', fontSize:20, fontWeight:800 }}>{diasRestantes()*horas}h</strong> de estudo no total
+              </span>
+            </div>
+          )}
+
+          <button className="btn-primary" onClick={gerar} style={{ width:'100%', padding:'15px', fontSize:16 }}>
+            Gerar Cronograma Personalizado
+          </button>
+        </div>
+
+        {/* Conteúdo Programático */}
+        <div className="card" style={{ gridColumn:'1/-1' }}>
+          <p style={{ fontSize:13, fontWeight:700, color:'#64748b', textTransform:'uppercase', letterSpacing:'0.6px', marginBottom:20 }}>
+            Conteúdo Programático Oficial
+          </p>
+          <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(260px,1fr))', gap:10 }}>
+            {Object.values(MATERIAS).map((m,i) => (
+              <div key={i} style={{ background:'#0d1625', border:'1px solid #1e2d45', borderRadius:10, padding:'12px 14px', display:'flex', justifyContent:'space-between', alignItems:'center', gap:12 }}>
+                <div style={{ display:'flex', alignItems:'center', gap:8 }}>
+                  <span className={`tag tag-${m.area.toLowerCase()}`}>{m.area}</span>
+                  <span style={{ fontSize:13, fontWeight:500, color:'#e2e8f0' }}>{m.nome}</span>
+                </div>
+                <div style={{ textAlign:'right', flexShrink:0 }}>
+                  <div style={{ fontSize:16, fontWeight:800, color:'#fff' }}>{m.peso}%</div>
+                  <div>
+                    <div className="progress-bar" style={{ width:48, marginTop:4 }}>
+                      <div className="progress-fill" style={{ width:`${m.peso*3}%`, background: m.dificuldade==='alta'?'#f87171':m.dificuldade==='media'?'#fbbf24':'#34d399' }}/>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── VAGAS ────────────────────────────────────────────────────────────────────
+const FILTROS_VAGAS = [
+  { label:'Todas',             match: null },
+  { label:'Moço de Convés',    match: 'moço de convés' },
+  { label:'Moço de Máquinas',  match: 'moço de máquinas' },
+  { label:'Taifeiro',          match: 'taifeiro' },
+  { label:'Enfermeiro',        match: 'enfermeiro' },
+  { label:'Eletricista',       match: 'eletricista' },
+  { label:'Offshore',          match: 'offshore' },
+];
+
+function Vagas() {
+  const [filtro,  setFiltro]  = useState(null);
+  const [vagas,   setVagas]   = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [erro,    setErro]    = useState(false);
+  const [stats,   setStats]   = useState({ total_vagas:0, vagas_hoje:0, updated_at:'' });
+
+  useEffect(() => {
+    fetch(VAGAS_DATA_URL)
+      .then(r => { if (!r.ok) throw new Error(); return r.json(); })
+      .then(d => { setVagas(d.vagas || VAGAS_FALLBACK); setStats(d.stats || {}); setLoading(false); })
+      .catch(() => { setVagas(VAGAS_FALLBACK); setLoading(false); setErro(true); });
+  }, []);
+
+  const vagasFiltradas = vagas.filter(v => {
+    if (!filtro) return true;
+    return (v.keywords || []).some(k => k.toLowerCase().includes(filtro)) ||
+           v.titulo.toLowerCase().includes(filtro);
+  });
+
+  return (
+    <div className="section">
+      <p className="section-label">Atualizado hoje</p>
+      <h2 className="section-title">Vagas Embarcadas</h2>
+      <p className="section-sub" style={{ marginBottom:20 }}>Monitoramento diário de vagas no Indeed, Google e LinkedIn para as principais funções do mercado aquaviário.</p>
+
+      {/* Stats reais */}
+      {!loading && !erro && (
+        <div style={{ display:'flex', gap:20, marginBottom:16, flexWrap:'wrap', alignItems:'center' }}>
+          <span style={{ fontSize:13, color:'#22c55e', display:'flex', alignItems:'center', gap:5 }}>
+            <span>●</span> {stats.vagas_hoje || 0} nova{stats.vagas_hoje !== 1 ? 's' : ''} hoje
+          </span>
+          <span style={{ fontSize:13, color:'#475569' }}>
+            {stats.total_vagas || 0} vagas no histórico
+          </span>
+          {stats.updated_at && (
+            <span style={{ fontSize:12, color:'#334155' }}>
+              Atualizado {new Date(stats.updated_at).toLocaleString('pt-BR')}
+            </span>
+          )}
+        </div>
+      )}
+      {erro && (
+        <div style={{ marginBottom:16, fontSize:12, color:'#f87171' }}>
+          ⚠ Monitor offline — execute monitor_vagas.py para carregar vagas reais
+        </div>
+      )}
+
+      {/* Filtros funcionais */}
+      <div style={{ display:'flex', gap:8, marginBottom:28, flexWrap:'wrap' }}>
+        {FILTROS_VAGAS.map(f => {
+          const ativo = filtro === f.match;
+          return (
+            <button key={f.label} onClick={() => setFiltro(f.match)} style={{
+              padding:'7px 16px', borderRadius:8,
+              border: ativo ? '1px solid #0ea5e9' : '1px solid #1e2d45',
+              background: ativo ? 'rgba(14,165,233,0.15)' : 'transparent',
+              color: ativo ? '#38bdf8' : '#64748b',
+              fontSize:13, fontWeight:600, cursor:'pointer',
+              transition:'all 0.15s',
+            }}>{f.label}</button>
+          );
+        })}
+      </div>
+
+      {/* Contador */}
+      <div style={{ marginBottom:16, fontSize:13, color:'#475569' }}>
+        {vagasFiltradas.length} vaga{vagasFiltradas.length !== 1 ? 's' : ''} encontrada{vagasFiltradas.length !== 1 ? 's' : ''}
+        {filtro && <span> · filtro: <strong style={{ color:'#94a3b8' }}>{filtro}</strong></span>}
+      </div>
+
+      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr', gap:12 }}>
+        {vagasFiltradas.length === 0 ? (
+          <div style={{ gridColumn:'1/-1', textAlign:'center', padding:'40px 0', color:'#475569' }}>
+            Nenhuma vaga encontrada para este filtro.
+          </div>
+        ) : vagasFiltradas.map(v => (
+          <div key={v.id} className="alert-card">
+            <div className="alert-icon" style={{ background: v.urgente?'rgba(239,68,68,0.15)':'rgba(14,165,233,0.1)' }}>
+              {v.urgente ? '🔴' : '⚓'}
+            </div>
+            <div style={{ flex:1, minWidth:0 }}>
+              <div className="alert-title">
+                {v.titulo}
+                {v.urgente && <span className="badge-urgent">URGENTE</span>}
+                {!v.urgente && v.data==='Hoje' && <span className="badge-new">NOVO</span>}
+              </div>
+              <div className="alert-meta" style={{ marginTop:8, display:'flex', gap:14, flexWrap:'wrap' }}>
+                <span>📅 {v.data}</span>
+                <span>🔍 {v.fonte}</span>
+                {v.keywords.map(k => (
+                  <span key={k} style={{ color:'#475569' }}>#{k.replace(/ /g,'-')}</span>
+                ))}
+              </div>
+            </div>
+            <div style={{ color:'#334155', fontSize:18, flexShrink:0 }}>→</div>
+          </div>
+        ))}
+      </div>
+
+      <div style={{ marginTop:24, padding:'18px 24px', background:'#131c2e', border:'1px solid #1e2d45', borderRadius:12, display:'flex', justifyContent:'space-between', alignItems:'center', flexWrap:'wrap', gap:12 }}>
+        <div>
+          <div style={{ fontSize:14, fontWeight:600, color:'#e2e8f0' }}>Alertas de vagas por e-mail</div>
+          <div style={{ fontSize:13, color:'#64748b', marginTop:2 }}>Receba novas vagas embarcadas direto na sua caixa de entrada.</div>
+        </div>
+        <button className="btn-primary" style={{ fontSize:13, padding:'10px 20px', whiteSpace:'nowrap' }}>
+          🔔 Ativar alertas
+        </button>
+      </div>
+    </div>
+  );
+}
+
+// ─── PREPOM ───────────────────────────────────────────────────────────────────
+function Prepom() {
+  const [data,    setData]    = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [erro,    setErro]    = useState(false);
+
+  useEffect(() => {
+    fetch(PREPOM_DATA_URL)
+      .then(r => { if (!r.ok) throw new Error('not found'); return r.json(); })
+      .then(d => { setData(d); setLoading(false); })
+      .catch(() => { setData(PREPOM_FALLBACK); setLoading(false); setErro(true); });
+  }, []);
+
+  const stats   = data?.stats   || PREPOM_FALLBACK.stats;
+  const editals = data?.editals || PREPOM_FALLBACK.editals;
+
+  return (
+    <div className="section">
+      <p className="section-label">Marinha do Brasil</p>
+      <h2 className="section-title">Alertas PREPOM</h2>
+      <p className="section-sub" style={{ marginBottom:36 }}>
+        Monitoramos os canais oficiais da Marinha e Google News. Quando sair um edital você é avisado imediatamente.
+      </p>
+
+      {/* Stats */}
+      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr 1fr', gap:12, marginBottom:32 }}>
+        {[
+          { label:'Alertas este mês', val: loading ? '…' : String(stats.alertas_mes), color:'#0ea5e9' },
+          { label:'Último edital',    val: loading ? '…' : stats.ultimo_edital,        color:'#34d399' },
+          { label:'Editais no radar', val: loading ? '…' : String(stats.vagas_detectadas), color:'#a78bfa' },
+        ].map(s => (
+          <div key={s.label} className="stat-card">
+            <div className="stat-label">{s.label}</div>
+            <div className="stat-val" style={{ color: s.color }}>{s.val}</div>
+          </div>
+        ))}
+      </div>
+
+      {/* Status de fonte */}
+      {!loading && (
+        <div style={{ marginBottom:20, display:'flex', alignItems:'center', gap:8, fontSize:12, color: erro ? '#f87171' : '#22c55e' }}>
+          <span>{erro ? '⚠' : '●'}</span>
+          {erro
+            ? 'Monitor offline — execute monitor.py para atualizar'
+            : `Dados atualizados · ${data?.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR') : '—'}`
+          }
+        </div>
+      )}
+
+      {/* Lista de editais */}
+      {loading ? (
+        <div style={{ textAlign:'center', padding:'40px 0', color:'#475569' }}>Carregando editais…</div>
+      ) : editals.map(p => (
+        <a key={p.id} href={p.link || '#'} target="_blank" rel="noopener noreferrer"
+           style={{ textDecoration:'none', display:'block' }}>
+          <div className="alert-card" style={{ cursor:'pointer', transition:'border-color 0.15s' }}
+               onMouseEnter={e=>e.currentTarget.style.borderColor='rgba(14,165,233,0.4)'}
+               onMouseLeave={e=>e.currentTarget.style.borderColor=''}>
+            <div className="alert-icon" style={{ background: p.urgente?'rgba(239,68,68,0.15)':'rgba(139,92,246,0.15)' }}>
+              {p.urgente ? '🚨' : '🚢'}
+            </div>
+            <div style={{ flex:1 }}>
+              <div className="alert-title">
+                {p.titulo}
+                {p.urgente && <span className="badge-urgent">INSCRIÇÕES ABERTAS</span>}
+              </div>
+              <div className="alert-meta" style={{ marginTop:8, display:'flex', gap:14, flexWrap:'wrap' }}>
+                <span>📅 {p.data}</span>
+                <span>🔍 {p.fonte}</span>
+                {p.categoria && <span style={{ color:'#475569' }}>#{p.categoria}</span>}
+                {p.cidade && <span style={{ color:'#475569' }}>{p.cidade}</span>}
+              </div>
+            </div>
+            <div style={{ color:'#334155', fontSize:18, flexShrink:0 }}>→</div>
+          </div>
+        </a>
+      ))}
+
+      {/* Como funciona */}
+      <div style={{ marginTop:24, padding:'18px 24px', background:'#131c2e', border:'1px solid #1e2d45', borderRadius:12 }}>
+        <div style={{ fontSize:14, fontWeight:700, color:'#fff', marginBottom:8 }}>Como funciona o monitoramento</div>
+        <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))', gap:16, marginTop:16 }}>
+          {[
+            ['🔍','Monitoramento 24/7','Rastreamos Google News, Bing e canais oficiais da Marinha continuamente.'],
+            ['📱','Alerta imediato','Quando um edital é detectado, você recebe notificação por e-mail na hora.'],
+            ['📋','Histórico completo','Acesse todos os editais anteriores para estudar os padrões da prova.'],
+          ].map(([icon,title,desc]) => (
+            <div key={title} style={{ display:'flex', gap:12 }}>
+              <span style={{ fontSize:20 }}>{icon}</span>
+              <div>
+                <div style={{ fontSize:13, fontWeight:700, color:'#e2e8f0', marginBottom:4 }}>{title}</div>
+                <div style={{ fontSize:12, color:'#64748b', lineHeight:1.5 }}>{desc}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─── APP ──────────────────────────────────────────────────────────────────────
+function App() {
+  const [tab, setTab] = useState('home');
+
+  const renderContent = () => {
+    if (tab === 'home')       return <><Hero setTab={setTab}/><Features setTab={setTab}/></>;
+    if (tab === 'cronograma') return <Cronograma/>;
+    if (tab === 'vagas')      return <Vagas/>;
+    if (tab === 'prepom')     return <Prepom/>;
+  };
+
+  return (
+    <>
+      <Nav tab={tab} setTab={setTab}/>
+      <div style={{ paddingTop: tab === 'home' ? 0 : 68 }}>
+        {renderContent()}
+      </div>
+    </>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App/>);
+</script>
+</body>
+</html>
