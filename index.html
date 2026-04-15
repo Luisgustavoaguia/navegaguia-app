@@ -185,8 +185,12 @@
       padding: 3px 10px; border-radius: 6px;
       font-size: 11px; font-weight: 700;
     }
-    .tag-pt  { background: rgba(59,130,246,0.15); color: #60a5fa; }
-    .tag-mat { background: rgba(16,185,129,0.15); color: #34d399; }
+    .tag-pt   { background: rgba(59,130,246,0.15);  color: #60a5fa; }
+    .tag-mat  { background: rgba(16,185,129,0.15);  color: #34d399; }
+    .tag-alg  { background: rgba(139,92,246,0.15);  color: #a78bfa; }
+    .tag-trig { background: rgba(245,158,11,0.15);  color: #fbbf24; }
+    .tag-geo  { background: rgba(236,72,153,0.15);  color: #f472b6; }
+    .tag-log  { background: rgba(251,146,60,0.15);  color: #fb923c; }
     .tag-hard   { background: rgba(239,68,68,0.15);  color: #f87171; }
     .tag-medium { background: rgba(245,158,11,0.15); color: #fbbf24; }
     .tag-easy   { background: rgba(16,185,129,0.15); color: #34d399; }
@@ -310,62 +314,124 @@
 const { useState, useEffect } = React;
 
 // ─── DADOS ────────────────────────────────────────────────────────────────────
-const MATERIAS = {
-  // ── PORTUGUÊS ──────────────────────────────────────────────────────────────
+// ── CFAQ-MOC / CFAQ-MOM / CAAQ-CTS ─────────────────────────────────────────
+const MATERIAS_BASICO = {
   interpretacao: {
     nome:'Interpretação de Texto', area:'PT', peso:15, dificuldade:'alta',
     topicos:['Compreensão de texto informativo','Inferência e implícitos','Texto narrativo e descritivo','Interpretação de texto argumentativo','Vocabulário contextual','Simulado de interpretação'],
   },
   gramatica: {
-    nome:'Gramática (Classes de Palavras)', area:'PT', peso:10, dificuldade:'alta',
-    topicos:['Substantivos — classificação e flexão','Adjetivos — formação e locuções','Verbos — indicativo/subjuntivo/imperativo','Pronomes — pessoal, possessivo, demonstrativo','Advérbios e locuções adverbiais','Artigos, Numerais, Preposições, Conjunções, Interjeições'],
+    nome:'Gramática — Classes de Palavras', area:'PT', peso:10, dificuldade:'alta',
+    topicos:['Substantivos — classificação, formação e flexão','Adjetivos — formação, pátrios e locução adjetiva','Verbos — indicativo, subjuntivo e imperativo','Pronomes — pessoal, possessivo, demonstrativo, indefinido, interrogativo','Advérbios e locuções adverbiais','Artigos, Numerais, Preposições, Conjunções, Interjeições'],
   },
   pontuacao: {
-    nome:'Pontuação', area:'PT', peso:5, dificuldade:'media',
-    topicos:['Uso da vírgula','Ponto final, ponto e vírgula','Dois-pontos e aspas','Travessão e parênteses','Exercícios práticos de pontuação'],
+    nome:'Pontuação', area:'PT', peso:4, dificuldade:'media',
+    topicos:['Empregar vírgula corretamente','Ponto final, ponto e vírgula e dois-pontos','Aspas, travessão e parênteses','Exercícios práticos de pontuação'],
   },
   ortografia: {
-    nome:'Ortografia e Acentuação', area:'PT', peso:5, dificuldade:'media',
-    topicos:['Ortografia — dificuldades na escrita','Acentuação de oxítonas e paroxítonas','Acentuação de proparoxítonas','Exercícios de ortografia','Simulado ortografia e acentuação'],
+    nome:'Ortografia e Acentuação', area:'PT', peso:4, dificuldade:'media',
+    topicos:['Palavras com dificuldades na escrita','Acentuação de oxítonas','Acentuação de paroxítonas','Acentuação de proparoxítonas','Simulado ortografia e acentuação'],
   },
   concordancia: {
-    nome:'Concordância e Sintaxe', area:'PT', peso:8, dificuldade:'alta',
-    topicos:['Concordância nominal','Concordância verbal','Sujeito e Predicado','Objeto direto e indireto','Adjunto adnominal e adverbial','Aposto e complemento nominal'],
-  },
-  // ── MATEMÁTICA ─────────────────────────────────────────────────────────────
-  naturais: {
-    nome:'Números Naturais', area:'MAT', peso:6, dificuldade:'media',
-    topicos:['Leitura e escrita de números naturais','Adição e subtração','Multiplicação e divisão','MDC — Máximo Divisor Comum','MMC — Mínimo Múltiplo Comum','Problemas práticos com naturais'],
-  },
-  decimais: {
-    nome:'Números Decimais e Negativos', area:'MAT', peso:5, dificuldade:'media',
-    topicos:['Leitura e escrita de decimais','4 operações com decimais','Números negativos — adição e subtração','Problemas práticos com negativos','Temperatura — Celsius para outras escalas'],
-  },
-  fracoes: {
-    nome:'Frações', area:'MAT', peso:10, dificuldade:'alta',
-    topicos:['Numerador e denominador — representação gráfica','Fração própria e imprópria','4 operações com frações','Redução ao mesmo denominador','Transformar fração em decimal e vice-versa','Problemas com frações'],
+    nome:'Concordância e Sintaxe', area:'PT', peso:10, dificuldade:'alta',
+    topicos:['Concordância nominal','Concordância verbal','Sujeito e Predicado','Objeto direto e indireto / Complemento nominal','Adjunto adnominal e adjunto adverbial','Aposto — identificação e emprego'],
   },
   conjuntos: {
     nome:'Conjuntos', area:'MAT', peso:4, dificuldade:'media',
     topicos:['Relação de pertinência','Subconjuntos','União de conjuntos','Interseção de conjuntos','Operações com conjuntos — exercícios'],
   },
+  temperatura: {
+    nome:'Temperatura', area:'MAT', peso:3, dificuldade:'baixa',
+    topicos:['Escala Celsius, Fahrenheit e Kelvin','Conversão entre escalas','Problemas práticos com temperatura'],
+  },
+  naturais: {
+    nome:'Números Naturais', area:'MAT', peso:7, dificuldade:'media',
+    topicos:['Leitura e escrita de números naturais','Adição e subtração','Multiplicação e divisão','MDC — Máximo Divisor Comum','MMC — Mínimo Múltiplo Comum','Problemas ligados à vida prática'],
+  },
+  decimais: {
+    nome:'Números Decimais', area:'MAT', peso:5, dificuldade:'media',
+    topicos:['Leitura e escrita de números decimais','4 operações com decimais','Problemas ligados à vida prática'],
+  },
+  negativos: {
+    nome:'Números Negativos e Positivos', area:'MAT', peso:3, dificuldade:'media',
+    topicos:['Adição com números negativos e positivos','Subtração com números negativos e positivos','Problemas ligados à vida prática'],
+  },
+  fracoes: {
+    nome:'Frações', area:'MAT', peso:10, dificuldade:'alta',
+    topicos:['Numerador e denominador — representação gráfica','Fração própria e imprópria','Adição e subtração de frações','Multiplicação e divisão de frações','Redução ao mesmo denominador comum','Transformar fração em decimal e vice-versa / Problemas'],
+  },
   unidades: {
-    nome:'Unidades de Medida', area:'MAT', peso:7, dificuldade:'alta',
-    topicos:['Unidades de tempo','Unidades de comprimento','Unidades de superfície e volume','Unidades de massa','Problemas práticos com unidades','Simulado de unidades'],
+    nome:'Transformação de Unidades', area:'MAT', peso:7, dificuldade:'alta',
+    topicos:['Unidades de tempo','Unidades de comprimento','Unidades de superfície','Unidades de volume','Unidades de massa','Problemas práticos com unidades'],
   },
   geometria: {
-    nome:'Geometria', area:'MAT', peso:10, dificuldade:'alta',
-    topicos:['Polígonos — conceitos','Triângulos — tipos e propriedades','Retângulo e quadrado','Cálculo de área — retângulo e quadrado','Cálculo de área — triângulo','Ângulos — formas geométricas'],
+    nome:'Geometria', area:'MAT', peso:9, dificuldade:'alta',
+    topicos:['Polígonos — conceitos e classificação','Triângulos — tipos e propriedades','Retângulo e quadrado','Cálculo de área — retângulo e quadrado','Cálculo de área — triângulo','Ângulos — formas geométricas'],
   },
   potenciacao: {
-    nome:'Potenciação e Radiciação', area:'MAT', peso:6, dificuldade:'alta',
-    topicos:['Potência com expoente inteiro','Raízes — radical aritmético','Adição e subtração de radicais','Potenciação de radicais','Exercícios práticos'],
+    nome:'Potenciação e Radiciação', area:'MAT', peso:5, dificuldade:'alta',
+    topicos:['Potência com expoente inteiro','Raízes e radical aritmético','Adição e subtração de radicais','Potenciação de radicais','Exercícios práticos'],
   },
   equacoes: {
-    nome:'Equações e Porcentagem', area:'MAT', peso:9, dificuldade:'alta',
-    topicos:['Equação de 1º grau','Equação de 2º grau — fórmula de Bhaskara','Regra de três simples','Porcentagem — cálculo básico','Porcentagem — problemas práticos','Simulado equações e porcentagem'],
+    nome:'Equações de 1º e 2º Grau', area:'MAT', peso:5, dificuldade:'alta',
+    topicos:['Equação de 1º grau — resolução','Regra de três simples','Equação de 2º grau — problemas práticos','Simulado equações'],
+  },
+  porcentagem: {
+    nome:'Porcentagem', area:'MAT', peso:4, dificuldade:'media',
+    topicos:['Calcular porcentagem','Problemas ligados à vida prática','Simulado de porcentagem'],
   },
 };
+
+// ── CAAQ-ELT / CAAQ-CDM ─────────────────────────────────────────────────────
+const MATERIAS_AVANCADO = {
+  interpretacao_adv: {
+    nome:'Leitura, Compreensão e Interpretação', area:'PT', peso:8, dificuldade:'alta',
+    topicos:['Coesão e coerência no texto escrito','Língua falada e língua escrita','Discurso direto e indireto','Sinônimos, antônimos e parônimos','Significado de expressões e períodos','Paráfrase, denotação e conotação / Figuras de linguagem'],
+  },
+  gramatica_adv: {
+    nome:'Gramática Avançada', area:'PT', peso:12, dificuldade:'alta',
+    topicos:['Classes de palavras — reconhecimento e emprego','Estrutura das palavras e elementos','Flexão nominal — gênero, número e grau','Flexão verbal — modos, tempos, vozes e conjugações','Termos da oração e classificação do período','Orações reduzidas e desenvolvidas'],
+  },
+  concordancia_adv: {
+    nome:'Concordância, Regência e Crase', area:'PT', peso:10, dificuldade:'alta',
+    topicos:['Concordância nominal','Concordância verbal','Regência nominal e verbal','Crase — regras e emprego','Colocação pronominal (próclise, mesóclise, ênclise)','Pontuação e acentuação gráfica'],
+  },
+  aritmetica: {
+    nome:'Aritmética', area:'MAT', peso:8, dificuldade:'media',
+    topicos:['Operações fundamentais e notação científica','Divisibilidade','MMC e MDC','Frações e decimais','Razão e proporção','Regra de três simples e composta'],
+  },
+  porcentagem_adv: {
+    nome:'Porcentagem, Médias e Juros', area:'MAT', peso:6, dificuldade:'media',
+    topicos:['Porcentagem — definição e cálculo','Aumentos e descontos','Aumentos e descontos sucessivos','Média aritmética e ponderada','Média harmônica','Juros simples e compostos'],
+  },
+  algebra: {
+    nome:'Álgebra', area:'ALG', peso:10, dificuldade:'alta',
+    topicos:['Produtos notáveis e fatoração','Equações e problemas do 2º grau','Equações algébricas','Equações exponenciais e logarítmicas','Sistemas de equações','Vetores e operações com vetores'],
+  },
+  funcoes: {
+    nome:'Funções', area:'ALG', peso:9, dificuldade:'alta',
+    topicos:['Função afim — conceitos e gráfico','Função quadrática — vértice e raízes','Função exponencial','Função logarítmica','Função trigonométrica','Gráficos de funções'],
+  },
+  trigonometria: {
+    nome:'Trigonometria', area:'TRIG', peso:9, dificuldade:'alta',
+    topicos:['Círculo trigonométrico','Seno, cosseno e tangente','Relação fundamental da trigonometria','Lei dos Senos','Lei dos Cossenos','Exercícios e aplicações'],
+  },
+  geometria_adv: {
+    nome:'Geometria Plana e Espacial', area:'GEO', peso:10, dificuldade:'alta',
+    topicos:['Polígonos e poliedros','Ângulos e triângulos','Circunferência, círculo e elipse','Áreas e perímetros — figuras planas','Prismas, pirâmides, cilindro, cone e esfera','Volumes — cálculo e aplicações'],
+  },
+  logica: {
+    nome:'Lógica', area:'LOG', peso:10, dificuldade:'alta',
+    topicos:['Proposições simples e compostas','Operadores lógicos — E, OU, SE...ENTÃO','Tabela Verdade — tautologia e contradição','Negação e equivalências / Lei de Morgan','Lógica da argumentação','Diagrama de Venn e Quantificadores'],
+  },
+};
+
+// Selecionar matérias por curso
+const getMaterias = (sigla) =>
+  ['CAAQ-ELT','CAAQ-CDM'].includes(sigla) ? MATERIAS_AVANCADO : MATERIAS_BASICO;
+
+// Alias para compatibilidade com a exibição do conteúdo programático
+const MATERIAS = MATERIAS_BASICO;
 
 const VAGAS_DATA_URL = './vagas-data.json';
 
@@ -487,7 +553,8 @@ function Cronograma() {
     const dias = diasRestantes();
     if (!dias) { alert('Selecione uma data de prova válida.'); return; }
     const total = dias * horas;
-    const ordenadas = Object.keys(MATERIAS).sort((a,b) => MATERIAS[b].peso - MATERIAS[a].peso);
+    const materias = getMaterias(sigla);
+    const ordenadas = Object.keys(materias).sort((a,b) => materias[b].peso - materias[a].peso);
     const semanas = [];
     const nSem = Math.ceil(dias / 7);
     const diasNome = ['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
@@ -505,7 +572,7 @@ function Cronograma() {
         } else {
           const idx = ((s-1)*5+d-1);
           const key = ordenadas[idx % ordenadas.length];
-          const m = MATERIAS[key];
+          const m = materias[key];
           const topico = m.topicos ? m.topicos[Math.floor(idx / ordenadas.length) % m.topicos.length] : m.nome;
           const hT = Math.round(horas*0.4*10)/10;
           const hP = Math.round(horas*0.5*10)/10;
@@ -654,7 +721,7 @@ function Cronograma() {
             Conteúdo Programático Oficial
           </p>
           <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fill,minmax(260px,1fr))', gap:10 }}>
-            {Object.values(MATERIAS).map((m,i) => (
+            {Object.values(getMaterias(sigla)).map((m,i) => (
               <div key={i} style={{ background:'#0d1625', border:'1px solid #1e2d45', borderRadius:10, padding:'12px 14px', display:'flex', justifyContent:'space-between', alignItems:'center', gap:12 }}>
                 <div style={{ display:'flex', alignItems:'center', gap:8 }}>
                   <span className={`tag tag-${m.area.toLowerCase()}`}>{m.area}</span>
