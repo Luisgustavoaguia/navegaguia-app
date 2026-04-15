@@ -311,21 +311,60 @@ const { useState, useEffect } = React;
 
 // ─── DADOS ────────────────────────────────────────────────────────────────────
 const MATERIAS = {
-  interpretacao:      { nome:'Interpretação de Texto',          area:'PT',  peso:12, dificuldade:'alta'  },
-  concordancia:       { nome:'Concordância Nominal e Verbal',   area:'PT',  peso:5,  dificuldade:'alta'  },
-  verbos:             { nome:'Verbos',                          area:'PT',  peso:4,  dificuldade:'alta'  },
-  pontuacao:          { nome:'Pontuação',                       area:'PT',  peso:4,  dificuldade:'media' },
-  ortografia:         { nome:'Ortografia e Acentuação',         area:'PT',  peso:4,  dificuldade:'media' },
-  pronomes:           { nome:'Pronomes',                        area:'PT',  peso:3,  dificuldade:'media' },
-  conjuntos:          { nome:'Conjuntos',                       area:'MAT', peso:3,  dificuldade:'media' },
-  fracoes:            { nome:'Frações',                         area:'MAT', peso:8,  dificuldade:'alta'  },
-  unidades:           { nome:'Transformação de Unidades',       area:'MAT', peso:7,  dificuldade:'alta'  },
-  geometria:          { nome:'Geometria',                       area:'MAT', peso:9,  dificuldade:'alta'  },
-  potenciacao:        { nome:'Potenciação e Radiciação',        area:'MAT', peso:5,  dificuldade:'alta'  },
-  equacoes:           { nome:'Equações 1º e 2º Grau',           area:'MAT', peso:5,  dificuldade:'alta'  },
-  naturais:           { nome:'Números Naturais',                area:'MAT', peso:5,  dificuldade:'media' },
-  decimais:           { nome:'Números Decimais',                area:'MAT', peso:4,  dificuldade:'media' },
-  porcentagem:        { nome:'Porcentagem',                     area:'MAT', peso:4,  dificuldade:'media' },
+  // ── PORTUGUÊS ──────────────────────────────────────────────────────────────
+  interpretacao: {
+    nome:'Interpretação de Texto', area:'PT', peso:15, dificuldade:'alta',
+    topicos:['Compreensão de texto informativo','Inferência e implícitos','Texto narrativo e descritivo','Interpretação de texto argumentativo','Vocabulário contextual','Simulado de interpretação'],
+  },
+  gramatica: {
+    nome:'Gramática (Classes de Palavras)', area:'PT', peso:10, dificuldade:'alta',
+    topicos:['Substantivos — classificação e flexão','Adjetivos — formação e locuções','Verbos — indicativo/subjuntivo/imperativo','Pronomes — pessoal, possessivo, demonstrativo','Advérbios e locuções adverbiais','Artigos, Numerais, Preposições, Conjunções, Interjeições'],
+  },
+  pontuacao: {
+    nome:'Pontuação', area:'PT', peso:5, dificuldade:'media',
+    topicos:['Uso da vírgula','Ponto final, ponto e vírgula','Dois-pontos e aspas','Travessão e parênteses','Exercícios práticos de pontuação'],
+  },
+  ortografia: {
+    nome:'Ortografia e Acentuação', area:'PT', peso:5, dificuldade:'media',
+    topicos:['Ortografia — dificuldades na escrita','Acentuação de oxítonas e paroxítonas','Acentuação de proparoxítonas','Exercícios de ortografia','Simulado ortografia e acentuação'],
+  },
+  concordancia: {
+    nome:'Concordância e Sintaxe', area:'PT', peso:8, dificuldade:'alta',
+    topicos:['Concordância nominal','Concordância verbal','Sujeito e Predicado','Objeto direto e indireto','Adjunto adnominal e adverbial','Aposto e complemento nominal'],
+  },
+  // ── MATEMÁTICA ─────────────────────────────────────────────────────────────
+  naturais: {
+    nome:'Números Naturais', area:'MAT', peso:6, dificuldade:'media',
+    topicos:['Leitura e escrita de números naturais','Adição e subtração','Multiplicação e divisão','MDC — Máximo Divisor Comum','MMC — Mínimo Múltiplo Comum','Problemas práticos com naturais'],
+  },
+  decimais: {
+    nome:'Números Decimais e Negativos', area:'MAT', peso:5, dificuldade:'media',
+    topicos:['Leitura e escrita de decimais','4 operações com decimais','Números negativos — adição e subtração','Problemas práticos com negativos','Temperatura — Celsius para outras escalas'],
+  },
+  fracoes: {
+    nome:'Frações', area:'MAT', peso:10, dificuldade:'alta',
+    topicos:['Numerador e denominador — representação gráfica','Fração própria e imprópria','4 operações com frações','Redução ao mesmo denominador','Transformar fração em decimal e vice-versa','Problemas com frações'],
+  },
+  conjuntos: {
+    nome:'Conjuntos', area:'MAT', peso:4, dificuldade:'media',
+    topicos:['Relação de pertinência','Subconjuntos','União de conjuntos','Interseção de conjuntos','Operações com conjuntos — exercícios'],
+  },
+  unidades: {
+    nome:'Unidades de Medida', area:'MAT', peso:7, dificuldade:'alta',
+    topicos:['Unidades de tempo','Unidades de comprimento','Unidades de superfície e volume','Unidades de massa','Problemas práticos com unidades','Simulado de unidades'],
+  },
+  geometria: {
+    nome:'Geometria', area:'MAT', peso:10, dificuldade:'alta',
+    topicos:['Polígonos — conceitos','Triângulos — tipos e propriedades','Retângulo e quadrado','Cálculo de área — retângulo e quadrado','Cálculo de área — triângulo','Ângulos — formas geométricas'],
+  },
+  potenciacao: {
+    nome:'Potenciação e Radiciação', area:'MAT', peso:6, dificuldade:'alta',
+    topicos:['Potência com expoente inteiro','Raízes — radical aritmético','Adição e subtração de radicais','Potenciação de radicais','Exercícios práticos'],
+  },
+  equacoes: {
+    nome:'Equações e Porcentagem', area:'MAT', peso:9, dificuldade:'alta',
+    topicos:['Equação de 1º grau','Equação de 2º grau — fórmula de Bhaskara','Regra de três simples','Porcentagem — cálculo básico','Porcentagem — problemas práticos','Simulado equações e porcentagem'],
+  },
 };
 
 const VAGAS_DATA_URL = './vagas-data.json';
@@ -464,16 +503,18 @@ function Cronograma() {
           atividades = [{ tipo:'revisao', materia:'Revisão Geral', horas:Math.min(2,horas), desc:'Revisar erros do simulado' }];
           if (horas > 2) atividades.push({ tipo:'descanso', materia:'Descanso Ativo', horas:horas-2, desc:'Leitura leve' });
         } else {
-          const key = ordenadas[((s-1)*5+d-1) % ordenadas.length];
+          const idx = ((s-1)*5+d-1);
+          const key = ordenadas[idx % ordenadas.length];
           const m = MATERIAS[key];
+          const topico = m.topicos ? m.topicos[Math.floor(idx / ordenadas.length) % m.topicos.length] : m.nome;
           const hT = Math.round(horas*0.4*10)/10;
           const hP = Math.round(horas*0.5*10)/10;
           const hR = Math.max(0, Math.round((horas-hT-hP)*10)/10);
           atividades = [
-            { tipo:'teoria',  materia:m.nome, area:m.area, horas:hT, desc:'Teoria e conceitos fundamentais' },
-            { tipo:'pratica', materia:m.nome, area:m.area, horas:hP, desc:'15–20 exercícios práticos' },
+            { tipo:'teoria',  materia:m.nome, area:m.area, horas:hT, desc:`📖 ${topico}` },
+            { tipo:'pratica', materia:m.nome, area:m.area, horas:hP, desc:'✏️ 15–20 exercícios do tópico' },
           ];
-          if (hR > 0) atividades.push({ tipo:'revisao', materia:'Revisão do Dia', area:m.area, horas:hR, desc:'Fixar erros' });
+          if (hR > 0) atividades.push({ tipo:'revisao', materia:'Revisão do Dia', area:m.area, horas:hR, desc:'🔁 Corrigir erros e fixar' });
         }
         diasSem.push({ d, nome: diasNome[d%7], atividades });
       }
