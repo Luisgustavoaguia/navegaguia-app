@@ -869,10 +869,17 @@ function Vagas() {
 }
 
 // ─── PREPOM ───────────────────────────────────────────────────────────────────
+// Formspree endpoint — crie sua conta em formspree.io e substitua FORMSPREE_ID
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/FORMSPREE_ID';
+
 function Prepom() {
   const [data,    setData]    = useState(null);
   const [loading, setLoading] = useState(true);
   const [erro,    setErro]    = useState(false);
+
+  const [nome,      setNome]      = useState('');
+  const [email,     setEmail]     = useState('');
+  const [subStatus, setSubStatus] = useState('idle'); // idle | sending | ok | err
 
   useEffect(() => {
     fetch(PREPOM_DATA_URL)
@@ -881,23 +888,63 @@ function Prepom() {
       .catch(() => { setData(PREPOM_FALLBACK); setLoading(false); setErro(true); });
   }, []);
 
-  const stats   = data?.stats   || PREPOM_FALLBACK.stats;
-  const editals = data?.editals || PREPOM_FALLBACK.editals;
+  const stats    = data?.stats   || PREPOM_FALLBACK.stats;
+  const editals  = data?.editals || PREPOM_FALLBACK.editals;
+  const urgentes = editals.filter(e => e.urgente);
+
+  const handleSubscribe = async (ev) => {
+    ev.preventDefault();
+    if (!email.includes('@')) return;
+    setSubStatus('sending');
+    try {
+      const resp = await fetch(FORMSPREE_ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+        body: JSON.stringify({ nome, email, _subject: `[PREPOM] Novo cadastro — ${nome || email}` }),
+      });
+      setSubStatus(resp.ok ? 'ok' : 'err');
+    } catch {
+      setSubStatus('err');
+    }
+  };
 
   return (
     <div className="section">
+
+      {/* Banner urgente — aparece só quando há editais com inscrições abertas */}
+      {!loading && urgentes.length > 0 && (
+        <div style={{ marginBottom:24, padding:'16px 20px',
+          background:'rgba(239,68,68,0.1)', border:'1px solid rgba(239,68,68,0.35)',
+          borderRadius:12, display:'flex', alignItems:'center', gap:14 }}>
+          <span style={{ fontSize:28, flexShrink:0 }}>🚨</span>
+          <div style={{ flex:1 }}>
+            <div style={{ fontSize:14, fontWeight:800, color:'#f87171', letterSpacing:0.3 }}>
+              {urgentes.length} EDITAL{urgentes.length > 1 ? 'S' : ''} COM INSCRIÇÕES ABERTAS AGORA
+            </div>
+            <div style={{ fontSize:13, color:'#94a3b8', marginTop:3 }}>
+              {urgentes.map(e => e.categoria).join(' · ')} — não perca o prazo de inscrição
+            </div>
+          </div>
+          <a href={urgentes[0]?.link || '#'} target="_blank" rel="noopener noreferrer"
+            style={{ padding:'8px 16px', background:'#ef4444', border:'none', borderRadius:8,
+              color:'#fff', fontSize:13, fontWeight:700, textDecoration:'none', whiteSpace:'nowrap', flexShrink:0 }}>
+            Ver edital →
+          </a>
+        </div>
+      )}
+
       <p className="section-label">Marinha do Brasil</p>
       <h2 className="section-title">Alertas PREPOM</h2>
-      <p className="section-sub" style={{ marginBottom:36 }}>
+      <p className="section-sub" style={{ marginBottom:28 }}>
         Monitoramos os canais oficiais da Marinha e Google News. Quando sair um edital você é avisado imediatamente.
       </p>
 
       {/* Stats */}
-      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr 1fr', gap:12, marginBottom:32 }}>
+      <div style={{ display:'grid', gridTemplateColumns:'1fr 1fr 1fr', gap:12, marginBottom:28 }}>
         {[
-          { label:'Alertas este mês', val: loading ? '…' : String(stats.alertas_mes), color:'#0ea5e9' },
-          { label:'Último edital',    val: loading ? '…' : stats.ultimo_edital,        color:'#34d399' },
-          { label:'Editais no radar', val: loading ? '…' : String(stats.vagas_detectadas), color:'#a78bfa' },
+          { label:'Alertas este mês',  val: loading ? '…' : String(stats.alertas_mes),       color:'#0ea5e9' },
+          { label:'Último edital',     val: loading ? '…' : stats.ultimo_edital,              color:'#34d399' },
+          { label:'Editais no radar',  val: loading ? '…' : String(stats.vagas_detectadas),   color:'#a78bfa' },
         ].map(s => (
           <div key={s.label} className="stat-card">
             <div className="stat-label">{s.label}</div>
@@ -906,10 +953,78 @@ function Prepom() {
         ))}
       </div>
 
+      {/* ── Formulário de inscrição de alertas ─────────────────────────────── */}
+      <div style={{ marginBottom:28, padding:'22px 24px',
+        background:'linear-gradient(135deg, #0f1b2e 0%, #0b1829 100%)',
+        border:'1px solid rgba(14,165,233,0.3)', borderRadius:14 }}>
+
+        <div style={{ display:'flex', alignItems:'flex-start', gap:12, marginBottom:16 }}>
+          <span style={{ fontSize:24, flexShrink:0, marginTop:2 }}>📬</span>
+          <div>
+            <div style={{ fontSize:15, fontWeight:700, color:'#fff', marginBottom:3 }}>
+              Receba o alerta antes de todo mundo
+            </div>
+            <div style={{ fontSize:13, color:'#64748b', lineHeight:1.5 }}>
+              Assim que sair um edital PREPOM — MOC, MOM, CTS, ELT ou CDM — você recebe um e-mail na hora.
+              Sem custo, sem spam.
+            </div>
+          </div>
+        </div>
+
+        {subStatus === 'ok' ? (
+          <div style={{ padding:'14px 18px',
+            background:'rgba(52,211,153,0.1)', border:'1px solid rgba(52,211,153,0.3)',
+            borderRadius:10, fontSize:14, color:'#34d399', fontWeight:600 }}>
+            ✅ Cadastrado! Você será avisado assim que sair um novo edital.
+          </div>
+        ) : (
+          <form onSubmit={handleSubscribe}
+            style={{ display:'flex', gap:10, flexWrap:'wrap', alignItems:'flex-start' }}>
+            <input type="text" placeholder="Seu nome (opcional)" value={nome}
+              onChange={ev => setNome(ev.target.value)}
+              style={{ flex:'1 1 130px', padding:'10px 14px',
+                background:'#132035', border:'1px solid #1e3a5f',
+                borderRadius:8, color:'#e2e8f0', fontSize:14, outline:'none' }}
+            />
+            <input type="email" placeholder="Seu e-mail" value={email} required
+              onChange={ev => setEmail(ev.target.value)}
+              style={{ flex:'2 1 200px', padding:'10px 14px',
+                background:'#132035', border:'1px solid #1e3a5f',
+                borderRadius:8, color:'#e2e8f0', fontSize:14, outline:'none' }}
+            />
+            <button type="submit" disabled={subStatus === 'sending'}
+              style={{ padding:'10px 22px', background: subStatus === 'sending' ? '#0369a1' : '#0ea5e9',
+                border:'none', borderRadius:8, color:'#fff', fontSize:14,
+                fontWeight:700, cursor: subStatus === 'sending' ? 'not-allowed' : 'pointer',
+                whiteSpace:'nowrap', transition:'background 0.15s' }}>
+              {subStatus === 'sending' ? 'Enviando…' : '🔔 Me avise'}
+            </button>
+            {subStatus === 'err' && (
+              <div style={{ width:'100%', fontSize:13, color:'#f87171', marginTop:2 }}>
+                Falha ao cadastrar. Tente novamente ou fale conosco no WhatsApp.
+              </div>
+            )}
+          </form>
+        )}
+
+        {/* WhatsApp alternativo */}
+        <div style={{ marginTop:14, paddingTop:14, borderTop:'1px solid rgba(255,255,255,0.06)',
+          display:'flex', alignItems:'center', gap:10, flexWrap:'wrap' }}>
+          <span style={{ fontSize:12, color:'#475569' }}>Prefere WhatsApp?</span>
+          <a href="https://wa.me/55NUMERO?text=Oi%2C%20quero%20receber%20alertas%20PREPOM"
+            target="_blank" rel="noopener noreferrer"
+            style={{ fontSize:12, fontWeight:600, color:'#22c55e',
+              textDecoration:'none', display:'flex', alignItems:'center', gap:5 }}>
+            <span>💬</span> Envie "PREPOM" no WhatsApp →
+          </a>
+        </div>
+      </div>
+
       {/* Status de fonte */}
       {!loading && (
-        <div style={{ marginBottom:20, display:'flex', alignItems:'center', gap:8, fontSize:12, color: erro ? '#f87171' : '#22c55e' }}>
-          <span>{erro ? '⚠' : '●'}</span>
+        <div style={{ marginBottom:16, display:'flex', alignItems:'center', gap:8,
+          fontSize:12, color: erro ? '#f87171' : '#22c55e' }}>
+          <span style={{ fontSize:8 }}>{erro ? '⚠' : '●'}</span>
           {erro
             ? 'Monitor offline — execute monitor.py para atualizar'
             : `Dados atualizados · ${data?.updated_at ? new Date(data.updated_at).toLocaleString('pt-BR') : '—'}`
@@ -920,13 +1035,23 @@ function Prepom() {
       {/* Lista de editais */}
       {loading ? (
         <div style={{ textAlign:'center', padding:'40px 0', color:'#475569' }}>Carregando editais…</div>
+      ) : editals.length === 0 ? (
+        <div style={{ padding:'32px 24px', textAlign:'center',
+          background:'#0f1b2e', border:'1px solid #1e2d45', borderRadius:12 }}>
+          <div style={{ fontSize:32, marginBottom:10 }}>🔭</div>
+          <div style={{ fontSize:14, fontWeight:600, color:'#94a3b8', marginBottom:4 }}>Nenhum edital aberto no momento</div>
+          <div style={{ fontSize:13, color:'#475569' }}>Cadastre seu e-mail acima para ser avisado quando sair.</div>
+        </div>
       ) : editals.map(p => (
         <a key={p.id} href={p.link || '#'} target="_blank" rel="noopener noreferrer"
            style={{ textDecoration:'none', display:'block' }}>
-          <div className="alert-card" style={{ cursor:'pointer', transition:'border-color 0.15s' }}
-               onMouseEnter={e=>e.currentTarget.style.borderColor='rgba(14,165,233,0.4)'}
-               onMouseLeave={e=>e.currentTarget.style.borderColor=''}>
-            <div className="alert-icon" style={{ background: p.urgente?'rgba(239,68,68,0.15)':'rgba(139,92,246,0.15)' }}>
+          <div className="alert-card"
+               style={{ cursor:'pointer', transition:'border-color 0.15s',
+                 borderColor: p.urgente ? 'rgba(239,68,68,0.3)' : '' }}
+               onMouseEnter={e=>e.currentTarget.style.borderColor= p.urgente ? 'rgba(239,68,68,0.6)' : 'rgba(14,165,233,0.4)'}
+               onMouseLeave={e=>e.currentTarget.style.borderColor= p.urgente ? 'rgba(239,68,68,0.3)' : ''}>
+            <div className="alert-icon"
+              style={{ background: p.urgente ? 'rgba(239,68,68,0.15)' : 'rgba(139,92,246,0.15)' }}>
               {p.urgente ? '🚨' : '🚢'}
             </div>
             <div style={{ flex:1 }}>
@@ -947,16 +1072,19 @@ function Prepom() {
       ))}
 
       {/* Como funciona */}
-      <div style={{ marginTop:24, padding:'18px 24px', background:'#131c2e', border:'1px solid #1e2d45', borderRadius:12 }}>
-        <div style={{ fontSize:14, fontWeight:700, color:'#fff', marginBottom:8 }}>Como funciona o monitoramento</div>
-        <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))', gap:16, marginTop:16 }}>
+      <div style={{ marginTop:24, padding:'20px 24px',
+        background:'#0f1b2e', border:'1px solid #1e2d45', borderRadius:12 }}>
+        <div style={{ fontSize:14, fontWeight:700, color:'#fff', marginBottom:16 }}>
+          Como funciona o monitoramento
+        </div>
+        <div style={{ display:'grid', gridTemplateColumns:'repeat(auto-fit,minmax(200px,1fr))', gap:16 }}>
           {[
-            ['🔍','Monitoramento 24/7','Rastreamos Google News, Bing e canais oficiais da Marinha continuamente.'],
-            ['📱','Alerta imediato','Quando um edital é detectado, você recebe notificação por e-mail na hora.'],
-            ['📋','Histórico completo','Acesse todos os editais anteriores para estudar os padrões da prova.'],
+            ['🔍','Monitoramento diário','Rastreamos Google News, Bing e canais oficiais da Marinha todos os dias.'],
+            ['📧','Alerta por e-mail','Quando um edital é detectado, você recebe notificação por e-mail imediatamente.'],
+            ['📋','Todas as categorias','MOC, MOM, CTS, ELT e CDM — cobrimos todos os perfis de habilitação.'],
           ].map(([icon,title,desc]) => (
             <div key={title} style={{ display:'flex', gap:12 }}>
-              <span style={{ fontSize:20 }}>{icon}</span>
+              <span style={{ fontSize:20, flexShrink:0 }}>{icon}</span>
               <div>
                 <div style={{ fontSize:13, fontWeight:700, color:'#e2e8f0', marginBottom:4 }}>{title}</div>
                 <div style={{ fontSize:12, color:'#64748b', lineHeight:1.5 }}>{desc}</div>
