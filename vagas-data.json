@@ -1,17 +1,40 @@
 {
-  "updated_at": "2026-04-15T08:00:18.719132",
+  "updated_at": "2026-04-16T08:00:18.521128",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "981f297ec1e4",
-      "titulo": "V.Ships abre novas vagas offshore para profissionais marítimos em diferentes funções - CPG Click Petróleo e Gás",
+      "id": "3064251b7602",
+      "titulo": "Concurso da Marinha Mercante abre quase 300 vagas para oficiais - JC Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRlVINXdUZHpUa3NXX1BCN1FDdG9aV0R6WE1JWjJwZkd2T180LUlmd3BVVGlqNlExWE5iVE96Q1JmaGt3bHJqZm96eENGbHlZRzdJNWxCVTlmTW11UGxLWGxOaHpHVWVjSTFpSzZvQ1RDV1BhNDNYQVNGNEZPY1ZlZmY3YmRRZVRxODc3Zndsemh1X3RfamdmQXZmeUo4bS1udk9DWXp1Q1Z2SFo3eUdQT0N0MVYwa2QydGNaNnVtT0tlQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlrTC11eFJWQ1ExR05KcUV3R0IzWGxNYnVzOVl3TXQ3bWdPWjJ1YVJkOWszU3l5ajFIZVJfS2VOdzd4MjAxdU1hSGhwTjJBMGxEYmJNN3lvSUNGN1ZEMUs2b2swd19JSkJmZnZkWXctX242RHdZZDlkdzNRWVJ6eDMzU2ZNVzdtbWhWeHdqQU9BMElaUFNOUdIBngFBVV95cUxOem1XT1lFQW11WklOU0Fzbml4VjJJRHNkZDZpWW9FYTh4S2R0VVRJNHBEc2V3SkE4Q3VMZG9xbU1KRGEtdjdoaERHTm9JNkc4QXhKS2MxVFVqLS1pbXBzVlRxaVY1VDlsLXU1Tnl2bFpEUWQ0eC1WQlhpVklGNUxreGJ6UlNSMTZOeDJCMFZCc203Qkt5OXl6OGlaUFBYdw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "d7d0bd3f3ad3",
+      "titulo": "Multinacional Airswift abre vagas de emprego hoje (15) no Rio de Janeiro e Aracajú para Enfermeiro offshore - CPG Click ",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNTVRVXVqTDg3MWJTd1VOSy1mZW5tX3RUeE5oSjRMbGxydGpoR1lKWEtvNU5sbjdtRVUzbElfbW5udFR1WXZEMTVjWUVOSzJBTTU5WFJISVI3SWRYdmdwUllZX0hYQ1JzMWxIODBDcGhrNm1nUmx6T3FxLVVIeHNBLWFoWloxb0tiUG9qSHpPQUpWM2syX2lGYUVJZkJURkpGQ1d4UHNVaFE0RHdtWHlEZUZqcmwxN2c4alo5M1RRY1J1ZE5jMTZYdWN5RkxGcjEzNjBVYkNR?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
+      ]
+    },
+    {
+      "id": "49130670cc3a",
+      "titulo": "Campos é incluída no Programa Empregos Azuis e oferecerá qualificação Offshore - Prefeitura de Campos dos Goytacazes",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VOTh5LU1TS01jNFNLaGZkUWV1ejVjcDRlUVZVUDkwSGZrUlBYRDZmY1Q3UzFfeVprZE82OGxiRVVzdV9nRVJTUUxMMWpLejhKeklHZlFfRndVY0RTRE1mWG5QWnNvWFBGTWw2Vld2bDg?oc=5",
       "keywords": [
         "offshore"
       ]
