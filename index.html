@@ -439,6 +439,126 @@ const VAGAS_FALLBACK = [
   { id:'f1', titulo:'Monitor de vagas ativo — execute monitor_vagas.py para carregar vagas reais.', keywords:['embarcado'], fonte:'MONITOR', data:'—', urgente:false, link:'#' },
 ];
 
+// ─── MEMBERSHIP GATE ─────────────────────────────────────────────────────────
+// Código de acesso entregue ao membro após a compra.
+// Para trocar: altere MEMBER_ACCESS_CODE abaixo e comunique o novo código aos membros.
+const MEMBER_ACCESS_CODE = 'ROTA2026';   // ← TROQUE ESTE CÓDIGO
+const LS_KEY = 'ng_member_v1';
+
+function useMember() {
+  const [member, setMember] = React.useState(() => localStorage.getItem(LS_KEY) === '1');
+  const unlock = () => { localStorage.setItem(LS_KEY, '1'); setMember(true); };
+  const logout  = () => { localStorage.removeItem(LS_KEY);   setMember(false); };
+  return { member, unlock, logout };
+}
+
+function MemberGate({ onUnlock }) {
+  const [code,   setCode]   = React.useState('');
+  const [err,    setErr]    = React.useState(false);
+  const [shaking, setShaking] = React.useState(false);
+
+  const tryUnlock = (ev) => {
+    ev.preventDefault();
+    if (code.trim().toUpperCase() === MEMBER_ACCESS_CODE) {
+      onUnlock();
+    } else {
+      setErr(true);
+      setShaking(true);
+      setTimeout(() => setShaking(false), 500);
+    }
+  };
+
+  return (
+    <div style={{ minHeight:'60vh', display:'flex', alignItems:'center', justifyContent:'center', padding:'40px 20px' }}>
+      <div style={{ maxWidth:480, width:'100%', textAlign:'center' }}>
+
+        {/* Cadeado */}
+        <div style={{ width:72, height:72, borderRadius:20,
+          background:'linear-gradient(135deg,#0f1b2e,#1a2744)',
+          border:'1px solid rgba(14,165,233,0.25)',
+          display:'flex', alignItems:'center', justifyContent:'center',
+          fontSize:32, margin:'0 auto 24px' }}>
+          🔒
+        </div>
+
+        <h2 style={{ fontSize:22, fontWeight:800, color:'#f1f5f9', marginBottom:10, letterSpacing:-0.5 }}>
+          Conteúdo exclusivo para membros
+        </h2>
+        <p style={{ fontSize:14, color:'#64748b', lineHeight:1.6, marginBottom:32 }}>
+          O cronograma, os alertas PREPOM e as vagas embarcadas são recursos da comunidade
+          <strong style={{ color:'#94a3b8' }}> Rota Marítima Segura</strong>.
+          Faça parte para acessar tudo.
+        </p>
+
+        {/* CTA principal */}
+        <a href="https://payment.ticto.app/OB05AA938" target="_blank" rel="noopener noreferrer"
+          style={{ display:'block', padding:'14px 24px', marginBottom:16,
+            background:'linear-gradient(135deg,#f59e0b,#d97706)',
+            borderRadius:10, color:'#0b1120', fontSize:15, fontWeight:800,
+            textDecoration:'none', letterSpacing:0.2 }}>
+          🚢 Quero me tornar membro — Entrar agora
+        </a>
+
+        {/* Benefícios rápidos */}
+        <div style={{ display:'flex', flexWrap:'wrap', gap:8, justifyContent:'center', marginBottom:32 }}>
+          {['📅 Cronograma por categoria','🚨 Alertas PREPOM','⚓ Vagas embarcadas','👥 Comunidade ativa'].map(b => (
+            <span key={b} style={{ padding:'5px 12px',
+              background:'rgba(14,165,233,0.08)', border:'1px solid rgba(14,165,233,0.15)',
+              borderRadius:20, fontSize:12, color:'#94a3b8' }}>{b}</span>
+          ))}
+        </div>
+
+        {/* Divisor */}
+        <div style={{ display:'flex', alignItems:'center', gap:12, marginBottom:24 }}>
+          <div style={{ flex:1, height:1, background:'#1e2d45' }}/>
+          <span style={{ fontSize:12, color:'#334155', whiteSpace:'nowrap' }}>Já sou membro</span>
+          <div style={{ flex:1, height:1, background:'#1e2d45' }}/>
+        </div>
+
+        {/* Input de código */}
+        <form onSubmit={tryUnlock}
+          style={{ display:'flex', gap:8,
+            animation: shaking ? 'shake 0.4s ease' : 'none' }}>
+          <input
+            type="text"
+            placeholder="Código de acesso"
+            value={code}
+            onChange={ev => { setCode(ev.target.value); setErr(false); }}
+            style={{ flex:1, padding:'11px 16px', background:'#0f1b2e',
+              border: `1px solid ${err ? '#ef4444' : '#1e3a5f'}`,
+              borderRadius:8, color:'#e2e8f0', fontSize:14, outline:'none',
+              letterSpacing:2, textTransform:'uppercase' }}
+          />
+          <button type="submit"
+            style={{ padding:'11px 20px', background:'#0ea5e9',
+              border:'none', borderRadius:8, color:'#fff',
+              fontSize:14, fontWeight:700, cursor:'pointer', whiteSpace:'nowrap' }}>
+            Acessar
+          </button>
+        </form>
+        {err && (
+          <div style={{ marginTop:8, fontSize:13, color:'#f87171' }}>
+            Código inválido. Verifique o código recebido após a compra.
+          </div>
+        )}
+        <div style={{ marginTop:10, fontSize:12, color:'#334155' }}>
+          Recebeu seu código por e-mail após a compra.
+        </div>
+
+      </div>
+      <style>{`
+        @keyframes shake {
+          0%,100%{transform:translateX(0)}
+          20%{transform:translateX(-8px)}
+          40%{transform:translateX(8px)}
+          60%{transform:translateX(-6px)}
+          80%{transform:translateX(6px)}
+        }
+      `}</style>
+    </div>
+  );
+}
+
 // Fonte de dados PREPOM — gerado pelo monitor.py
 // Localmente: ../prepom-monitor/output/prepom-data.json (copiado para ./prepom-data.json pelo monitor)
 const PREPOM_DATA_URL = './prepom-data.json';
@@ -451,7 +571,7 @@ const PREPOM_FALLBACK = {
 };
 
 // ─── NAV ─────────────────────────────────────────────────────────────────────
-function Nav({ tab, setTab }) {
+function Nav({ tab, setTab, member, onLogout }) {
   return (
     <nav className="nav">
       <div className="nav-logo">
@@ -460,12 +580,32 @@ function Nav({ tab, setTab }) {
       </div>
       <div className="nav-links">
         {[['home','Início'],['cronograma','Cronograma'],['vagas','Vagas'],['prepom','PREPOM']].map(([id,label]) => (
-          <button key={id} className={`nav-link ${tab===id?'active':''}`} onClick={()=>setTab(id)}>{label}</button>
+          <button key={id} className={`nav-link ${tab===id?'active':''}`} onClick={()=>setTab(id)}>
+            {!member && ['cronograma','vagas','prepom'].includes(id)
+              ? <span style={{ opacity:0.5 }}>🔒 {label}</span>
+              : label}
+          </button>
         ))}
       </div>
       <div className="nav-actions">
-        <a href="https://payment.ticto.app/OB05AA938" target="_blank" rel="noopener noreferrer" className="btn-comprar">🚢 Quero Entrar</a>
-        <a href="https://app.navegaguia.com.br" target="_blank" rel="noopener noreferrer" className="btn-login">Área do Membro</a>
+        {member ? (
+          <>
+            <span style={{ fontSize:12, color:'#22c55e', fontWeight:600, display:'flex', alignItems:'center', gap:5 }}>
+              <span style={{ fontSize:8 }}>●</span> Membro ativo
+            </span>
+            <button onClick={onLogout}
+              style={{ padding:'7px 14px', borderRadius:8, fontSize:12, fontWeight:600,
+                color:'#64748b', border:'1px solid rgba(100,116,139,0.3)',
+                background:'transparent', cursor:'pointer' }}>
+              Sair
+            </button>
+          </>
+        ) : (
+          <>
+            <a href="https://payment.ticto.app/OB05AA938" target="_blank" rel="noopener noreferrer" className="btn-comprar">🚢 Quero Entrar</a>
+            <a href="https://app.navegaguia.com.br" target="_blank" rel="noopener noreferrer" className="btn-login">Área do Membro</a>
+          </>
+        )}
       </div>
     </nav>
   );
@@ -1098,10 +1238,21 @@ function Prepom() {
 }
 
 // ─── APP ──────────────────────────────────────────────────────────────────────
+const PROTECTED_TABS = ['cronograma', 'vagas', 'prepom'];
+
 function App() {
   const [tab, setTab] = useState('home');
+  const { member, unlock, logout } = useMember();
 
   const renderContent = () => {
+    // Abas protegidas: bloqueia se não for membro
+    if (PROTECTED_TABS.includes(tab) && !member) {
+      return (
+        <div style={{ paddingTop:68 }}>
+          <MemberGate onUnlock={unlock}/>
+        </div>
+      );
+    }
     if (tab === 'home')       return <><Hero setTab={setTab}/><Features setTab={setTab}/></>;
     if (tab === 'cronograma') return <Cronograma/>;
     if (tab === 'vagas')      return <Vagas/>;
@@ -1110,7 +1261,7 @@ function App() {
 
   return (
     <>
-      <Nav tab={tab} setTab={setTab}/>
+      <Nav tab={tab} setTab={setTab} member={member} onLogout={logout}/>
       <div style={{ paddingTop: tab === 'home' ? 0 : 68 }}>
         {renderContent()}
       </div>
