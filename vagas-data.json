@@ -1,86 +1,74 @@
 {
-  "updated_at": "2026-04-20T08:00:18.816062",
+  "updated_at": "2026-04-22T08:00:17.351002",
   "stats": {
-    "total_vagas": 7,
-    "vagas_hoje": 7
+    "total_vagas": 6,
+    "vagas_hoje": 6
   },
   "vagas": [
     {
-      "id": "a5667ef5a178",
-      "titulo": "Gabarito Extraoficial Concurso Marinha Mercante 2026 - Academia Concursos",
+      "id": "ae928ad3e154",
+      "titulo": "Marinha Mercante abre 370 vagas para Segundo Oficial de Máquinas e Náutica - PCI Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTTUtVXBZSDg2NmtZY0xDeGQ4ZlJCdzhaMUloNENENU9tbV9SVDU5OTNRWE5mbXhVNDZuUzlwUWlaaTdUWmM2N0NzV3lfS0F6alVWdFVMMVd2SkZJSElFYWs0TUlHZnZlVkw4a3d6dmY5SzFsRDdrdUN3ZFpwMDJ1RjlXVlVLd3U3OTZPOG5Dcw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzRmbmc1QWtkYUV0TmhlZnhiemRLa1U2WUtQVFpZZy1nTW9jbGw4UVA5ZzRZc210WlVTaW5WMlktMGZyMUl5aDBpUUJrX1VqX2VmTzNXMkI3QmlZVEV6bi1FdlIyNWozTjVnMHpTTWI1N3ZVUTRHdlBNRU5mYUFHajRMYnVFQjcydjFxekdnemNjR0tpT2dibG00aFpYdFFrRnVVMkdNQlc1dXVNbERvUlk5M2F0UQ?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "ea08f7541bda",
-      "titulo": "Oceânica Engenharia oferece dezenas de vagas offshore e onshore em Macaé e Rio das Ostras - ODEBATEON",
+      "id": "51a90c0ffac8",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 6 bilhões em projetos para o setor naval — Portos e Aeroportos - www.gov.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGxINVN2LXc0TmdYZmxRYW1EaUpLbzNVa3QyX0VGbjVkMEI4aUU3TkJuWDJwYnNOTU5CWWc5STB1dXZBMU5EN05tTm1vdFJDeDBFeGhBcDhJNnRjRl9NdWRRdmY4aE5JN2thX0NvdlVoaWhmcTZCZzQ5a3pZcV93TUZWUm9oLVNSRHVfMnBtdzBjNWVoUmx5SC1NeDBEOGkxX0hJNzhobWtnU1NCYjFxdU9fbS1fd9IBuwFBVV95cUxQWTNJdURIbTFSc0ZjWUJvRzBWREJ6NHBTQTNWNVF6LUU3eHF0aU1Kcm5YYU8xeFluWjlCQk1ycmFpajlKSm0xeEdBbE9MeVBYTVVtNXlrNXo3Z2NQbzFhbS1raHFpaWUtVURHWGIxbHdXS0VhZ3BIR2dMMXYtSWJrU1BJTmJZTDhCNVRDNWxGckhnaTNIRzNRcnZWNzNvdzZpOExzY1FXWW1DTk9vX181Tm4yaWxRb3lhM3F3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNDJiTzVTb0dualM5M0ttamVaNHpJcVBPMVdGZU9MNGNraW5qc0s0UC1VWTlKUU9vY3NlWmoxMUpnNTNKMHNqeFFCeE1sX3VXOUpybUdVNjJSeG5nVjZCd2w5WDFhdHEyWlFFdGFrSTVuR1QwdXBuSHNQTGVvOEVoY2o3Wml4RVB3dGR3X2x2Q0s4eFdLSUZRVTdaUkVxUFFkdnN6MklGaWZwaVRzUTg3Y3lOYWFhZG0tTWI2WHFXZWpXUVlabjhXQW56bGhlMmNYU0hfRVRDaHRpeXk0LTVv?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "303926f95b41",
+      "titulo": "Multinacional do setor de Óleo e Gás DOF Subsea abre Vagas Offshore no Brasil e outras para pessoas com Ensino Médio, Té",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaHR1TXBuRkpLY3hvTWJXaEFpRDNuUTUwM3NnRUxoMHI3b2dWcmNlQnhrbUJaUkJvQm05MXZpbFYtaXMxeHlZYUtWYk9pM0lzZUtYMGc5MmkwZGp3RFQ0RVZmOE1ZdU5xN3FHMFV2dVdodkgweFRZLW9OU0ItYm8yeUN3cFJ4dGs3OEduZzhSZzVmdXNCUzROZEFFLVV6YTlwcHA2ME5qcEV4MVRoRmlaSGdLSGNmU2FjcHhKRzl5a2VFQTlqRDBiTGxSV05vSjRid0p2RlhMOWJnYlJEQWRxVFU0VGVOdjNWcVlrVW9ZREhJNnczYzRTSUpyaXJ4SE0?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "b59f472eecaf",
-      "titulo": "Vagas offshore – prestadora de serviços está contratando bombeador, enfermeiro, mestre de cabotagem e técnico de cargas ",
+      "id": "543f4b6ff786",
+      "titulo": "Bram Offshore abre vagas offshore e onshore para diversas áreas no setor de petróleo e gás; oportunidades incluem cargos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRGRMdTEwZHJnMnZDY0lFaHZCMEdtamhUb1NHdFRLY0xGZ21mZHo2N1UxSFdNd0dHSU9CMklqYXVmcEtiTVlSRVFJd3I3NTVMcUUxejY3ZTBWSzhxSTlCODA4dTdReWhYdzVwQ1pVaXY0bDBZYVg1V1VyTm9ONkRaT3U5a0VDaHMyMDg5a0NYT3pTVlFXa3d0bDNvY2ZGOWhaNFpJXzN5NFQzRlRyT094V1Q0cFhiSkVPR09INXhWdUNzR1RxU2IwVS1PWEdzUWRZaFh0N0lrUHNNbkUxZ3AzaXhDemxwN1RGV3puUk1ER1FBX3A4?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "offshore"
-      ]
-    },
-    {
-      "id": "aec7d7b0d669",
-      "titulo": "Setor Offshore: Conheça as profissões e salários que são pagos pra quem se aventura em plataformas em alto mar! - CPG Cl",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX24yU20wVmhleHVaYy1MUGlTejNxeXlBTXprb0VoQTMwLWdkR1FCNTQxcGM3UG4zbXI5SGNIMWQ4MmJIZE9XMi13ZXlUODF5Mzd4dDF6djBMMW5fZzB6YmQtOXVhLTlIc1pxaDZDbFA1anhQemdoTDM2RWRFVUFUYTYySm5qMF9MWUlZVW9tRTExNFMtUUJPc04tMkZJV2RSRGxVNl9qWDhRRFM4bkNPN2JDVjg2em5PTjJ3ZW9kZTV5dGJrX1JGMURlR2N2OGd2cG1sOFBud2IwY1E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHVwaEo3UEYzaU1mNUlkMHBXOV9ucEtVdkw1WVN5ZDVQMUJiVkxsSzhmdG9QREZuMmZZOWdSZzNOTFUyRV9mdGtNbTM1V0dHNlBsTGV1bmtYSHRNQ2E1cEZ2cEhGbk1VQmtGenV6Y2g3N3ZVUjFYdUdhVkoyM1ZvSG1wV01VMmItNFFwaUpMdGhJM2pzUi01enJMaEk1Snowc3Jjb3R1SmpNT3pSUGdWcHZobWJMZ1JPa2x3TEZSRjNadw?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "2257c2ab6280",
-      "titulo": "É formado em Enfermagem ou tem Técnico na área? Então trabalhe em plataforma de petróleo offshore no Brasil - CPG Click ",
+      "id": "44672f18739c",
+      "titulo": "Vagas Offshore da Breeze Services para regime embarcado 14×14 em Aracaju e região com entrevistas até 16/05, mande seu c",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenJScWpFem5nSTM0eUpBa0ZrZXR1Zl9DaGlmbVJaWDV4SUFxcFVPT3oxNFE4WnM0d01FWjY2R1B0Ql9IdFFRR0wwODhUaUNjV3lnY29Eb0ZrUEhiNXBNcVVBVldxVmtNaXN0cW9NNlBKSC1RU0R4SmhFT3pHZVpGR19TczFHdHVLdTh0RmgtMVZyME5SQUtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVWJRY1gzRHFNRkdYTzJmb1NiTTItSHoyWjgxVklrSDdkdl94NWxNemlOYk1NeU1lb1lkMU9WRDRhc0Z4YVZHRjZDaUhNWllMSTNrYlZ0LVp2ck0weHhBSjlUci10MU9wdnV2Zlc0VnI3cjYwTlhEUk5jWTV5S1F0c3BIVDc5OTJkbEVYdEpBQi1fZTUwY05vb2tBM3NNUWE3aVFLQktYN1pJRnFuZ1dleTZiWnZqNkZaWHo1Wm15Y0NEWFJjV1FTTWNSZDhLMHY2dTgyMi1lTzlUWWFEUE04SzIySkdFTWlnUmJVWVhIdmNRZmRHRmx2YmZVQ1k1QzM4MHRHenRCNXBHNjQ?oc=5",
       "keywords": [
-        "offshore"
+        "offshore",
+        "embarcado"
       ]
     },
     {
-      "id": "ef0734ebde50",
-      "titulo": "Buscando vagas de emprego offshore no Brasil? Saiba quais empresas (Subsea 7, Technip+) contratam, certs exigidos e onde",
+      "id": "d03649b831d4",
+      "titulo": "Baru Offshore abre uma nova vaga offshore para trabalhar embarcado em escala 28 x 28; empresa também oferece benefícios ",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTXNobFVwbW1OWWpNY1ZrR2dxZE1UTmUxSUZlbFRhUmkzbE1BcUZ5dXoteU42Ny1IaGxzTUdZU0NLaHhnOWtrOWliVFBBVkJrb0N4VDJmQ1BvUDdWTWJYUWJLZXN0eFV2Rm1KN2JTcVY0OW1RczFBTGduSkhXQXJMa1lodzFnTVhFMXdWaTZFdHRORzlDX1gyN080T19sdEttSzROMHRYa2FSLWRZMl9iRVJhZDk5Y0ZDTkF0bjlia1ZRbU5kbWRHRExacG1IZ3RTUThlbUVha2J4VHBfb0ZMU2diVU9LUXlDWC1IUVI3Nk81dTR0eWpJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNREsxWFFjSFVnZUsxd09OZUZTbW5QSW9WRGVHUlQ2V3hCbTFXQmtaUDVsYVJpYlZJUTdlS0k0MU9PMEpMUkhlT2J1bzRvSGxNVXNYUWlUWFBUbmdUZDlBZDB6eVN2TWtkQmtSV3ZTVGlvQkRBa0VZX0tfaFh4RVdpemFsYXBBUzZkMXljQVdvQy1td0FrUDZPd2F4dG9SaDdqdDNOV0hjLXZ5T3VlOHdJSVkxd1BZTjBiV1dPeU9HYVJfa09OM0dXVUhvaTVSSkt4ZmhnZmNlR0xXVG1fTTl3UmMyeEVKZnZQVDViejdZQmtfMEt1dEZHU1FHU095UElEa19wOWVsSzE1ZHZkRXdoZjhuM25CVm1OSmNxeVowR2tEaEFlTVNrZ2IyUVkxQ191SW11Y0ZLRE53azl6UTFRMXI5TUEzUEgwN0E?oc=5",
       "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "eecece21b74e",
-      "titulo": "MODEC abre vaga offshore para quem quer trabalhar embarcado no RJ como Enfermeiro - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR1JENXV3VGR0bDNKLTlySDJlUm1fZjJrTU1BZk9KX0tIbjRzOGpTelVkd08zN181d0VNSWFMb3pjMlVlSnlnbzhPbnJDbzlFSWl2M1NjVnlxSDI0aUNTMjlSNjBsSzBJejFEdkM0RHV5SHBxbnFzWENlLUNxa2RDb2h6WFBBUGhzTmN3YWJScE5FSjFLMWo3U0ZUV2NuaG94UDZiSmlROUtxYXJ0d3ZxalYtX0E1Rk02R2pUajVkb0JmLVRIRXE1NmIxamh5MjliSUFVRVRhdU9OY2JXVEZjXw?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
         "offshore",
         "embarcado"
       ]
