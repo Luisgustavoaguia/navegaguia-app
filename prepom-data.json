@@ -1,9 +1,50 @@
 {
-  "updated_at": "2026-04-23T08:00:06.904841",
+  "updated_at": "2026-04-23T08:02:47.087827",
   "stats": {
-    "alertas_mes": 0,
-    "ultimo_edital": "—",
-    "vagas_detectadas": 0
+    "alertas_mes": 4,
+    "ultimo_edital": "Hoje",
+    "vagas_detectadas": 4
   },
-  "editals": []
+  "editals": [
+    {
+      "id": "be298c0f87af",
+      "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
+      "fonte": "GNEWS-1",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
+      "categoria": "GERAL",
+      "cidade": "Google News — PREPOM edital aquaviário"
+    },
+    {
+      "id": "caf2cc70b2ef",
+      "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
+      "fonte": "GNEWS-2",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
+      "categoria": "GERAL",
+      "cidade": "Google News — PREPOM inscricoes Marinha"
+    },
+    {
+      "id": "dbd3521200a9",
+      "titulo": "CPRJ realiza 1ª etapa do processo seletivo para admissão ao CFAQ-MOC e CAAQ-CTS | Com1DN - Marinha do Brasil",
+      "fonte": "GNEWS-2",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkl6U1RLNUFnN2hiakhTaGZfRjVWWVdXaTEyazFhejU5QkI5b3VRc3lwcHlNZUh6VkVMcWRVSWlqVFlmR3dyQmswd1BkOXBTY1ByZl96WmI0aEY0VEtGSldNZURJTHNFOGxyQTR6QVJ4SUtaMi1XcVhYOTBrOHUzY0VISDhkNW4yeHVKOWdISHcxdXpDUzJVWmZMcWtFM1lDVG1YS3hucEtJOGIxSy1RMGU2R0JUTkd1R3g5Z0JQa1JYZw?oc=5",
+      "categoria": "CTS",
+      "cidade": "Google News — PREPOM inscricoes Marinha"
+    },
+    {
+      "id": "26bdddf5b80d",
+      "titulo": "CPRJ realiza 1ª etapa do processo seletivo para admissão ao CFAQ-MOC e CAAQ-CTS | Com1DN - Marinha do Brasil",
+      "fonte": "GNEWS-2",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkl6U1RLNUFnN2hiakhTaGZfRjVWWVdXaTEyazFhejU5QkI5b3VRc3lwcHlNZUh6VkVMcWRVSWlqVFlmR3dyQmswd1BkOXBTY1ByZl96WmI0aEY0VEtGSldNZURJTHNFOGxyQTR6QVJ4SUtaMi1XcVhYOTBrOHUzY0VISDhkNW4yeHVKOWdISHcxdXpDUzJVWmZMcWtFM1lDVG1YS3hucEtJOGIxSy1RMGU2R0JUTkd1R3g5Z0JQa1JYZw?oc=5",
+      "categoria": "MOC",
+      "cidade": "Google News — PREPOM inscricoes Marinha"
+    }
+  ]
 }
