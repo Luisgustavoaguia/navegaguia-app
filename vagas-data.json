@@ -1,83 +1,28 @@
 {
-  "updated_at": "2026-04-22T23:46:52.452831",
+  "updated_at": "2026-04-23T08:00:19.815367",
   "stats": {
-    "total_vagas": 7,
-    "vagas_hoje": 7
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "981889c14db5",
-      "titulo": "Marinha Mercante abre concurso nível médio em Belém com ótimos salários - DOL",
+      "id": "fc3fe272e0e7",
+      "titulo": "Belém e Rio: aberta seleção para oficiais da Marinha Mercante - DOL",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORllnemtKVnVqNk5kOURaTm9FZHhjZTFnSTNucTlFYWlVem9IbzhyT0tDUEJONV9PVjdCSFQ4eXdxTzA1WVNGdEV4eXlSY19fSC1NalVVeWtVb1BROFJnX0VfQlpLNVp0a3IwS0tPSUZLREdiRm4zNzFVNk1EZkJ4VFpCaVlKNE55ZjB5Tldqakh5MWh6bi1HdkxmanlCdExDVDdkVmdKeFJRMFctX1J0SUtKcnRkVFHSAb8BQVVfeXFMTlhwN0xreU9hclF3WjZDN0tNaEJDMk83T004Nkl5MU9ma3Z6NW5xVmstd1NTdk1uT0JVRGlxQmtLVzhFOGt4dWVsN0gweDhlRlh6azhfNGxYZ1pVbXRDc0VlUGRUTElTSzVEcndhTlUzamsxVjZmS1BqSTQyTW9QQ05pZXRXM0otNTA3RkdiQUFPdmR6VmN6Y25IelpjMlAyYlI4dnJWejVES0N2dnlUUXRYQXlENW1zQ0dWVHZjRk0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQkNOcTRiUWJkdmJWd1g5VjRJcTRmZGxIcGpqNDRoaHN3NVZ2NzBENzBHMkxTV3IzQkJWUzJGMkY2X2Q5eC1KNEtudm5mSG15QmJfNHBsWURIYjZQTm0ta0pRbnBnWF81VG1lRzg5ZXpqNEhkZnhjWHRPY1VIT2k1ZHp2UDNreXJiTm13ajVxZ2h0SkQtcnRFZ2RVY2dFQ3lFTFhnOXA5MWfSAbABQVVfeXFMTTU0QXBrM1Qzdm5QNjJJVlNfbTdNWGhvQmEzRUJPdTNmTmNaQ3ZlUGZVYlNBazFBZVdURDRuZnFmckVFNk5xcVBNVGtKakswRkJvRVpiel9JX2YwZzNEWHgyWkc1TFZ2R1Y0MUhOOWxUWWNJWWRWdkRWTk4ybHl3OUdCNmVsOVMzdFRCbDJ0WjU5Ymx4T1FOLWxnZ2MxUlhBQTJYdlZzdmxobFZydEVQcjA?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "6e87d42da047",
-      "titulo": "Com investimento de R$ 81 milhões, Fundo da Marinha Mercante impulsiona indústria naval no Sul - Revista Sociedade Milit",
+      "id": "3598924583b3",
+      "titulo": "Prefeitura de Macaé oferece 78 vagas offshore para profissionais qualificados - ODEBATEON",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGlvU0xsTlhVblVpanBmSjhTZm9YVmkyR1dpdjd4T1BLcTBfQzVBbVVkN3N6eFZWUXJVMXd5QmYyY3R6QUNpeDF6UEFmRjBVaFM4ZTkyaW9mMXVvb3JlN1U2UWpXOUdqQlFmZFV4bmJUVHUyaVdHSm1Tb0dGeVNDNFdvWlBsM2owOU1Rc1g0UE13Nmcyck9EQlBzb0FZYy1ZTVZRa0tPZ2UtYTF3R0dOcHN1ZnNMYjZsMzl0bzFtZ0dwY3RWbk1USzVtVE5BWkticnBfSER2VXBwUkFxTmc?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "290cc0f84585",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 5,1 bilhões em projetos portuários visando acelerar modernização de portos, ampliar ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeDNSNzlRU1dyVFk2dXVCSFU5b3gtTGtxdzgwMnJiUE9iNXd6M0w1SFZFSGJuNnFxSXZWMUZkbF9PTVRxeGdlZEhvZEhtYlg0dHBQYTY3UHd3dzFDQzJpZkN4Y0ZPaGRleEZNUHZvNTNOdGNMbFphTl9KZ0Q1Nm5sY0FOV1hKUElwTzZ3ckNhQ3R3TTlsM28zNzRzVFdEeUFoNnFJZnhXVWp3alo2NTBqLWZ1OFpuZEZJQVdXbEZTaFJxcW5UVmxNRmNuQ3RNTXJYTlQ2bm12UXkzeVMwMXZMWkJCQnBscm9NNHdRQmg2WEt2UUNucTZjSHJETnBnZGJQX3FBSjV4Z1VKZDFWWnduSE9jZmVnLWJwRVV1SFBDVnBPRnRqX2V2TmdpM0RLa3hFV1pONmx3?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "3eba57b2db2b",
-      "titulo": "Processo seletivo da Marinha Mercante encerra hoje inscrição para aquaviários - JC Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjBMOERrRk0teUJCNUNnb202alhlM1d2YTlfT1d6eFN3eXpqRU5LbjExbTdBYkpIeVY0eXVXMEd5SnJ2TWdaMXFablk2Qm1VRFowa2gyN2haUlV4NWZfdHlPZmdhUlpLUnRzM0F2RzBuQkVMVFNwMHVKTHFYNktFendjXzFCVjg1NV91bjdZdlJXaW95UWNpc1pDbUJibzU3UE1ESi1RVGo3ZkJUWERXNNIBtgFBVV95cUxNemsxdm13c2h2SGFRVl9NQlRaLTlnc2huOVFQcHd3MF9Eb1Z1MkZjSzZ4WEpkeUlBR21xaEdYOVpXck5mSDdhQUIyYndwQzFMcE16NmF0OVF4aG84RDdWQnhLdHJzQXctSG9ocVRJcV9YLW5UREFGWlFzWnVhN2lKdFdOamlvUUstWGhwWndZZ1otZkJpeDJ6R2pIS0ptUFVpRUhqRGE4amswZGhKNTVrRUtkQVZzUQ?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    },
-    {
-      "id": "90acccb14076",
-      "titulo": "Jovens prestam concurso para Oficiais da Marinha Mercante - Agência Marinha",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTZNRGtQWElPRkFpYlZvRUZZV2U2SmdVTlFIUERibG1QSDJDQkJHVE1ZVzVWdmNraVlJR1RFdldya2lhOG9sb0NsQXpsX3lUT1ZWRzIzZHFBcDJra0Z0UjJlQjlZS0pJcGpuOXc1N0tSTnNycDZaSmlHbWhMY21hT3RYa1EyY1c5MGZKczF4MkE0Y0J2R3k4VTRuQjFJZm11Y0tmYVpvb0J2RGc?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "9e833588067c",
-      "titulo": "Prefeitura de Rio das Ostras anuncia a abertura de 572 vagas de emprego offshore através do seu Banco de Empregos - ODEB",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYk8xZ2ZGcnd0NVN5dDJVRUR1dFctNDJqNzd6SWlJR2xmaGlseE1qLUNGYXJZOUFCeWhPbjhGLVpkN3J3S1pWN0hmZVJ5T25ob0N6NzJ1ZldHSVpQLTA3emtuMjdoWm42UDFnX0xjYUQzVVdmRjN6ZzVVME12aDZGQXd4MkVZbFRsV1U1ZEhKdmtwblRoM3hiMW42SFdYaTBQRl80T2VzTzJvdEZPSnRjajRWd2E2R00yVGc2OEloVThlTnhhaUYwMXo5dDNpVk9HYl9sS21R?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "bc3b7c5def83",
-      "titulo": "As Melhores Vagas de Emprego Industrial, Offshore e Onshore Atualizadas! Veja Oportunidades para Diversas Áreas e Salári",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV3hkSkVNZ3JLdzgtLTNQWXl4akhQU1VkQkVtbVh6ZkhXcmNNdEhrTVJCNEc3eWFkaVZZZ0ZwOWxsalFnOEJ3eXAxQUpBRTNhUXZXdTMzbWNPSTdDMzVwRmNpNUswc09KRl8wcHRhV3pqTFo5NTNnM3dIUXhSYkZSaTVQdWp6VkRLU004ejZEQlZzWHo0TThOTUE5Wk9GUldSUTQzM2lSQ3pmR0pkZzVQT1JfNFlKbWlieExYdE1ndUI5MF9GVUtWTFBUZk9vSmUzVzB2V1lyMXBDVEpuT0syLUpIcUVEc1ZybWhCanhZMjlaUVll?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFSNXljZ2NmV0h5R2JaQ09HRXBxU0sxYjFUQTBUTklsdWNMYTBDSHZNUVNLWlRmNGJURHlwNGZxUzJ3aEtUQm5QLU9TSWRiV3pZclFHR1dzTFpxZVVHTU9sWWJxM0NoMlpRRlFUUVhNVUp6ZGtzMlR3V09WY296SkdGOEhVVjI1RmllOUM0QVJOT2hiSHJVWm5vNHhjSldvZUVIY3ZR?oc=5",
       "keywords": [
         "offshore"
       ]
