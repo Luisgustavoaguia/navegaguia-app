@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-24T08:00:24.901426",
+  "updated_at": "2026-04-27T08:00:22.834841",
   "stats": {
     "alertas_mes": 1,
-    "ultimo_edital": "Hoje",
+    "ultimo_edital": "Há 3 dias",
     "vagas_detectadas": 1
   },
   "editals": [
@@ -10,7 +10,7 @@
       "id": "8e98b93ff9d6",
       "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
       "fonte": "SOCIAL-GERAL",
-      "data": "Hoje",
+      "data": "Há 3 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
       "categoria": "GERAL",
