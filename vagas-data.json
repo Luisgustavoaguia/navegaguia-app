@@ -1,41 +1,19 @@
 {
-  "updated_at": "2026-04-24T08:00:17.812801",
+  "updated_at": "2026-04-27T08:00:21.600644",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
   "vagas": [
     {
-      "id": "dd17fbb54f13",
-      "titulo": "Saipem, multinacional de petróleo e gás, está com vagas de emprego offshore para profissionais de São Paulo e Rio de Jan",
+      "id": "4dcacc6459fe",
+      "titulo": "Concurso Marinha Mercante: último dia de inscrições para vagas de nível médio - JC Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQkRNa0JFb2NjZk04VkVEMXA5ZUxXVEJ3cUNBamx6QnJNRmRKY29yLWZITl9haW5uTi1tM0liVzJxXzRKNDlUMmVucUQzUEtvc2x3RXpRS004YTNyd1BRZE5EVW5GeUtaNG1GdFZwYUhSTlIyalMzN2NFZWt6Z05pa1VvM1ZOaHBYd1ZYMmFTZGdFUF9GcGh3VlY0MkM0YVZRMlJISEFyV3FWSHdlWFhRaHkyVThpTTBEVVlBdU1feWI3R3VDR3A4cG9KVTVONFI3T25QQW9lOVZMVTRRWDVoZWhvZGk?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "028ded27f19b",
-      "titulo": "Transpetro abre 386 vagas para suboficiais e guarnição da Marinha Mercante - TN Petróleo",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOanZ5bFNycXh2cTh5NHFRbTFiT21abzNNZzF6dzJwVmhvYjVBMUhjMGVSTl82QlFKOHNWSG1KX3lxQjZpc0VsbUw3MG14R3lHdDdmRkJGeUZQUnZ1dVlvSWVhdmRnS2g2b3VvdXZ4cVBrdHZ2Ri01LXZpLWlUUDMzamFvQXN5cExfZ0VIMUg3R1RwRm9KSGl0UnZEdXptYzB3ZVpxc3lIS1d5ejNFZWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUNENFJRSlplaW5uZmxtV0xtUXVyRktUZjNhWTNmN0lmVWhDeG1TQzJEcEdESkNXTlVTV25KUW9WOUZyX2hsN3dSNl9zZndHZVVlaGxCNFZQellYRmdGOTFuUU9nTTg3eEpZU3l2c3RsMVgxZ0FXNzZOVm9jVjI4X01fMWtDWGwwVDN1WXlHTdIBlAFBVV95cUxPQlY2aWYwMDFudTNITkYwSEtRSXVZTzlLT2RXR3VZbFFOMFFqTGJCaE5HbUJsSTc3UW1wZ0VZN1U5eS1jVmRjTXo4RmlsX1ZoTzZGN19LbWtNcXZCZU0yUHZzSGdFMExZRmF1NHNlV0h5MkRXdV9teDJUaGpuaDV1TUl4UDVHWUZyUVB2eUs4RnhYSGlK?oc=5",
       "keywords": [
         "embarcado"
-      ]
-    },
-    {
-      "id": "59b597f6cc1a",
-      "titulo": "Vagas de emprego para marinheiro, engenheiro, motorman, taifeiro e outros cargos estão disponíveis nesse sábado (29/10) ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObk92aEJmNEowTTRjWDFmZmlWMF9pME42TVlmQ2FlOFYwc0VvU3E0Z2xkNnc4bXlTbHZLT0dJR2tkVGlBRERPUTgyRHRsWHNFM09xUlZROGRLRTFrUm4tNG8td2VuWXM2cUtrSmdlczhueDYtMzNrbDBGWmZkRmJLU2xIdG1zdlgzY0RHa25lLWVwc0J0bkREQS1GNHRybUpTNmJBZ09kaWJxT2t6U0ZhUXJsamFsRHFjNTZGSEY1WHpnd29DQjNlQ0dWSGJYZFltWmxqNFN1OWFNaElMU2VyWUpQLWJRNkU?oc=5",
-      "keywords": [
-        "taifeiro"
       ]
     }
   ]
