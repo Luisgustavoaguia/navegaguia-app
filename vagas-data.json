@@ -1,31 +1,8 @@
 {
-  "updated_at": "2026-04-28T08:00:19.496264",
+  "updated_at": "2026-04-29T08:03:11.938684",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "e0d3b847e42d",
-      "titulo": "VAGAS EM BELÉM: Marinha Mercante abre concurso com 374 vagas para formação de oficiais em 2026 - Pará Web News",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYngyaW5OUnZBaGxLVE5pWlZidF9rRF9FbGp5STVMTVctX1ZnaElKUlF1Vi02akRWUDNzWWRSUVNGYkhObnkwcGhYTl9CSDdNNkdjVlFjY053R0dFTGw3WFJ5ZUtqcmNCVEdzX3ZoekVsdFhYX3ZPb2xLMFBDeDRqVVJyZkhJcmdjR1JHRTdNNG9zam1kOUNJWUhZWFJjRW5fLWkyQS1ERHBsQmdvSy1wUC1RM29TOEdSb0E?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "742e1d460872",
-      "titulo": "Seleção da Marinha Mercante abre 60 vagas para curso de aquaviários - JC Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmNVUnRkQ2JpX0hxOUFERTctNjZOMlY5bWlVSGRqTHA4bGVLSWpDS19kYlQzOWI1dEFXeVRxWnZ5N0FnR1pzUUM1NmRfQ1FmTjhhRU5DYjU3UnJoeHFiTXZrTUE4NDJsNVpGY2xHb3VTQ2haU19QdHJ6aGFDUHB0Zm5lQmFxbGRTNXNqX0ZkUUVYNVh1dFZnSmhlUmEzUFd3bzhkVVB5b2lMdTdteGQwZ292NjdLQ1FtYmfSAb8BQVVfeXFMT3VwTUVWYXFtdkhRdDBickRteGlHcXdlbnF5OVRNR0hXcmtBWHd4dDk4VFpzLWtDb1puRWxENUNpS1FXMmlIUlI1dzVBNVJnQVVFd0cxSUtqazMtOXZucW52WEo4M20xbkxXWjlIRl85Rk9TSEgyM3M1bUlVLUFaZGFYeDZiZDBPME9vMXU1VjBOb2NzQkx0TGdHOWUyTUtleG5ZNHdJNFZSQjhUYlh1cWNQT3VrQ3NTd0dKd0dRbFk?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    }
-  ]
+  "vagas": []
 }
