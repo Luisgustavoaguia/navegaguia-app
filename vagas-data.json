@@ -1,8 +1,31 @@
 {
-  "updated_at": "2026-04-29T08:03:11.938684",
+  "updated_at": "2026-04-30T08:00:17.570008",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "b368c8a604ec",
+      "titulo": "Oceânica Engenharia oferece dezenas de vagas offshore e onshore em Macaé e Rio das Ostras - ODEBATEON",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGxINVN2LXc0TmdYZmxRYW1EaUpLbzNVa3QyX0VGbjVkMEI4aUU3TkJuWDJwYnNOTU5CWWc5STB1dXZBMU5EN05tTm1vdFJDeDBFeGhBcDhJNnRjRl9NdWRRdmY4aE5JN2thX0NvdlVoaWhmcTZCZzQ5a3pZcV93TUZWUm9oLVNSRHVfMnBtdzBjNWVoUmx5SC1NeDBEOGkxX0hJNzhobWtnU1NCYjFxdU9fbS1fdw?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "daf979e3ca53",
+      "titulo": "OCEÂNICA ABRIU 400 VAGAS PARA TRABALHO ONSHORE E OFFSHORE - Petronotícias",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejJpMnh1VERoU29UdWFSbmFuVWNlUU1paVZCQWMzNkE2SHJGSjhzS0FpdGdTcGFqQ3M5QlhySGp3LVA3bEdpal9aSVUyZ2o1VW1oYjBhUGZOZk11VXdqYm11cF9hNTZYYWVPamRvUHdSY05PRzVRcmZQaWVPNE1WM19IUWpVbG8wYUFoQjNIMGw?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    }
+  ]
 }
