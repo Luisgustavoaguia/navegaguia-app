@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-04-30T08:00:17.570008",
+  "updated_at": "2026-05-05T08:00:18.974421",
   "stats": {
     "total_vagas": 2,
     "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "b368c8a604ec",
-      "titulo": "Oceânica Engenharia oferece dezenas de vagas offshore e onshore em Macaé e Rio das Ostras - ODEBATEON",
+      "id": "67aa46391257",
+      "titulo": "Capitania dos Portos de Itajaí abre 75 vagas em cursos gratuitos para Marinha Mercante - jornalrazao.com",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGxINVN2LXc0TmdYZmxRYW1EaUpLbzNVa3QyX0VGbjVkMEI4aUU3TkJuWDJwYnNOTU5CWWc5STB1dXZBMU5EN05tTm1vdFJDeDBFeGhBcDhJNnRjRl9NdWRRdmY4aE5JN2thX0NvdlVoaWhmcTZCZzQ5a3pZcV93TUZWUm9oLVNSRHVfMnBtdzBjNWVoUmx5SC1NeDBEOGkxX0hJNzhobWtnU1NCYjFxdU9fbS1fdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE9mTnBSVVJVeUNJMUVzNnB4NVVWdmppYWR2UjR6UTdqak9yc2hjRWFRS2pVWHp1V2dRbm9iMThtZzdVQUJhcERXdzhub01QSnhpSTgyaFF0YS16OXFKNFhpUjU4dDNDdlNNcEIySTJ0eVZtRmtKZ19HdWhsTnNNSTJMMXkwdml6Vi1NbDF2WUp6V0VZblllMl9BWWNzdjFneTBicGxUUkhQdHNQT3JKY0M0bWVUY1lq?oc=5",
       "keywords": [
-        "offshore"
+        "embarcado"
       ]
     },
     {
-      "id": "daf979e3ca53",
-      "titulo": "OCEÂNICA ABRIU 400 VAGAS PARA TRABALHO ONSHORE E OFFSHORE - Petronotícias",
+      "id": "207295db6d15",
+      "titulo": "Mais de 1200 vagas offshore estão abertas para arrumador, marinheiro de convés, mestre de cabotagem, saloneiro, enfermei",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejJpMnh1VERoU29UdWFSbmFuVWNlUU1paVZCQWMzNkE2SHJGSjhzS0FpdGdTcGFqQ3M5QlhySGp3LVA3bEdpal9aSVUyZ2o1VW1oYjBhUGZOZk11VXdqYm11cF9hNTZYYWVPamRvUHdSY05PRzVRcmZQaWVPNE1WM19IUWpVbG8wYUFoQjNIMGw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaWlNSzdicm1OS2JjWnVrQUlqOHBZVUpmSEw0M2VPTlZyd2d5bVBqLWhJelR4am9BVW5FaXFpMXZscVBVVjBvUkFWSk91dzh0S3Z2VUxMY1FRTkhMY01Uc0VmOGpQOXZ6VnJJbWVFVHBzNnB4dmxmTHlPT1RySUVPNk9KZ1U1RUVKbjFheWV3SGFrZV9hVXV0WWs3LXplMTlqbEFWcGpkYWxiVjhRbnp3WFFXNzJUQ3FGV1NLb0pnMWZlU3J6aWZmalYxempRaXYzLU0tMF9iUldjZmlxb09tS1Z4SmNkOXVCWVphMnd1M2x3Vy0yaFA3dmdn?oc=5",
       "keywords": [
+        "enfermeiro offshore",
         "offshore"
       ]
     }
