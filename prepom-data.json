@@ -1,20 +1,30 @@
 {
-  "updated_at": "2026-04-30T08:00:20.918238",
+  "updated_at": "2026-05-05T08:00:24.142138",
   "stats": {
     "alertas_mes": 1,
-    "ultimo_edital": "Há 5 dias",
-    "vagas_detectadas": 1
+    "ultimo_edital": "Há 11 dias",
+    "vagas_detectadas": 2
   },
   "editals": [
     {
       "id": "8e98b93ff9d6",
       "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
       "fonte": "SOCIAL-GERAL",
-      "data": "Há 5 dias",
+      "data": "Há 11 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
       "categoria": "GERAL",
       "cidade": "Social — PREPOM viral redes sociais"
+    },
+    {
+      "id": "e9329fea5856",
+      "titulo": "CAAQ-CTS EDITAL 006/2023 - Marinha do Brasil",
+      "fonte": "GNEWS-3",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTDBSQktndmE4UUJuOHF0aW1WdTFGYnUtZE5QMDZoS3FUS3ExOC10Q2htYlczV0dIQjg1akpXbW1NVnBBR01wZnhPSTBJYXJDYkE?oc=5",
+      "categoria": "CTS",
+      "cidade": "Google News — edital DPC aquaviário MOC MOM"
     }
   ]
 }
