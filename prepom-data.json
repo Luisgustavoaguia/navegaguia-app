@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-05T08:00:24.142138",
+  "updated_at": "2026-05-06T08:00:23.209215",
   "stats": {
-    "alertas_mes": 1,
-    "ultimo_edital": "Há 11 dias",
-    "vagas_detectadas": 2
+    "alertas_mes": 2,
+    "ultimo_edital": "Há 12 dias",
+    "vagas_detectadas": 3
   },
   "editals": [
     {
       "id": "8e98b93ff9d6",
       "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
       "fonte": "SOCIAL-GERAL",
-      "data": "Há 11 dias",
+      "data": "Há 12 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
       "categoria": "GERAL",
@@ -20,10 +20,20 @@
       "id": "e9329fea5856",
       "titulo": "CAAQ-CTS EDITAL 006/2023 - Marinha do Brasil",
       "fonte": "GNEWS-3",
-      "data": "Hoje",
+      "data": "Ontem",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTDBSQktndmE4UUJuOHF0aW1WdTFGYnUtZE5QMDZoS3FUS3ExOC10Q2htYlczV0dIQjg1akpXbW1NVnBBR01wZnhPSTBJYXJDYkE?oc=5",
       "categoria": "CTS",
+      "cidade": "Google News — edital DPC aquaviário MOC MOM"
+    },
+    {
+      "id": "f93ed279558f",
+      "titulo": "CPRJ realiza 1ª etapa do processo seletivo para admissão ao CFAQ-MOC e CAAQ-CTS | Com1DN - Marinha do Brasil",
+      "fonte": "GNEWS-3",
+      "data": "Hoje",
+      "urgente": false,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkl6U1RLNUFnN2hiakhTaGZfRjVWWVdXaTEyazFhejU5QkI5b3VRc3lwcHlNZUh6VkVMcWRVSWlqVFlmR3dyQmswd1BkOXBTY1ByZl96WmI0aEY0VEtGSldNZURJTHNFOGxyQTR6QVJ4SUtaMi1XcVhYOTBrOHUzY0VISDhkNW4yeHVKOWdISHcxdXpDUzJVWmZMcWtFM1lDVG1YS3hucEtJOGIxSy1RMGU2R0JUTkd1R3g5Z0JQa1JYZw?oc=5",
+      "categoria": "MOC",
       "cidade": "Google News — edital DPC aquaviário MOC MOM"
     }
   ]
