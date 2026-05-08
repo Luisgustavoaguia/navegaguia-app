@@ -1,19 +1,31 @@
 {
-  "updated_at": "2026-05-06T08:00:18.006278",
+  "updated_at": "2026-05-08T08:00:19.254909",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "05e8ddb865ee",
-      "titulo": "Processo seletivo da Marinha Mercante reúne 60 vagas para curso de aquaviários - JC Concursos",
+      "id": "7ceb010dd4ef",
+      "titulo": "Marinha Mercante lança processo seletivo com 120 oportunidades em cursos de convés, máquinas e áreas de apoio à saúde e ",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2FpWFMyVTZmSzM4RDZxTmFuWHV5UUxVaXNneTdQbFJOV0Q1WTNiNGI3eWpKWENWcE1kcFByazFTM2dPekJack9LRnYwWEExWEszUm40aHJ5cjlic0hHOTBiMk0tS3kzRW1VVkZfdE56M05tRDhWYU1KeUJSWlk2T1dOZFRNdXlGelJyNmg4aUdiU1AxTFlKaEhrekJnQjN6Q1F4MkFNLTdJbUVxQjBibjJNeUVjSWRoNTQtRzR5eDNhQTYzVUHSAcsBQVVfeXFMTkxqV3QzbW43MmNTX1VEVnhPaFNVdUtPTHRwbVo4alFzN1dDWWU3M0lpS2Q2Q0pqVHdNUXdobjd0T2pLb2E4dWJEZEtQaGt2TGo2bVZ4Um4xZ1N1T3ZXLXVkY3JlZE81VWxybEgyWnFUQWd0MXVGemludWRETjh6NEJFZDU3Z3hoZE1WcTVxTWxXTGFVMmNqbVFkcG5jamJEZmo2WTlrYy1TZWRGT25wMExLbFJVTWVnbE5KR0FRN19DYUVQaUJwZzJFckE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVENsZlZnRXFtX1UyVmJhZHFmYmFNLXdlck5pM1JMRk04RWJhcDRnZ0lhVW43enVVQjVsbEl3WnNQcGVSS1RwLTA0cXpEREhKZnltbmlOSkFPNTFHenFQeU5iV2FtN3Z6Qk5zV0NydWRWc3lxWGNySEx5YWJFMlZ5VkY0di1yamFQQmVjWS16b2lKbjNxbmloUmxac1BiMFFHejFRR2VXTVgtLVJKcGtmMTJSR3U2T0ljb3FUVGQ4MHdTLW9sR3AwZG1YM01xQU9fdlVMZklKRjhLT3kyeDhVUG95R3c5V09ZM3FHTWdZOHJQN0R1VzNFTkFyTWFJYXRFR2hlaGI2VEVfZk1KZEdrMDVB?oc=5",
       "keywords": [
-        "aquaviário"
+        "embarcado"
+      ]
+    },
+    {
+      "id": "1717d6c0f461",
+      "titulo": "Vagas Offshore abertas pela multinacional SBM para Engenheiro, Técnico, Enfermeiro e outros profissionais para atuar no ",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQTZ3MTlXQVlabUo2bjJ6cEdVX2s5d3VVMlJfd3NrNEpmT3g2UVJ6LUJlaEJneXdReVR1cXl2MU5ldE1jRDkwRmtlYk11TEg2bXpROEFwT3VFNDMtXzVyU0JZYk84VTlzQm81bmR5WmFmdXRoVGFPYXV3VF9sWkwyekxUc0hXcmttbThaWDh0MFFnMXZnaFhxYVlaeUxKb2Z6aDJBWWRLV0QzUW54M1F3dFhIdktZbU1LRUY2UDdmV0hoWUlILXpaS2Y3akVpLWF1RGsyRUhMRFZKazJ1c3Q3NGJWMTFRTU0?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
       ]
     }
   ]
