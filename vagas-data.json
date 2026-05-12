@@ -1,30 +1,41 @@
 {
-  "updated_at": "2026-05-09T08:00:18.342879",
+  "updated_at": "2026-05-12T08:00:18.446493",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "1292da5939c5",
-      "titulo": "CIAGA abre 30 vagas em cursos da Marinha Mercante no RJ - Ache Concursos",
+      "id": "38b9204aaa19",
+      "titulo": "Novo edital da Marinha Mercante abre vagas para formação de oficiais; provas já têm data marcada - Primeira Página",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSXZnQnBKLWF4RWMyRTNCOGFxejBDZUUxSENiOEctUVAtRlEwcUhmR1FlUFF1ZUxRZzZ2dGhNM0VIUnlfVno4VEdxcjJ1eHZrTFFOaUJqbzlBYmJ0bWJVZWhlem9ZVXRvTEZZVFV5QXRLR1Q3SHVvQXl0ZlpzS1h4VU01SUllU2tEVlBGSG5DUUNGd0NLVkNzeW5yUXdQVVc0WmZaMkl2N25fQdIBrwFBVV95cUxOYnIxR29IVU9qdl9nQ0hjeTR1aGd0OGxNTnl5NjQzMHlpWWlhbVk4em56THBoam1VT2poQVF5bnhHRDl2ZEFhQS04dG05RHpWVHJxeDNKSjFoazY5dGtfUGlhbnpIZUdXMDdseG1EQ1FnTV9oSFU4QXZFU2dFaDAwcDl5N1VmcFlTNmx2MnQxVWhPM3I0azJVRnpxMkdTdjFrdk9RQWVFRFFMbDNmTzJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVHAydHd5d0RxemlsSU9Rbk90eC04N2gyWlNjdlIzYTJoLUItdllZbkVLTDR5OThTNmRBWkJFRTd2ZUlWQnpuNEdKSlVaaUQzdDhwTWl2Y045amdibTZ3OWd5SUhsbWI2UFRKZjRDRDREbTZqODdFMVN2OU8wb0FPb1hKcWRvcEtud0dhM1l5aXc4cU9fNndCU3J1WmtyU25DNGdXbjNPeWoxSU9Pa0ZWd2xkZ1pkMExnUnFXc3hlMDdOZFpRM1MyRHZlb0NTUkU?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "9f0d693edee9",
-      "titulo": "Quer ser moço de convés? Professores dão dicas para seleção da Marinha - Correio Braziliense",
+      "id": "ea8834f93da4",
+      "titulo": "IFPB Campus Cabedelo Centro abre inscrições para cursos na área de Aquaviários - IFPB",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxORUw0QUd5UGVpSE95VlVpLUpETUxNWTZZSkdtWnZpdUpZNmx2Z2Fac0ktMXJveVN4SHlXYnlpYUNEblZkU2pCSFNfTm96Z3U3aTdpSFVFOGJ3Rl96VEFaT19qZHl0cTB1TDAtbmJlTEYzSG9tSHhsemt1WW5YR3hCUS1jSXpZV3V1cXB2dUZSUGY4b1ZseGNzWVNoTHo3YkJFeVVBR1FINzJXOVk1d1hJYUdLZktXNEdULVA3QWhlWi05TlhFZ2tYSVU5cTMxRENCV3Z6QmFHS1FtNWNzTy1qVzJOcTUwaFlQZzVLS09tbGhiQUhfMWZLbXNTVkpPVEUtNzBaLWJkMEtwM1lJLVNnVElkZTR5a2hPdjNxOEptWF9qNEVuQ1pmUDVKUHNlNXJkdUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjlRMnFrelUtdVlsQ0FXRkZXcEYtSEQ2ZllQWW9qaU5FUHdoUVE5SWdIdzg4QTFPWTRlYk9IVjN1M2l2cFBjbGRSSlNIeFRyZ2tCMUY0UHNnSFhNZXp2cHlpeWw5OFpoWFY5eW8yQ0QxMXVHdXRGQ3EyQ0RzcHZBZERUakxwY3VxbmhMV2RDTU5kLXEyOGRDdnVqX1NYZHNmdFlzVnJMWk0ycFE3SG9nSkJtOEVlLXUxSWQ5SGdKbFhBejBwQkF3My1RbzBweDRRNThhc08waXo?oc=5",
       "keywords": [
-        "moço de convés"
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "f9a472d0d1aa",
+      "titulo": "Concurso da Marinha Mercante: novo edital abre 368 vagas para oficiais - JC Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUxCdGNzYkVZRHc4VVoxZ2tSODl0eUQ1eFdFTkxTRGM1aXBQa1RTRlpVemx3LVhYbG9McHBTVVc0eE5PWUtJUmxYQkE3cDJGMlM4YnEwa0RLQ3ViS1RxbnRrS190MHV6M2k0TlNNdWwxeDFmWkJsUXZqdUlpMHZVaHk1RGx4ZUdoRFY0M0h6cFFONnRHeVdYdmJVU0YxSmw50gGmAUFVX3lxTE1NMjdPUFlRQU5JdktmX3A5ZG5rd1JqVUxEWjlfMDMyS2doR2JvU2lxVG9HWjhwVi1YbEJtZjNjS2J1LUx3VGgzYUY1VnZUQTNzQldaMXBlbkFwSGc0SXVETUk2aGN1bjdsR0Q1a2Z2UXVuazh0eVNYOGpOaFFVLUxzdlRtTTZSTEViWjMxbHU2Wm1hYkNXV3lKREZtN3ZLaEdCUU9aMVE?oc=5",
+      "keywords": [
+        "embarcado"
       ]
     }
   ]
