@@ -1,39 +1,105 @@
 {
-  "updated_at": "2026-05-12T08:00:18.446493",
+  "updated_at": "2026-05-14T08:00:18.124380",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 9,
+    "vagas_hoje": 9
   },
   "vagas": [
     {
-      "id": "38b9204aaa19",
-      "titulo": "Novo edital da Marinha Mercante abre vagas para formação de oficiais; provas já têm data marcada - Primeira Página",
+      "id": "e4e43d07b8d4",
+      "titulo": "Concurso Marinha Mercante: Edital publicado com 368 vagas! - Nova Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVHAydHd5d0RxemlsSU9Rbk90eC04N2gyWlNjdlIzYTJoLUItdllZbkVLTDR5OThTNmRBWkJFRTd2ZUlWQnpuNEdKSlVaaUQzdDhwTWl2Y045amdibTZ3OWd5SUhsbWI2UFRKZjRDRDREbTZqODdFMVN2OU8wb0FPb1hKcWRvcEtud0dhM1l5aXc4cU9fNndCU3J1WmtyU25DNGdXbjNPeWoxSU9Pa0ZWd2xkZ1pkMExnUnFXc3hlMDdOZFpRM1MyRHZlb0NTUkU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zWmFqLXFEa2RieUZ0OWRaVmNOdFAyTXFjQWZxWDBUWjkyV3RRX2h6V3lnOGRQOGVKdVJaYzZkaWlEZG1FZkxNWUhpQjJJcmN6T1d1YjBtSnd0YU9yRTVLRzVKVkMtaWVCSFB0MXNHNkVsYS15MEsyTVQ5N2Zsdw?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "ea8834f93da4",
-      "titulo": "IFPB Campus Cabedelo Centro abre inscrições para cursos na área de Aquaviários - IFPB",
+      "id": "f14058dba76e",
+      "titulo": "Concurso da Marinha Mercante abre inscrições para 293 vagas de oficiais - JC Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjlRMnFrelUtdVlsQ0FXRkZXcEYtSEQ2ZllQWW9qaU5FUHdoUVE5SWdIdzg4QTFPWTRlYk9IVjN1M2l2cFBjbGRSSlNIeFRyZ2tCMUY0UHNnSFhNZXp2cHlpeWw5OFpoWFY5eW8yQ0QxMXVHdXRGQ3EyQ0RzcHZBZERUakxwY3VxbmhMV2RDTU5kLXEyOGRDdnVqX1NYZHNmdFlzVnJMWk0ycFE3SG9nSkJtOEVlLXUxSWQ5SGdKbFhBejBwQkF3My1RbzBweDRRNThhc08waXo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDBBWldRU18wWnRwT2pocXlsZ09BREJySlp4aGFnWW5PRVVaekFuY2JMcm90emZvbnBMSWpfcjdOQlh6MFROVWlRaTgyUndzUzdiSzFWOEthRmxreV9hUVBmYVkwYTJBLWR1U3dtdG5XMFBCSlc2XzhqRVkwQ3gtTHBzVEQ3WWhEenZTdnpuaEpzY0NFcW9CYUgzOFrSAaIBQVVfeXFMTWZYNkIyXzc1Y3FQMVdHZjc4Z3RaODl1OFMwX3lyVVU1ZUwwdm1JQ0pqaTBjcW9GT01PVVExN2JZdmpUY3p5bjdESU5ydlRQMUUwV2RONzdQbWNfaS1WX2ZmN0tZbklvNEVzemZuSHdIc3BTeEFOaGhJSldiamdINTR1dnRlMmxVLWZ5VFVuV3FUejd2S0Z6bjdJRk9zZVZjME13?oc=5",
       "keywords": [
-        "aquaviário"
+        "embarcado"
       ]
     },
     {
-      "id": "f9a472d0d1aa",
-      "titulo": "Concurso da Marinha Mercante: novo edital abre 368 vagas para oficiais - JC Concursos",
+      "id": "bb954356c201",
+      "titulo": "Marinha Mercante abre concurso com quase 300 vagas para oficiais - JC Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUxCdGNzYkVZRHc4VVoxZ2tSODl0eUQ1eFdFTkxTRGM1aXBQa1RTRlpVemx3LVhYbG9McHBTVVc0eE5PWUtJUmxYQkE3cDJGMlM4YnEwa0RLQ3ViS1RxbnRrS190MHV6M2k0TlNNdWwxeDFmWkJsUXZqdUlpMHZVaHk1RGx4ZUdoRFY0M0h6cFFONnRHeVdYdmJVU0YxSmw50gGmAUFVX3lxTE1NMjdPUFlRQU5JdktmX3A5ZG5rd1JqVUxEWjlfMDMyS2doR2JvU2lxVG9HWjhwVi1YbEJtZjNjS2J1LUx3VGgzYUY1VnZUQTNzQldaMXBlbkFwSGc0SXVETUk2aGN1bjdsR0Q1a2Z2UXVuazh0eVNYOGpOaFFVLUxzdlRtTTZSTEViWjMxbHU2Wm1hYkNXV3lKREZtN3ZLaEdCUU9aMVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG8yaWp6WlN1MGVGcjUwa1ZKY1djWUdoMHBsc21PM0RQRkFlM2hfMHNwSnQxak9zUGxZd3RWckx0RDdBQU9kOXdKWG90ajVlcFpOOTJVUHV1amNNN21jc3RRczZQUGpyaDlqMU5KZ0RBRkU4Z05weWtyYUtjdTRWUWluV21ITXJ5VUJHeG5JN2E4VkhndXN6YtIBngFBVV95cUxQNHNuUTNzcXhSTzdIUWZtc3M4V2JnMXVNcENxemlUMlo0VkhtLVdCQlE2QWNYdWE2a1RHWUtYV1lUQno1TkkxYUZFMzRlb2ZoNjhlS0prY3RkQnc2NHcxcW9pMEJzaEdnXy1OYWJMUzFfYmJ4cGRaanIzM1c1aXQ4VkFnUWZOa1M1U3lOSm9jdXNPS1dGaDVQMkNncXpmdw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "f96bbc840cff",
+      "titulo": "Concurso da Marinha Mercante: saiba tudo sobre o novo edital com 368 vagas para Efomm - JC Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemlNcngwcFJWaTYxZk91T0VJRlpiRVZCRFA0S0F2NUlERUFsOGtjVEpZTHNYUjNtQl9CVXNndnZSay1oVDVGQWt1Q293S29Zb1phXzVmWmpkcGNsMEJKQnBEMFdaemN3a3F6cE5jcE5VcWxFcnY0RkIyV0pSQWJEVEZfVnhJdjFTcGJqMjNLVjBJMTNtVzRuR19ybFBWeWhaS3FFMkpQUS1XSlBLZUk0MVlybnJDWWt1SHpr0gHAAUFVX3lxTE5fRjRhMUxieWNjS1V6R1JCR3NQX19fbmZ0cDM0WU5pZDRySUJOMlUwby1rUVNPblpzNnhvUWhuMm5aU1VISFppSk94bS1vTzlkU3M3M1FQdVFFUV8zTkdCc3BRV2ltNmlUS0haS2U5ak16R2FHbXFqQmRGRElzQ3JfZW1vdlBOTGRWOUFZZnpSeW5TQmtxSzViVDdtUkJYQlladEVBQ2EwSTFnVWx5NkVqUzRfMGkyb0RFTFNDWVBMeg?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "58fbcbed7d12",
+      "titulo": "Marinha Mercante abre 368 vagas para Oficiais em 2027: inscrições do PS EFOMM começam em 21 de maio com taxa de R$ 110 e",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNelZUdmRXZHpyZGxGOVAzcnl4d1VaMHpUakUtZmNkclNsX1B5bTY4eXlEYWxBbTZWeG9WZ21tYUF2MGgtTjNEazFiaHFDbm1zSVQxaldnd3N5MkYzMDR0aklxVDRnTXRKa0VLdm83d0NOdnhMZ0g0QWstUjYwbUwtTnlXUWdZaUtwWXVaOHVuZnZBY1lLYWhya3pqUWI0bzFvWmxlejFQU0RLNjVzRnlPS0lfQ0dhdmlRNTFSd0xLSVBTbGwxblZBOGE4cVh6WXc3a1VmQ255dG5XdVlXdkxsYTdlWkhpSnQ0WGJGRDJoMmZoWGtfTkgteHRwSUo3TjlUM3VsNWVaemRaWU91Y1RrYThDZkZXWnJa?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "f11887960d0a",
+      "titulo": "Marinha Mercante abre 368 vagas de nível médio em 20 cidades do país; há vagas em Belém - DOL",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnFCUGlUR1QycHlGVmtlUDc5YkFfZGNZb0N1cUZybjJPYWxYamRZell5d1dUQTB1cUpXVWdHSmt2enA0d083ZEpCbzhfZEFaNnN0NHpRb0s0UUxoUUtwWEczeklfUF9EZWQxUVdwMnBnNS1BaTZBaE81SGtjY3pPNl8wSWlKeDliVXc2cWVBQ0oxNnJldzkwS0sydllRa3BDRE1OZU8tMkFFanRhMTRzSnZnbEFPNmlGYnNuUURTNWFzQjdCbkgzLWltQdIB0wFBVV95cUxNUmlIVEY4QjRidUktX3l6ZXdFdXNsYl9oUGtVTEFqdTZRai1wcTViRVBNQWNtTnBOclBTLWpuQlBHMENpcFlXcy1tQW5FbzQtMlpTX0tMYk5hSTU4WjlfU3Q5NGpEWVZxU2t5NjRhQlQyeHZPNEdyQ19uaUh1Q3M4TUIzWFlLaXp1ckJTRU93bUFVNGdVT1hZUE5zMEtsa2R4T29BTHhkeVg0YWRhUzF5QWpkeTdFalFsVnV2SzZLWjYxSzBlMHJtWVdYUTdIX1p6eFdz?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "bdfcc98fabfa",
+      "titulo": "Concurso da Marinha Mercante oferece 368 vagas para formação de oficiais com bolsa e internato - uniten.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xS1RKaGFzLUVZVUtkNWNLbklsRVViWDRBY3lYS2tZUFFpNDI3OTBQYUtJSTJMU0VwbktJS3FlM0lNWVRuRHMwMDN5bXFfYlhqUEpadkg0ZmRCV093YVBxY1Joa0lOYXp1SHBTM2JsckNxQQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4687fc2b33d4",
+      "titulo": "Concurso Marinha Mercante 2026: Sai edital com 368 vagas para nível médio - Ache Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW9pclBhZG1oRG9nUzdieUVhUUZhZi1JNHZtM2VZMkM1RTQ3UFFULVplbUNiVjlJU0FvSk9IUTI5cXRVdDRpbTFZSzFGQnRDUjBQZEp3VXVKYUVZVENyemN4ODdiOGlsa0hIbVhIa01zUjh6eTFMSkhmOTR5V1ctTEFqOTJGMmVTNERMRF9VRzEtR1V5N2VJanFNX19kWktMWV8wbVczX2Qzd3luS3JVYmhn0gG3AUFVX3lxTE83ckJHS1JBS0J0U0R0QUo4M2hHT0lvdnFGRTdZdjBiNEpxakl6aUlHb0Zma0lzWGtlOG5NNTU2NDBILWN4VVlMbFFqOVRWZlk3NkVBVEFfeGEtTGRtUFVoN3lFN2ZVX3ZyekdYOWI0b1hJN1ZOQkZjOG0xbnFzM2dNOW1qVko2MUk5N1djc3FhS05ycjlqelNIUjVab0RObExLZWNLaklKNlRrZmpmaVFna0hoOVBSSQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "b2dc38eee1e9",
+      "titulo": "Marinha Mercante abre 368 vagas de nível médio. Inscrições começam em 21 de maio - Extra online",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG1fRjd3M2wwUks4cmIxRXRNS2R0RjMzSnFubFVPYURFbS1FWXEzNHBhaWJKNHhXclNVdjFjUndsUVdNTDBoNUZCU05BOU1zRDNSN0xOcWFFU0FwWDdkdDRyQzJ2VmdTa0pLRUU1TDBkRXk5enkwYWpjbEVONHhJQnRIUUtoWHNrdzcxLTJmN3AxUTVGYldPSHVsOHNXVXZsUE9IbUFmb2hGRWdWblJBSWNyWGFTam95bE9vbElSTnRWNmd4TTQwZ1VQclNGa1B0RmNNM1lROTFHYWF1SXVzMUhLUWlvNXPSAfYBQVVfeXFMT3dkYWVCQ2FkX0dNUGFQNFdKNE43T2hLSkZuLWtOVy1KR2F4ZUliM2JveXltaG9UUlhsWlBPNU5NeHBBS1RmYUh1WDBPYWZ4M1FsSzVtX0U5aUdKUUlXU0N0YTFWYVc2cWFwRGdhbGZQdkVaaHEzanZkTEJqWElqZGtiTElMbGN5NUFFT3NJdVlmWXljd1lncm9XQVAwQl9aOElBS0Fxa3BJT1hoYzFFRUhCSFFIR0dhTERibjcyQWRvQUtEaXJJdUJ0NC1WMTNtR2Y2ZXdxNndJaTN0TVFPZFlydlFxa0x2UHlNelhhd19QdDdzXzZR?oc=5",
       "keywords": [
         "embarcado"
       ]
