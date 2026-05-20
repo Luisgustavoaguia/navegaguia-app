@@ -1,43 +1,29 @@
 {
-  "updated_at": "2026-05-19T08:00:17.909972",
+  "updated_at": "2026-05-20T08:00:18.845226",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "f266fce312ab",
-      "titulo": "Marinha abre seleção para cursos de aquaviários com inscrições de 20 a 22 de abril - Concurso News",
+      "id": "f51d418a4470",
+      "titulo": "Rio das Ostras abre 596 vagas de emprego offshore em seu Banco de Empregos - Petrosolgas",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbk11ZGRlaHdrMzAtdk5lNVhtSlNUV19KSy1XX1h4SXV6allyVTV5eEx2RzAtdFA0ZkdDRHNleEdaNWpSckJNbEJ3dW9NWm9PUlVMTUdZZFRLc1dtelBZWC1mMlR0ckEwcmFuQjlyM1ZBd2xIMFNsYTVjdU02MzhjV2dzbFRvdEJ2aTU1dk5XN3lJVHhDV2hMeWNVVEpocF95RThMSnhfeHJxR3kzSU5rQzIyUWN5WWPSAbcBQVVfeXFMT25NdWRkZWh3azMwLXZOZTVYbUpTVFdfSkstV19YeEl1empZclU1eXhMdkcwLXRQNGZHQ0RzZXhHWjVqUnJCTWxCd3VvTVpvT1JVTE1HWWRUS3NXbXpQWVgtZjJUdHJBMHJhbkI5cjNWQXdsSDBTbGE1Y3VNNjM4Y1dnc2xUb3RCdmk1NXZOVzd5SVR4Q1doTHljVVRKaHBfeUU4TEp4X3hycUd5M0lOa0MyMlFjeVlj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXF0cDFzeDNnODhpMjZabGJ5Y25sN2drVGhxaEF1dDNHN3IxQm44aG5aSkx6Z1RjSHRTY3JDeWdIY1duVllZdl96akgzR3k0SVowUEQxa2pSSHlBczVCZnBhSDlpVlFLUFRGbndRWDJCdUpfZk94RU1BSVV6enZ1dFdONUhFeFhWWHFDYUhZWUZLMDlDM2w3UlNGRlg1SUU1eXdzMg?oc=5",
       "keywords": [
-        "aquaviário"
-      ]
-    },
-    {
-      "id": "ec7288536450",
-      "titulo": "Vaga offshore de Enfermeiro com embarque pelo Rio de Janeiro neste dia 22 de outubro - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1RmNlN4d0tSaFFfWVJKYnNjU01lNFVmZHFoMERZQTlWWExmNmpadk90NFZqR2wwZnJqTk9WOFRHT0VSVlpjdmdtMkNsSU1jYnpFVE9TdUZjQnBnUEtZdmxrYlI0VWlLZXNtYzdrTnpsMEFFNmtzSm43YnNLdk9ERjVwQnQ4dUluNTB1X0pqcWMtd1J6dmVFZmZra2puU003dkhwUnVuQ2JfNU5sUEJoMDh5TVo1bVpvTHc?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
         "offshore"
       ]
     },
     {
-      "id": "369465eff57d",
-      "titulo": "Oceânica Engenharia abre vagas offshore para Moço de Convés, Taifeiro, Marinheiro de Convés e mais 120 oportunidades par",
+      "id": "fc8a048e1a87",
+      "titulo": "Constellation Oil Services abre vagas de emprego no Rio de Janeiro com diversas oportunidades offshore e onshore - CPG C",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2pXY0dlT2JnS1FDNGRyQWE3UlZBMW9PbUJLQ3JWZC1uUjJBalltdHJVSVJ1SUlKZThRVG5nbEZHemJiSEtySXk2QzVmWmh3ZlR0dDNEMlJuT1N0UXB1NXk2RFFDZjRoNUROS3I3aXdQdUpmREVhSEZCeWNERzdOa2xTSmZneE5xLWJxbnpzNHNhWEhocUZycG9uQV9qRnMzZHd0cjVhZ3gxTzQyTFpjMGNnMHFkYnlaYWxvd0s2eTZkdUJmcWlqamRDSDFoUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEN4Q1lWYnV2aDllSXd6bUFBdTFuel9ISGl1Y1ZYQlE1bnJwYk4xZ0JCd1Nvd0g0RzVnM1FoVkpiOUNPQkdvQ2V6bHBpajNZaTBkWFh3ekYwZGJtUDdBSzB1NzctRnQ3eDcwaDZsZHdCNHZxUC1yajUxdkFQZkVRbFZBWHpwRGw4Q2NZU1FLa0pfU01ray1NZ1BvazJqWFBKZTBFRVRyejVxNjJuNVB4OG1ibXZSY2hJM1FhS1BkSmNNRGpQNi1PTkdrclRMX0VnYUJGWF9weFlhYzRyU0ZR?oc=5",
       "keywords": [
-        "moço de convés",
-        "taifeiro",
         "offshore"
       ]
     }
