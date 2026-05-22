@@ -1,28 +1,40 @@
 {
-  "updated_at": "2026-05-20T08:00:18.845226",
+  "updated_at": "2026-05-22T08:00:18.295833",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "f51d418a4470",
-      "titulo": "Rio das Ostras abre 596 vagas de emprego offshore em seu Banco de Empregos - Petrosolgas",
+      "id": "fa435a63bc94",
+      "titulo": "Concurso da Marinha Mercante abre inscrições para 368 vagas de nível médio - JC Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXF0cDFzeDNnODhpMjZabGJ5Y25sN2drVGhxaEF1dDNHN3IxQm44aG5aSkx6Z1RjSHRTY3JDeWdIY1duVllZdl96akgzR3k0SVowUEQxa2pSSHlBczVCZnBhSDlpVlFLUFRGbndRWDJCdUpfZk94RU1BSVV6enZ1dFdONUhFeFhWWHFDYUhZWUZLMDlDM2w3UlNGRlg1SUU1eXdzMg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOV96YktXQjF4bThDSFNqTER3S0hXMU9nSFBYRk5MNmxLT1E5d2VTNmw5dmdlLVdJZXh0ZHBxdjByVC1fUlhoNDF6U1VhTDRJaDJCOFVFWkgtdFJhUW10QnFqXzJoSHBrM1Zwc2E2dzl4TG9uT0EwM29JR3FBUnRuWWI0d2Y2cTQ0dFhKR3hqdFJTX3RJTC1IaV9xbHVrdWRiRzRkXzVydVFld9IBqgFBVV95cUxQOV96YktXQjF4bThDSFNqTER3S0hXMU9nSFBYRk5MNmxLT1E5d2VTNmw5dmdlLVdJZXh0ZHBxdjByVC1fUlhoNDF6U1VhTDRJaDJCOFVFWkgtdFJhUW10QnFqXzJoSHBrM1Zwc2E2dzl4TG9uT0EwM29JR3FBUnRuWWI0d2Y2cTQ0dFhKR3hqdFJTX3RJTC1IaV9xbHVrdWRiRzRkXzVydVFldw?oc=5",
       "keywords": [
-        "offshore"
+        "embarcado"
       ]
     },
     {
-      "id": "fc8a048e1a87",
-      "titulo": "Constellation Oil Services abre vagas de emprego no Rio de Janeiro com diversas oportunidades offshore e onshore - CPG C",
+      "id": "9407f5c181c8",
+      "titulo": "Nova oportunidade para trabalhar embarcado em 2026: Oceânica abre vagas offshore e onshore para diversas áreas em Niteró",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaEN4Q1lWYnV2aDllSXd6bUFBdTFuel9ISGl1Y1ZYQlE1bnJwYk4xZ0JCd1Nvd0g0RzVnM1FoVkpiOUNPQkdvQ2V6bHBpajNZaTBkWFh3ekYwZGJtUDdBSzB1NzctRnQ3eDcwaDZsZHdCNHZxUC1yajUxdkFQZkVRbFZBWHpwRGw4Q2NZU1FLa0pfU01ray1NZ1BvazJqWFBKZTBFRVRyejVxNjJuNVB4OG1ibXZSY2hJM1FhS1BkSmNNRGpQNi1PTkdrclRMX0VnYUJGWF9weFlhYzRyU0ZR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQM1RjaGpsbFhCeHN0SWdZWU5XNkluT0RvX2N4aWVmMUtNWVJfT1NIWlVsaF9LZzFfa1doUmpKQ05zV0l1dFdheEt1UzhUNzVCNGdlc1B2TzRZSGtmMWRhUi1UY2w2TkJpXzh1ajVlaEtWb0R2MXJvcDZQdjMtYm9xZFp4Q1VDOFNLWjJNa2lqd2NXS1BrMGpBU1dKSnYzUThqWFc0RGpYZ1V2ZmpfQUlyTnhBWFBULWd3ZlpBSUF0TWZRckRXd1JtZWp4ajh2ZUlYTzJmankwZVJXRFJyV09SNHZ0eGh4VzBlc2IzMWJTeks5QUUwcGVmZ0ptZHBoYmZWZS1BM0JZbXpDelJBWXBuSkpR?oc=5",
+      "keywords": [
+        "offshore",
+        "embarcado"
+      ]
+    },
+    {
+      "id": "9de985408b79",
+      "titulo": "Vagas on e offshore em Rio das Ostras e Macaé: Líder de soluções submarinas para a indústria de energia offshore, Oceâni",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPTkZYRmNIeGo0Ti1MXzg5Rm5qbmFvbnhrM19PM2dJbWROZ05kN0J6YU12dUozeEtEVkJoUGRjVjcweGI3NW1aRDk0UzlCUndFQkpHcEtVSU5iMjlOR2p5U2c2NldmWG9FV2ZFa0V3MkJnbThUVzV6bi1uMnQ1T3RMR1A3NkFqbDFmVGt4QzV1TEdoMFQyazRzcWZmWFZMRVFNellpVWlLb2dFeDNnRzJySUlHT1FnQk9SQXJMS0J5TlQ0S3I2cm04T3BxS0RNSHBRaURWQklJS2tlaHBXdGg2Q2NBOVEwLWxpSS1xeDZDWWZZSkQ2Q2xmd3BialBSOUhvRjBqZ3BLNnJvZUNOYlhORnJFN0FRdVFxODJQYkNwY093UmxjUktCTTlBUm0yaXY5eEt4NlMyT3ZwaEdXRTdHWkhyTlM3OFpFQjJSanI3aw?oc=5",
       "keywords": [
         "offshore"
       ]
