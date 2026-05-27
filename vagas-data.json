@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-05-26T08:00:18.962161",
+  "updated_at": "2026-05-27T08:00:18.622605",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "71b44dcdbb28",
-      "titulo": "Escola de Formação de Oficiais da Marinha Mercante abre seleção para 2024; confira as vagas - GCMais",
+      "id": "b1811ab8a0de",
+      "titulo": "Fundo da Marinha Mercante prioriza R$ 4,6 bilhões para projetos na Região Norte em 2025 - www.gov.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYjY5endfMTFIcnhEdmFZdDdNUzNWNXVZdnFRSG11YzFNUktOWUdTYWpLa3NRb2lmSE0wTlBXMTBDWTJldUNsNGRvY1FROUMzMFRVdG9sX2x2cUg0QTdvVkx1MmhQSmNEWWtRaG5fajc5LVhUVDVnLS1Fc0hmcmRROUZoQnYtOTNrOUNfenBGVnhCNElUUHNScWpLZWl5dmxMcEx5OXhGSW05SFdfSlFfZ3o1V1lNcFR6emUwV3piQW03TjUxNHB2MFh2Q28?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2luLTdwMmhuNjIwUngwMVpTa3JQMjN4eFowMHZkN1hFUDBRY0EwbEpDeVBjNWhBNjFJNFZwNW43cmd3OHZlYjAwM3hfQjBxU3phdTk1a0VQN1E5WUxnTUhUNXByN3diM2g1TFdIeF83SzcxMDM1a2dPdjFLRFppeF9Nbi1MbV9BYWtuaHZYd21zUzd1WHcyZllfY0QtNUdkUFRqUUFQQi1SM3RBWXV3WENZTC1QTW5RaDNpeU9GNkZmLThzT0p5WEV5LUJJV3BLMk5rT3N3UWpITTUwbHktNlFiRlpuTmhLMUwyVXJB?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "fc46f2f12f87",
+      "titulo": "Altera&Ocyan abre 30 vagas para trabalho embarcado e em terra - TN Petróleo",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdGt0RlVfcXlDMVZHV2pZb3NNaFQ1UWc3NExpTnJ1c2Nwa0FVUmpnUFFUTnY1X1lFeVZVTVRCbkl4UFhYTVNFQnQ2bUdDUTdYQThzUHhiU0NHZXZ2cnNQeXlOWXFhM2s2cXRHb0lZUC1Ea05BNkNrT0pfdlpzZGZjamtma0tRWEdtTllPTDJvZjh3SE50ZEtBZ2ZZRQ?oc=5",
       "keywords": [
         "embarcado"
       ]
