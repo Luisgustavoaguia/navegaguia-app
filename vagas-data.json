@@ -1,19 +1,41 @@
 {
-  "updated_at": "2026-05-29T08:00:19.713698",
+  "updated_at": "2026-05-31T08:00:18.034412",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "f307c18e232a",
-      "titulo": "Marinha Mercante: últimas horas de inscrição para concurso de oficiais - JC Concursos",
+      "id": "cebfae940994",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 6 bilhões em projetos para o setor naval - www.gov.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2tlWVpUcnF0X1ZFeTAxUUpXYkM1LXNUMFh4YzZZcDBBMldKcnhnY0hvM3dhMnlzR00wWFNkSzdOWjkyVk9tSkphTm5FSzZPWmZTTk1BRHlhVkY3QWp3dnhUbkxVSnVqS0Jsb1JsRDloVDhtZGxVNV9KZzZPdmg4UXRNMjFRcU1BTW1HMG1MLVB4eEdPOGdmUTBOVDbSAaIBQVVfeXFMTkQ0d281elM3U0t0NTBfM29Ya1NsUTB1WXZoeGRsX3haZG5TT1VKR1RDYlhZZEJ0YVJBOUpiQ1YycU5TVldmZ1NBXzRHTkstVmxEOS1obnlEZ1Y1LUh5YmhrMmVJM0lqYXdpNTR6eTVvRmNobGJJbGFldGZ2RXpUUUJNSF9oUl9jNVNyOE16MjFTWmljd3lQN2l6RkJIRzRUNkFn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNDJiTzVTb0dualM5M0ttamVaNHpJcVBPMVdGZU9MNGNraW5qc0s0UC1VWTlKUU9vY3NlWmoxMUpnNTNKMHNqeFFCeE1sX3VXOUpybUdVNjJSeG5nVjZCd2w5WDFhdHEyWlFFdGFrSTVuR1QwdXBuSHNQTGVvOEVoY2o3Wml4RVB3dGR3X2x2Q0s4eFdLSUZRVTdaUkVxUFFkdnN6MklGaWZwaVRzUTg3Y3lOYWFhZG0tTWI2WHFXZWpXUVlabjhXQW56bGhlMmNYU0hfRVRDaHRpeXk0LTVv?oc=5",
       "keywords": [
         "embarcado"
+      ]
+    },
+    {
+      "id": "356e630078f0",
+      "titulo": "Subsea 7 contrata para vagas onshore e offshore no Rio de Janeiro - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOHpwM29zb0NsZThfVjgwVUFKY19ONk40SEh3c0E3ZGtGdmJoLTlNZWV6cVRIS2JibnRrMks0dWh1WHVSUTdHQ3YzY2VWSW9XcTZyUl9JNnNtUFkwVVlQSjduckVBMzFMVFd3SG9pLVQtTVNRZm1QOVZnRElpUzFxYy1RdVMzVmN6OWFxbEJIZnJKVzdEZVlIVlMwWFo0YjBp?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "4f38bd0bc8e4",
+      "titulo": "Gardline Marine divulga vaga offshore neste dia 28 de agosto - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdi05dlYwbWFKQU9sU2pqS0RTaWNrNUJuRzFrTmJZS3dCQlVfQmRQeGNWT29zdmdFQ29zWWlLckt1aHNHeUdoMFhBWGRVbnhLazZrSUZ1RklzdV85U0VkM3ZsX09STUJMY0tzRHNySFZqdkt1SW5LSUFoMjRqd2NhRVhnejFrdXBlQ0RYY1NfTld5SmJjd1pNOXJ3?oc=5",
+      "keywords": [
+        "offshore"
       ]
     }
   ]
