@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-31T08:01:50.015987",
+  "updated_at": "2026-06-01T08:02:02.332335",
   "stats": {
-    "alertas_mes": 7,
-    "ultimo_edital": "Há 37 dias",
-    "vagas_detectadas": 8
+    "alertas_mes": 0,
+    "ultimo_edital": "Há 38 dias",
+    "vagas_detectadas": 3
   },
   "editals": [
     {
       "id": "8e98b93ff9d6",
       "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
       "fonte": "SOCIAL-GERAL",
-      "data": "Há 37 dias",
+      "data": "Há 38 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
       "categoria": "GERAL",
@@ -20,7 +20,7 @@
       "id": "e9329fea5856",
       "titulo": "CAAQ-CTS EDITAL 006/2023 - Marinha do Brasil",
       "fonte": "GNEWS-3",
-      "data": "Há 26 dias",
+      "data": "Há 27 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTDBSQktndmE4UUJuOHF0aW1WdTFGYnUtZE5QMDZoS3FUS3ExOC10Q2htYlczV0dIQjg1akpXbW1NVnBBR01wZnhPSTBJYXJDYkE?oc=5",
       "categoria": "CTS",
@@ -30,61 +30,11 @@
       "id": "f93ed279558f",
       "titulo": "CPRJ realiza 1ª etapa do processo seletivo para admissão ao CFAQ-MOC e CAAQ-CTS | Com1DN - Marinha do Brasil",
       "fonte": "GNEWS-3",
-      "data": "Há 25 dias",
+      "data": "Há 26 dias",
       "urgente": false,
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkl6U1RLNUFnN2hiakhTaGZfRjVWWVdXaTEyazFhejU5QkI5b3VRc3lwcHlNZUh6VkVMcWRVSWlqVFlmR3dyQmswd1BkOXBTY1ByZl96WmI0aEY0VEtGSldNZURJTHNFOGxyQTR6QVJ4SUtaMi1XcVhYOTBrOHUzY0VISDhkNW4yeHVKOWdISHcxdXpDUzJVWmZMcWtFM1lDVG1YS3hucEtJOGIxSy1RMGU2R0JUTkd1R3g5Z0JQa1JYZw?oc=5",
       "categoria": "MOC",
       "cidade": "Google News — edital DPC aquaviário MOC MOM"
-    },
-    {
-      "id": "636c9c87afd2",
-      "titulo": "Capitania dos Portos de Sergipe abre inscrições para processo seletivo para o Curso de Adaptação para Aquaviário - Cozin",
-      "fonte": "CPAP",
-      "data": "Hoje",
-      "urgente": false,
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOT2N5TmIzUDNFZGlzNzk4a2dxSU5kSExKOTZ1U1pzMXpSUncxbGdtdTdwUVpkb05nQjhNU2t5Z0pGVWEybXZJOTN4SWxfQ1dwNkxfald5Ul9NaTdlbEk5OWJReXF6blRKNWZ3TlZ6NTM0c1pxSTNlb3NYMDB0RWFRREt0NFlYODhzSkRSRWZHTzdST19RTkxkSmlXZUVROFFUMVB0bE9QekotU24zUG9xbW5YYzlsUUVua2IzSzZIVlFyZGJiZ0ZzR0poMy1IQXdSWTNjcjlOMU40VGZzbGp1Zmlfczg2MlBBeW55T1dna0lQbFlyaEVWc21IZEJwRmpub2U3Wl8welc3eWxHaHZCXzhZamRRZkd6MGtlS2xjMThyWEo5dDdvXzJBN0ZrRXRsZjZTUHhfMFIxUFA1ZXQ2eE9jbG5jUzZ0TWRHR0ZONHk2Snh4XzlleXE2aXh1NXZOUy1US2l3MEFaUQ?oc=5",
-      "categoria": "CTS",
-      "cidade": "Google News — Amapá (AP)"
-    },
-    {
-      "id": "36f1ad1298ec",
-      "titulo": "CPRS realiza teste de aptidão física do CFAQ-MOC T1/2025 - Marinha do Brasil",
-      "fonte": "CPRS",
-      "data": "Hoje",
-      "urgente": false,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41UUhzTjJnbWxhS2Z6Y1pZZTVaQ1VmczJJNk5HSEFRSmlUVXBYcEk4dDUyWVNpLTlpV0xqQlNoMVdUYUpETU5MTkRhOGV4enB2Y3c?oc=5",
-      "categoria": "MOC",
-      "cidade": "Google News — Rio Grande do Sul (RS)"
-    },
-    {
-      "id": "96e28a0701e2",
-      "titulo": "Capitania dos Portos de Sergipe abre inscrições para processo seletivo para o Curso de Adaptação para Aquaviário - Cozin",
-      "fonte": "CPSEP",
-      "data": "Hoje",
-      "urgente": false,
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOY2dkLV9abEE0MDMtbE5fWF81cnNIWE9abXhSLWFzWHBXX3VwV3NBUHlHWlJTZlZGQlcwZW5zb3NyYWIzRFlwR0piWjljVi1rVV9ldlFjV216aXdfbElHNENiSFlhalAzZGtfNDBDbjkzQ0lFLUlJUmU2NFVyOExoWWJ6d2RNb2QzYkFYX05BRXVjOERhcG9VMURVZjlQbGFfblJZaHpfVWE2Z0R0MGVuaFR1MzhaSGE2S044NXI2dTlDNnNUTXpJbFBQbk1TZ09RQ2VpODcwWnpUc2Q4NTFWNzNkWUd0QmdiMzJncnJFZXlNaWpiZjQxck1wdmlNR0lhRjNKVjlURlJjSzVMdzY1eFA3TnlnUE84cGg2VmJLMEpnT0U4Vm5vZzFjcmZCZmc4QU5DSXJGV1J6S2w1UXJFcnQxcGtvWTRQMWo5SDBCQXMxY0U3UXdjWi1lZ3BabUxW?oc=5",
-      "categoria": "CTS",
-      "cidade": "Google News — Sergipe (SE)"
-    },
-    {
-      "id": "56e71755a865",
-      "titulo": "Capitania dos Portos de Sergipe abre inscrições para processo seletivo para o Curso de Adaptação para Aquaviário - Cozin",
-      "fonte": "CFPAN",
-      "data": "Hoje",
-      "urgente": false,
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOY2dkLV9abEE0MDMtbE5fWF81cnNIWE9abXhSLWFzWHBXX3VwV3NBUHlHWlJTZlZGQlcwZW5zb3NyYWIzRFlwR0piWjljVi1rVV9ldlFjV216aXdfbElHNENiSFlhalAzZGtfNDBDbjkzQ0lFLUlJUmU2NFVyOExoWWJ6d2RNb2QzYkFYX05BRXVjOERhcG9VMURVZjlQbGFfblJZaHpfVWE2Z0R0MGVuaFR1MzhaSGE2S044NXI2dTlDNnNUTXpJbFBQbk1TZ09RQ2VpODcwWnpUc2Q4NTFWNzNkWUd0QmdiMzJncnJFZXlNaWpiZjQxck1wdmlNR0lhRjNKVjlURlJjSzVMdzY1eFA3TnlnUE84cGg2VmJLMEpnT0U4Vm5vZzFjcmZCZmc4QU5DSXJGV1J6S2w1UXJFcnQxcGtvWTRQMWo5SDBCQXMxY0U3UXdjWi1lZ3BabUxW?oc=5",
-      "categoria": "CTS",
-      "cidade": "Google News — Pantanal (MS)"
-    },
-    {
-      "id": "e83f14271fac",
-      "titulo": "02/04/2026 - Conclusão do Curso de Formação de Aquaviários – Marinheiro Fluvial Auxiliar (Convés e Máquinas) – Nível 2 –",
-      "fonte": "CFSF",
-      "data": "Hoje",
-      "urgente": false,
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rUEdCZ19rcjM0SjdqN0N6V19GLXRRcHAzYmRfWkozcmZiM0FpeW1pcGd2emJveUpfRzBQeGotd1BtRVhQV2VSOWI4VThNaUFf?oc=5",
-      "categoria": "GERAL",
-      "cidade": "Google News — São Francisco (MG)"
     }
   ]
 }
