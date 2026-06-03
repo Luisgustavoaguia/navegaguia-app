@@ -1,8 +1,98 @@
 {
-  "updated_at": "2026-06-01T08:00:15.399211",
+  "updated_at": "2026-06-03T08:00:18.858022",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 8,
+    "vagas_hoje": 8
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "98087eb3dd00",
+      "titulo": "Marinha abre 120 vagas em cursos de aquaviários com inscrições de 4 a 6 de maio - Concurso News",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BmVF9HSGlIamFncjJSZUJIVEY0cWR5NUN5Qy1LZjRqcHA1dkVpTnRFdUFnSHNZOWdWc1pycVJpLUIyVllqUm1pc1NvajMya1FLemx6TEJ1Vm1tR1VhZXgzem83Y2VyRWwwYTI3T2JLSU5oMW5TQzFMcV81UnM4djJKTGVJcHBzWVlnamdlTmlzSEs4QUFTaE84aXpmdzk1YUtSUkpodk9ZY0Q4MjFkdGNvd9IBswFBVV95cUxOb3BmVF9HSGlIamFncjJSZUJIVEY0cWR5NUN5Qy1LZjRqcHA1dkVpTnRFdUFnSHNZOWdWc1pycVJpLUIyVllqUm1pc1NvajMya1FLemx6TEJ1Vm1tR1VhZXgzem83Y2VyRWwwYTI3T2JLSU5oMW5TQzFMcV81UnM4djJKTGVJcHBzWVlnamdlTmlzSEs4QUFTaE84aXpmdzk1YUtSUkpodk9ZY0Q4MjFkdGNvdw?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "106de9bd2a38",
+      "titulo": "Marinha abre seletivo com 118 vagas para curso de Aquaviários em Santarém (PA) - Concursos no Brasil",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFYxY0JFTG1lZkVkeEswM0ZDNXY2U3JFNjdjdklOUlE0aUZXdXNWemQ2TmlOb1dWUFgzaVc5eDN2N0J4WTkyUTRBZlJWOUlwV29ZZjBhZ25WVFhZMHRNc3pGTmlScVJVa1ZsUDdzLUJvV0pnbFZTbjBnNGJvbENJUTA0TEpVRUVlay1sSG91X2ptMnphWi0zcWpGUzZYbWtSdXNWWU5Gc245YzdOLUp4c2xKVG93YnlSampzY2lWV0JJcURPMkhXN3h4Yw?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "afb07c0bd767",
+      "titulo": "Fundo da Marinha Mercante prioriza R$ 4,6 bilhões para projetos na Região Norte em 2025 - GOV.BR",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZ2luLTdwMmhuNjIwUngwMVpTa3JQMjN4eFowMHZkN1hFUDBRY0EwbEpDeVBjNWhBNjFJNFZwNW43cmd3OHZlYjAwM3hfQjBxU3phdTk1a0VQN1E5WUxnTUhUNXByN3diM2g1TFdIeF83SzcxMDM1a2dPdjFLRFppeF9Nbi1MbV9BYWtuaHZYd21zUzd1WHcyZllfY0QtNUdkUFRqUUFQQi1SM3RBWXV3WENZTC1QTW5RaDNpeU9GNkZmLThzT0p5WEV5LUJJV3BLMk5rT3N3UWpITTUwbHktNlFiRlpuTmhLMUwyVXJB?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "1dd35305284d",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 6 bilhões em projetos para o setor naval - GOV.BR",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNDJiTzVTb0dualM5M0ttamVaNHpJcVBPMVdGZU9MNGNraW5qc0s0UC1VWTlKUU9vY3NlWmoxMUpnNTNKMHNqeFFCeE1sX3VXOUpybUdVNjJSeG5nVjZCd2w5WDFhdHEyWlFFdGFrSTVuR1QwdXBuSHNQTGVvOEVoY2o3Wml4RVB3dGR3X2x2Q0s4eFdLSUZRVTdaUkVxUFFkdnN6MklGaWZwaVRzUTg3Y3lOYWFhZG0tTWI2WHFXZWpXUVlabjhXQW56bGhlMmNYU0hfRVRDaHRpeXk0LTVv?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "fbcaf94fb57c",
+      "titulo": "Concurso da Marinha Mercante: últimas horas de inscrição para 368 vagas - JC Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWlzdnF5ZWxiRVpTWmpGRElVS3NqWHRnZlNGekpabGt3Yk5ad1g3dzJKN3FhRW9HVGtRd3ZSbmd5cUhwRTZsWUlSUEJONWMxbWNVYkViaDJkdm1LYTlhRzZVeFlhY0RZMWoxNGdKMEo0Z19JaHZRWmdma2RBenFSbnd3Nmx2WDMtZzdjOWZDYmEzNnE2dmJ6SWFySHEyS3hIVG1heW9rMDZCRTd5eTM3cXp0UlVjTmt2UTlJ0gHAAUFVX3lxTE81N0tzTW81cG9kb3gtZy1BcVJVaTBHTHFHTl9FdzVPNUNNbE84NFlYX1J1TjBqa25FWVFDX0ppcVBrOWwzU0hkRE1MendTb08yNTZWdm1LVlUtemxKZmlKVEJremZnWU9ZX011WGxIdjVMb1hzNVpKRkxqUXFxMWQtUktKV0NjbW4tRGFIY0NKTC1EZTdNSUVnTkdhRkhpT2pTVGR2ZGxGZk1ucUVHU2FTUGdSMGRBX253aVktUXRIcg?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "0bb4afe4ca0a",
+      "titulo": "Atlas Professionals está recrutando profissionais offshore para embarque - Petrosolgas",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMDk3bW5jYjNxWTUydFdFQzdsdXpZQjdfYVVpeWgtQzJZUm02WXVCZXdTalNleURmTGZFTUxDSVREaG5RSGF0blh2RmF1dFpUbkp0ZzkySGd2MUpMaGdjSUEwZzUtcllfLW9ZNVRoc0lzR2VCV0xzMXdlWHhvbHZsa1k2THoxc0FqaUoyQi1KVUNtV1ZLRC01UHM3VG43LWhtbmc?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "c0bce0287c29",
+      "titulo": "Brunel requisita Enfermeiro Offshore - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sUTktRjMzZE51VmFSUnhPa0g2SlZMeUZ1XzE1QXdoeTBGazE2QTBKVDJZb3ZtTFlYbHp3MWxCckRyTmd0Z25aNjZwOGZLWkFveXF6OFU0TnZkOFRpaDlYY0h6c2w2Tlg4bGVZM2pURVA5bWlKSjF5XzVR?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
+      ]
+    },
+    {
+      "id": "e01a4d5c5586",
+      "titulo": "Campos dos Goytacazes convoca para mais de 230 vagas offshore com início imediato; confira o whatsapp para mais informaç",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWHpyS3lZT1Y2SGRNaXVyejlzb0ZtVl8yLXowbzhkVngwNnRBX3gtWTlVMU10NDRPNDdzYXk2SzVveWpobU9Td2JNZkZ2T05zcWZpUXZ1ZkxPZ0UzRTE4U204VmNvUXdnZElOREVPLXNzQmhaOU5FQmJvV3YteUJkWlFTcnI1ZllMNzQ0Vl80ZFZFMk03Qlc0b3B6TDBGLTE2bExXT2dheWxOSE9lVjFRanQ3OFJualdTX2xrUkdSMzlwUXVuYWkybURobVp5YUgtWlpWcDZzQlhIaG5maHlaTU9vTkFkZVdtSnd3aA?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    }
+  ]
 }
