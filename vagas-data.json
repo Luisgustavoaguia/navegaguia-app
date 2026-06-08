@@ -1,52 +1,66 @@
 {
-  "updated_at": "2026-06-06T08:00:18.421956",
+  "updated_at": "2026-06-08T08:00:19.203478",
   "stats": {
-    "total_vagas": 4,
-    "vagas_hoje": 4
+    "total_vagas": 5,
+    "vagas_hoje": 5
   },
   "vagas": [
     {
-      "id": "c0207773d88d",
-      "titulo": "Capitania dos Portos de Itajaí abre 75 vagas em cursos gratuitos para Marinha Mercante - jornalrazao.com",
+      "id": "f4d48be42919",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 81 milhões para a indústria naval no Sul do País - GOV.BR",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEdRRURac1Y1SUpPbGhCUFE5V3NqSlVCTlhwUGY3d1QxQkVJX3ZGXzhNR1RYang4Vk44RVhTbzRxWVJ6UzltUk90ZHNfQS0wdEYxNTBUTlhJbU9NckFUcmVOdUl6S01LeGJVY3piaklhcUliV2VZQW81ZFQ0TGNLOEpWb0dsQ2VMbnBTUkFnR1QwRV85cmtfcXVzQ0RRR3ZXSXd5bjVyakx4MWg2dDNGZXRoS20yYTQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTG5YVWZNeXZySG9Da2VrYWp5YjRjRjZkZVo2dU9ib0k2UWhTWDJ1aFlGZG43V0pFYWpmYlBJWWJvejUtYlJkUXhkMFpweW5qazloM1dwemxfWDdkbFFfbHdVRjJMMFo0aUF2aS0tbkNaTVJwNnVmWmpIcHpTVUZ4ZkJFMndTaTFLZ0FYczNqSjRETFEzZDR1UTRXQWhJUmJjdHZvbkJUNzF2dVZkVzJ3SjFWSnR0dUVlQnpHZnExS3I5YjgzcjdPT0xMS0pvY0pUc3B0T29hSDlQdzl1aks5RUxKWHRYNXdYLUdMTQ?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "1c37319a8ee6",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 136,9 milhões para alavancar indústria naval no Nordeste - GOV.BR",
+      "id": "c142d2e4fc30",
+      "titulo": "Prefeitura de Macaé oferece 78 vagas offshore para profissionais qualificados - ODEBATEON",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzRDWC1lTDhEeWwwOEphNWhXR085SjRFUjFWMjM5U2hBVmxpUjJld1BBWWp6YUFtSnlKRnhnZVJuLXNUZE5Yb3FseDFmX0l1QTdna2lmOFdxZXhVWk5ia3R4YkVkQ1lvRGFUTl9GYjJ4eTRTWDdxdDB4VmJBNjkxNG0zLV9rbGwzRXpvbklaa3hvVlZ2bXFjQUhBQTFzSDgwbXVJUTNiQml2c21YbTVTX3JrckFHZjVFcHRtY0JENTk3QnNqQTYwVkVCVGt1QjREb3lacnR2LU1rY3lERlY1TjBfbmpWNTJJcXBhNXJfUjBTZ1oxci1J?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "d9c48470c556",
-      "titulo": "Marinha Mercante oferece 366 vagas para nível médio - meutudo",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWjZiOFgxU1FLeHNfWUlqc1hJSW9ILXlaME9lcjBQUU9NNzJlbzJfY1JqVDJTU0VEOWFQRlRSYkNZZ0RfWmpsRlhWUHVITVlGVkpvTE9BUGdXOGltTlItbEIwd0xnQzFFdDRtVXh4RlYtZlhCWHpKd3JVVTdSakZuVWpxeDhRbE1uR2duMTlPc21XX1ppc1VUdkdGLWtZeUtLQkt2S0ZYT0JnbFBRQzBqc0tvRFVDQnVrSXEyRmJuSEF3NlltcllJRkt3?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "5c7737964dc9",
-      "titulo": "DOF Subsea divulga novas vagas offshore para profissionais do Rio de Janeiro - Petrosolgas",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOclZnYmdLczhFOXp5ekZ2bkg1RzJ4eUV3NmN3QmhwblM5bEFPYThIRmVYV3dVeHZwMVpGRmE4aU80Y3V1blR5bU1VU3c5Y3Y5WG5JaGh5S0tOdmMxenJOb1NKQ0NfSjlqWV9YNmJsZURMdGE1bUhNX1V1ZGVpMmFfSnZzZ2VTVlpDb2I1aDItVVF5eC10T2l4VnFoaC1hNVhnSHJqZEJlSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmFSNXljZ2NmV0h5R2JaQ09HRXBxU0sxYjFUQTBUTklsdWNMYTBDSHZNUVNLWlRmNGJURHlwNGZxUzJ3aEtUQm5QLU9TSWRiV3pZclFHR1dzTFpxZVVHTU9sWWJxM0NoMlpRRlFUUVhNVUp6ZGtzMlR3V09WY296SkdGOEhVVjI1RmllOUM0QVJOT2hiSHJVWm5vNHhjSldvZUVIY3ZR0gGrAUFVX3lxTE8takFseFdXT0k3YmJHekZlcGdEWDcxNnFjdzNMdVlyUUQ1Y0JBQmRKaWZxR1RwWkNWczRoNnlRa2hpVkt5blp6LWlaNWZFUWxjQzloRkVDU3R0X2c4WTZkTER4NVRfOGRzUG1nTVlYYWRoX3pPTGJkWkxXVHRKTjJYc2FSQ3RUb1lodmZ2X1V3WlJHSnFFZFVZS0p5NXFrb3lFWEEweGpmS0dXZw?oc=5",
       "keywords": [
         "offshore"
+      ]
+    },
+    {
+      "id": "5de1cbfd4248",
+      "titulo": "Oceânica abre nova vaga offshore para 2026: oportunidade para trabalhar embarcado em escala 28 x 28 com direito a vale a",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNVEI0TE9JVEo3azBkb1VEV1hpdW43N2lRbFVINndFRUpUMkxiTTFISk5qODJFTmhGNUZWU0kzUkpTOXRwUzNSSWk1RG9KN2hha3NGZFdyOGNQRGJpZzJYNlRFNW9QWVk1dU5maFFGdUFJQjR4S292ckhobjgtdTFWOEN5TVBKTnZCemZaS3ZINXc2MloteXhQZldFN2tCTGpZSjQ0cGxpUVJld25fOVdsYnZ6aC00OUJpRjNxTm9zU0U4M2ppSW5DRW9DNFR2Qno4WVY4eXpURFpKMUUxNUl6UkhJcEJxbHFPaVJ5NjZKUGRwMkVTOEtFbVdPZG5nekhYTGJHN1pqbU00WXVlekxDcHNYSDBKTEw5eFpGNm80ZktSR0MtVEhqMGFXbmpaelli?oc=5",
+      "keywords": [
+        "offshore",
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4ac21c802c5b",
+      "titulo": "Baru Offshore abre vagas de emprego offshore com escala 28x28 para atuar como Moço de Convés, Comandante, Subchefe de Má",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORjJCdkZ6NHBNRXozSGttUkhSaVFrOFI2MkM1RlpOUW9ncGplOTh0YjhTYUh6cVl1WlFZNVFldUpyYXRKeTUtS3B0VVAzRUQybThhMXgxbnVIZktGcXp0OF9DNzNfVGlJUUNReEtWX2ZDSnIzV19YaXJyVFl2ZVBuOWp6Y3F4TVJpXzdSaFhfa3BnY19tTXRXRmZNNm1vcjRhY0k4UDl5MGhSWk80b0tMRVo0bTZIbnBDNVlLWTlCWFltZUo0VVZYdU1PS3NKVi15Zy16OXFhM3RodDh2TG9SaTlOb1FiZlNm?oc=5",
+      "keywords": [
+        "moço de convés",
+        "offshore"
+      ]
+    },
+    {
+      "id": "89b48e96a353",
+      "titulo": "Grupo Bravante abre vagas offshore com escalas 7x7 e 28x28 para quem quer trabalhar embarcado - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDg4ZHNlclJIVk5SWmZIdkFWQlRKUXljRm14dENIN01WN3RHRU1WS3NFeWNORHh4Rkd1ZGIyOXdVX2t2NGEta1lOWGhybXNVaXlPR0VQR3VWOU8yUUZHbThCRmg0akc5NXNYVWxhQlZ0bXFiTGx4aVJoVDBXYUV6RDBLTnBaMjJQemNBVlZaeU45VEJXV1AyaHJ0OWFxREFQUE1rc19FZ0lsd2ZjQk9sNHlDaFo0Wk9ObGVITDZqNVNHeUJUQXhMZ05BRTJ2UkU?oc=5",
+      "keywords": [
+        "offshore",
+        "embarcado"
       ]
     }
   ]
