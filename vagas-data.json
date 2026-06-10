@@ -1,83 +1,17 @@
 {
-  "updated_at": "2026-06-09T08:25:12.505602",
+  "updated_at": "2026-06-10T08:00:19.634894",
   "stats": {
-    "total_vagas": 7,
-    "vagas_hoje": 7
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
   "vagas": [
     {
-      "id": "af3c2af5fa37",
-      "titulo": "Último dia para se inscrever no concurso da Marinha Mercante com 368 vagas - diariodopara.com.br",
+      "id": "675d4b102a09",
+      "titulo": "Projetos apoiados pelo Fundo de Marinha Mercante criaram quase 50 mil empregos em 3 anos - Monitor Mercantil",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEdnSDZydEkwRmVwM2k4d2pxRU1RbS1rUkNlRHpCZXRIblQ0VXNRaGRZb25mTng3VmxleTBydHRGS1BTaWJ5MWVUYllFcWNycTZyRmEydnFDME1Sak5jdUliTDVQc3NLRXE5S2dtQVI0Z0pmOURDV0JOb3ZXN1J3SHBwRU9DQlBXRUFFaXJNYmpQM1VJY1Z2NWhWRjlCMy11OUFNTU1PeGQzUQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "50f1925b670b",
-      "titulo": "Marinha Mercante abre concurso com 368 vagas para nível médio - Terra",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1hzNURCbFBDVzVPTXdIcW9lSFJhNkZ0MUdtNjVnUnFfRGtxV1lINXFfSmRsN0lpZVNOQ2N6U0FNNEVDdW5iWFotRWQ1WU5xMlhxcnB6bVV0UVgwOGdacTZ5d3lTNDZ5UlF0SkRodl9reGxYRzJJZUZBdGxXQWhteGRrcGVFY1d1R18xaGFha2xuUTFHZkdZSy01WTY4b3NyXy1UMTlqbFZvWEZQazl0bTFIbEVNZWVKWTJydmVvbmRYeHIxWGF4QUpkNUFtdFVfZnFMc3VUSGIxV3NFdlpPNFZkM2N5OS1ZTEZtdkxfM2k?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "7f708a7368a1",
-      "titulo": "Oceânica Engenharia abre processo seletivo URGENTE com muitas vagas offshore para quem sonha em trabalhar em alto mar! -",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzVhU05qLXVnTThWRjJDYlRQOGdXMjNLVk9BREUtSFptTFcyQlV6R3FHWDktV0VJYllfY183cEtkUG84R1ZxbmVmbkRsT3pFeEhtNW1ackt2WnMtaUtqQUIwRjA3eUpRU0l6V2hiLUdJWmVJSkdiU1AyUldwZHpqdzQwNG9SUzRlb0ZSdkpqS0JMa0hWbVJZelNBNWFLczViTWlxekdDNTI3NndFOWpJXzVsQkNWbV9qTTNSNlFkMGNIZVlSdl9uRnd3SkpxbU80Q0pnRmNwMmZORUNpcEE?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "6a3756c5c04f",
-      "titulo": "Uniflex Group abre vagas offshore para candidatos com e sem experiência em Macaé-RJ - Petrosolgas",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1pPZHVKc1hYR2dmNDB6Slh3b2FHOTEwc3pIMGxaakd4Zkx3MHhMWmU2V1JmT2Z2VlIxVVlqRHhLUU8zN2lEd3JKUHlXVjdKMXhqd3E4UDZpd0ZvSWtuYkFUTkNkOFRiTVZ6ZzRieWFkeFdNWnQ0ejJkd21VV25Md3M4WWNwS0o1c1M3bF9KS1Z6SXI4aXBCM01ZZVMwbGtPS2RnOFFpUDIxTnFiUTdhTg?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "b3c88c313698",
-      "titulo": "Setor de petróleo acelera contratações em 2026 e técnicos viram prioridade no offshore - Monitor do Mercado",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXZ0aWhZbEE3c1Y5a2Z6SnFDNjJncmRHWWtSbXFScEhubFVaMmZEdnI1N1duWkw5ZVg0SkhxMXdUU3A0M24yS3A2UG9YZVFfdzRDZVJPSFZ6WS13aWlxVDl6RlJHVVFySXBzd2JEd3JaZmU0cmtNTVNPZHl2eHNPNmhRc01DeGVyakFwLVluOTFyaV9lWG5QcmpQVnE5a1NVS2ZwbVUtTWRoazUxZUExNlItT3VibG5mYWFpd2MwT3Q4SG45RU0yZ004NWNxNFhu?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "3f18a5d98693",
-      "titulo": "Vagas On e Offshore – Engenheiro mecânico, torneiro, técnico em elétrica, técnico em mecânica e mais são requisitados pa",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPNnNCblNjNm5wUmhFa1llZDlDT3ZoU0N4bEpEWnFWZHc2eUhibUZER1c2cEZZTUV2RWN5WXNrZERRSWpLMFJxcmc1V3J2VnFLVFRzNUJqVkJnWVhnUE0xY0ZTa1ZwQVBpcmg5dGpsTXZfdjBjeUY5bkttMjhTV3RCUWNRVFJiQkRVVmxRLVVjYTdRQ1hUWU8wSlRpd2oxUFpfcmRGYkk3cjRBUFJjNC1hTEd5YUpXdHdTWFVqTnNDVDVQSWRUTDdBVm5lcnBka2VSVVBiRmhfMS1JcXVnTHdFRGMzX0dvVXdkUTQ1WUsxbVVxQTl1S0Ftb1ZsSm5TZmY0T21GNWxvM0F5T2M?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "580f5c1f8a22",
-      "titulo": "A Constellation Oil Services, líder em perfuração em águas ultraprofundas no Brasil, anunciou vagas de emprego para dife",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNMkFMekdMQWlZSlZYM2hRNEhGYkdTMnd1dW44aEo0X3p0QWU4TFNsSWROaTllT3ZMQVgxNm1lSTJSVVd2SW1DWUVienI4TG5fWFotajJXNjNkUERsVk16WEhiOUtneW9HaVJnd1UzWDB5SkF5c09DR1ZfdnR1NkRSNE02TmMzTHBnM3pUaGxwZDlFNkJzbDEtNDhRX1FSdHlublpZcEU3WWNhdW56YlI1Mm50cUQzTERSM2otWXpHSUQ3NVNnckFfVTVuNTl6ZGxOenZEaEJPUFFJRDA1bzlLZHdBci1DUlhCaGNJc3ZFYVQydjVuc0xwaVpUWmpCV3lVOGlWQXp3Q0g3UUlwM2dMSjVzeXNPYmJwTDVWUXU4WU5QNzZNQnZjRGFPRm1qajlxWDRVT1dOZlNsZVdnTzhWaGVEeGVWeUduWXQySGVEVQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFdadmJkVktURVItZFotekwxSVpvQ2FrRXNUTVpMX256WkVUSHNEdnZkR0dRZGV2MFJSU2NkR2RYbXh2ajdnNTdORU9HQ1pqSEhCWlVMdkZGeWlHWFUtNTNHeHR5V1pGUzdFU2NiblVqM0FOaTYybVF2ZlAyTnY5aXBybnlRZm1RMVBjV2txNzhpaGpnVjVGTHlkUTE4YXBiT01kbXEyNEhtaDlETTlRanBQMzNxMkxPeTNVY3VB?oc=5",
       "keywords": [
         "embarcado"
       ]
