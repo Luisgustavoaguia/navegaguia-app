@@ -1,108 +1,75 @@
 {
-  "updated_at": "2026-06-15T08:00:20.474033",
+  "updated_at": "2026-06-17T08:00:17.796321",
   "stats": {
-    "total_vagas": 9,
-    "vagas_hoje": 9
+    "total_vagas": 6,
+    "vagas_hoje": 6
   },
   "vagas": [
     {
-      "id": "21259b671af0",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 81 milhões para a indústria naval no Sul do País - www.gov.br",
+      "id": "7eefe78551e9",
+      "titulo": "Halliburton abre processo seletivo no Brasil com mais de 30 vagas offshore de nível técnico e superior - CPG Click Petró",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNTG5YVWZNeXZySG9Da2VrYWp5YjRjRjZkZVo2dU9ib0k2UWhTWDJ1aFlGZG43V0pFYWpmYlBJWWJvejUtYlJkUXhkMFpweW5qazloM1dwemxfWDdkbFFfbHdVRjJMMFo0aUF2aS0tbkNaTVJwNnVmWmpIcHpTVUZ4ZkJFMndTaTFLZ0FYczNqSjRETFEzZDR1UTRXQWhJUmJjdHZvbkJUNzF2dVZkVzJ3SjFWSnR0dUVlQnpHZnExS3I5YjgzcjdPT0xMS0pvY0pUc3B0T29hSDlQdzl1aks5RUxKWHRYNXdYLUdMTQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "8c6464db28f8",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 136,9 milhões para alavancar indústria naval no Nordeste - www.gov.br",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzRDWC1lTDhEeWwwOEphNWhXR085SjRFUjFWMjM5U2hBVmxpUjJld1BBWWp6YUFtSnlKRnhnZVJuLXNUZE5Yb3FseDFmX0l1QTdna2lmOFdxZXhVWk5ia3R4YkVkQ1lvRGFUTl9GYjJ4eTRTWDdxdDB4VmJBNjkxNG0zLV9rbGwzRXpvbklaa3hvVlZ2bXFjQUhBQTFzSDgwbXVJUTNiQml2c21YbTVTX3JrckFHZjVFcHRtY0JENTk3QnNqQTYwVkVCVGt1QjREb3lacnR2LU1rY3lERlY1TjBfbmpWNTJJcXBhNXJfUjBTZ1oxci1J?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "8d160bacb0f1",
-      "titulo": "Engeman anuncia diversas vagas de emprego offshore em Macaé/RJ - Petrosolgas",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNem1DY1ZNWGVON1dEVHNJOS01YjVTU2xnNUxTbzM1bkZVYUZhdG41WlJlUTRBMHdaOHZrby1majFQcE9GN2NEUTY0eFc0bUl1cHM3UmZrSnBfQWRNajhvam1RUDZYaGk5UDViTjN6TUZaX0JiZmI4NWxHdncyeXZ5bkVyRGxHV2dERXBEZnhvaXoxeFFp?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVI3eFhqaUVrOG1IdGtzNlhjY05OQmZ6czlnaFRyVHBrU1pfRHhmcjlVZ1BDUWVUb2JVVVlwUUY5UTRYbi1XZEVDMk0tZDg4anRmWUZweEdLWGZaWnBpeHFfM2RqSGtwdUJ5WXpueTNQel82OHRXdnl6TE9GX1FrTlZzUDNTbFpSR3I5SkRoUkE1M2J3TjFwM05FX0lmdWQyS3UxSzFTby1GZndRQzlQaUhXRDl5TWlIVHJ2a2FrbGp4NkdORGNUQnE0bUM2eEFYRFE?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "c13de287221e",
-      "titulo": "Prefeitura de Macaé abre mais de 50 vagas de emprego onshore e offshore para pessoas com e sem experiência exigindo apen",
+      "id": "19e663d0d153",
+      "titulo": "Vagas no setor marítimo! OSM Thome abre oportunidades offshore e onshore para profissionais de diversos níveis, com chan",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWDlYSUNudE9DVm0yWWh1bjIyMVBQc1c2QVVOMTBwSl9FLUZvVEJLc2d4bnlOWll0czUydUxsaVd2eGVsYndJZFBQcmxsOTdXU3Q2ekptYlBJVFVjWk5udjEwMEhyT3pLUVo4UXVwMjZ1UktLekVNU2Q3STF2cGpIdm9fOWVZVUl3b3BvTXprTFE5NmNRYm14Uk13MDNRejA0S0tla2F4WUU4a2N1bmwyaldYWEx6UEdtaEFud1Y5TmRidnE3VWN2blJhME1rM1FHM0p4Mk53Y2QxeTh5ckRibFFjeWpXSWZ1akNWdENYd1dRdHhYeV8wdDVoaUdHRk5uSjhPeDJuMjd6TTlUVUR3eDI1dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQenBXWGt6Q19IVXFMY2t6MnQ1V0MzeVljQXVjR0k3WW1mckFMaExyaEhyTjdJd3lEbUtCbll2akxBODRJZU5VYXVJcVR2WVQ3dktOSWk1SzREM0cxVnJ3V3Y1WXB0emwzMnlYckIyQlZLVWZ3bEhfMUc3dnVKZXV0a3VzUUhVZ3AwRGdqRlNQeElsQU13THN6OE9oRU1PUEV5MG1lWm95bmMyZkZhdkdUUElYWVZDWUxBR0NTRDlPRGVkaTdxbHdydlgwcnZ2LTNZQURNV3pxbjQwRE1KV2NOYTVTdnhWUDdoRlViZjh0N2Y3S1hlbXRJc19CMXo1ZlBwbTJUekFPNDVONVpnSjc4ck05WkF4WS0wa3c?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "a2c65d16a523",
-      "titulo": "Evolk RH abre vagas offshore para inicio imediato em Macaé e Rio das Ostras - Petrosolgas",
+      "id": "c30f312cd5c7",
+      "titulo": "Omni Táxi Aéreo abre vagas de trabalho para operações offshore e áreas estratégicas no Rio e Amazonas - AEROIN",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUi1oaFMyTjJvbXdrQmFpRmQxbnFHbGwtbnp3ZzFRSjV3b2ZSeWh0dzFfMUNka1d0NVJmR2JMbmswTEdxallCa19VUDZQVjUtSm96TmhIeElNZFpVb0Z3SHQxUGxlcVgxTVdNSjZzaW5ab3BMMzhWX1RtMndYbXo0T2tPVTFPTUZfcC1XTUxERUZ6cEFTaEpkNk9KaTNNSERZazFUZlhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTViRFNNTi1UZU1XU19FZlFGVUk4NVgyN2JIdXFHS3lOam16ZlRTYXlJZUlWSFJMblBGeE4ydDVlYktMMG9PY2VNWDByZEk1SG5EUHpSOWZqU3VZSXJFalN1c2tEbzBkVGl3MGtVbDQ0cGZiaFBTczFyU0lrendMVXV0dFZnc000dGtMcE51VEZTaF9YMF9iMU5tYzVNcjBjdFlOTGZhRDBCdVM0YjNrLXNtUHpOb01Ca0tiSThB0gG-AUFVX3lxTE4tNWJEU01OLVRlTVdTX0VmUUZVSTg1WDI3Ykh1cUdLeU5qbXpmVFNheUllSVZIUkxuUEZ4TjJ0NWViS0wwb09jZU1YMHJkSTVIbkRQelI5ZmpTdVlJckVqU3Vza0RvMGRUaXcwa1VsNDRwZmJoUFNzMXJTSWt6d0xVdXR0VmdzTTR0a0xwTnVURlNoX1gwX2IxTm1jNU1yMGN0WU5MZmFEMEJ1UzRiM2stc21Qek5vTUJrS2JJOEE?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "852711355187",
-      "titulo": "GranEnergia abre vagas de emprego Offshore, oportunidades para marinheiro e segundo oficial de máquinas no Rio de Janeir",
+      "id": "767422a12293",
+      "titulo": "Enfermeiros offshore são requisitados hoje(29/01) - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTnhoOXVUZDBTbG9aT1VMQzJiSUY3QnZJN3BWNEt6TkFXWlRMcGlWUG16eENFbEc5bWtJcFN0T2dQZWdtRk54M0M3NjhEUlJTdmExeWhxZDUzNmw0N09yRGwyRU95d0N1YkY2QnJkdHlYcTRPQWJmTWtQRmhVbDhvckRMa3JMMVRaY0Q2czZJaURVWWtPVXNCUEFQZ0s3dGJsQUxKM0VWNmRiOVE0aDhjeHUzUWhaQ21DdUxuaGlqQkF6bVRiY3B0OUVKYXFBeEt4RDlWdnZmVEpDTkhoaEFyVG54RThSVW9sbmZEUWU0T0R1cXVUNThMMw?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "515e519e196c",
-      "titulo": "Processo seletivo offshore para atividades de óleo e gás na função de Enfermeiro Marítimo hoje, 23 de junho - CPG Click ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1VTWlDNTZKQU5pOEhqM2kxb1had2ZHNUVVdl96Yll0RllCcVlyNENjRHJLUjNxbFg3M3I4QjlnVmtEZ0p4MUk2RE8zZDlUQXdWM0tNbm9mclEwMy10bWpIcnVHZlZRRzhiSFFOeXdWbjZQSTRWeUFCR2tGZjBwUEZmR21rcFF4Qmh6MEdkUTM5UGZuVE1rdFItMnBNb3pMVU1QLWVvOGFSNTk1OEtUNHgwSUtSMllvdUhubFRHc0l1YWh1cVpFSzJkQXg2U2dOaUZTOVlXNFBZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1VUMFNJZno4azJpekllWXp5eV9fTGlKQ2I1aVR4RnMxWE9oRHhTNUY5bjY0eC04cjlwR0t4YWNDaHZabXhsQUJxZFJxMTRqbU50SE13dmtLZ1pzT2JBeG9lZDM3S1Q3YWxISWJlZWJ2bjJMX3pDamoyOFZWRC13VHRySnd5V3Nm?oc=5",
       "keywords": [
         "enfermeiro offshore",
         "offshore"
       ]
     },
     {
-      "id": "9e83b6754597",
-      "titulo": "MODEC abre vagas de emprego on e offshore no Brasil e no exterior; oportunidades para Assistentes, Engenheiros, Marinhei",
+      "id": "b977f1265aed",
+      "titulo": "Baker Hughes abre vagas de emprego para Técnico de Segurança do Trabalho Offshore em Macaé, RJ e outras oportunidades pe",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdFBWbnppeGJjeE1JN00zcEo2b0poME1VblBFdmhmanQxSFB5QXlJY2VmeEVoWk5xaGVLZHNFcFYtR3ZxRW4tc3lRcTJnd2VwTWRWY091aHNvb0FMYlgyaEgtNHlicHY3N0ZJbXVVZExZemtUVExva2Y3Ull3dDQweDgxV0ZNckRGXzFqT3FEM2RzU3h6UF9BTXg4MUc1NEUtMGt1S1RiZVlMYW9kVXd2T2xPcHlITkt2M0VTQjJwQzNQMVliMzhHZjRoZWlCOUVIYXhoY0R3U2NDY3VHZ1M2MnFJeWtzQU9YY1hVaHB5OXd6LWxyTjZ0LVU5M3IzRm1rT0FFTnhDNEZ2ZFEtdUJOOFpmVzdtOUxuSnJBUlp0R1EwMjNrS0pRWDBaZFV6Uk00N1JVS1d0Ym8tcE1CNy1J?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYnVLeWhleTBpSGlGc1Jla2JHbUZOOXZubmJ3c2gwN1VWa080Z0pISmhfWHNaZVd2YjlvQW5fYUJpOWtnQnlJdWRMSjRrV3dlcFh2N1ZFNHNnTnM1cWNDdTFVcXN2SWU4UnU3Y1dhekQ5OHE0WVYyYVFpajM5Y0pwUGRkc1N3aDdtdzB1R3djLS1Xc3NBTkRxUDJESF8yc01qWWhWamx5TlVyUTRJUDhwRTVJQTBXeVBMMkxCbzZPdVNJLWNMeHpITG1JZER3Z2FUVFJ3WlhIOU5lSDA0ajk3R042cFMtbU5hTG1CNm5NVm1fUHBh?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "766dfc2119c9",
-      "titulo": "5 cursos para trabalhar embarcado: vejas as melhores opções - Quero Bolsa",
+      "id": "be0a6f9ecc54",
+      "titulo": "Marinha Capitania Fluvial de Santarém PA abre concurso com 118 vagas para aquaviários - Qconcursos Folha Dirigida",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWEVYNGlwMEF2UEtvVWw1eV9FRktiOUJOcGJDNzN4YWJ5ZG5qSUFwNkE1OF93TjRLY2tFQjJ6THd2U19tajlFbURXV2RnOTN0eFp4VVV5Wl84R25jSi00bVNlYjAyNXdlTGR5SEV0NC11TWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDFxMlptSzQ3X0ZBQmg1MGFqSXp2S0NTcHE0U0txZW5VUFNtT3drTWhOSEdHdlhTdEFzQWl0cS1fZWdmZ1lyUmRmNzBMNmNBNHVha1JneVlFLVNoOWNsRHZ6SWFxbWxoTWlSVXJkck51ZnFNUHZ0aEdQdlB2X0hEQVAxRHRwTUg4VUFSRFpuVlFEY1Z1R281UVY4dkpFa0lKY01RRTJQajE5bDBDbkFVanRfZW5taGM?oc=5",
       "keywords": [
-        "embarcado"
+        "aquaviário"
       ]
     }
   ]
