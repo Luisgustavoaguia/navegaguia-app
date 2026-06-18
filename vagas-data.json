@@ -1,76 +1,8 @@
 {
-  "updated_at": "2026-06-17T08:00:17.796321",
+  "updated_at": "2026-06-18T08:00:15.738403",
   "stats": {
-    "total_vagas": 6,
-    "vagas_hoje": 6
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "7eefe78551e9",
-      "titulo": "Halliburton abre processo seletivo no Brasil com mais de 30 vagas offshore de nível técnico e superior - CPG Click Petró",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTVI3eFhqaUVrOG1IdGtzNlhjY05OQmZ6czlnaFRyVHBrU1pfRHhmcjlVZ1BDUWVUb2JVVVlwUUY5UTRYbi1XZEVDMk0tZDg4anRmWUZweEdLWGZaWnBpeHFfM2RqSGtwdUJ5WXpueTNQel82OHRXdnl6TE9GX1FrTlZzUDNTbFpSR3I5SkRoUkE1M2J3TjFwM05FX0lmdWQyS3UxSzFTby1GZndRQzlQaUhXRDl5TWlIVHJ2a2FrbGp4NkdORGNUQnE0bUM2eEFYRFE?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "19e663d0d153",
-      "titulo": "Vagas no setor marítimo! OSM Thome abre oportunidades offshore e onshore para profissionais de diversos níveis, com chan",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQenBXWGt6Q19IVXFMY2t6MnQ1V0MzeVljQXVjR0k3WW1mckFMaExyaEhyTjdJd3lEbUtCbll2akxBODRJZU5VYXVJcVR2WVQ3dktOSWk1SzREM0cxVnJ3V3Y1WXB0emwzMnlYckIyQlZLVWZ3bEhfMUc3dnVKZXV0a3VzUUhVZ3AwRGdqRlNQeElsQU13THN6OE9oRU1PUEV5MG1lWm95bmMyZkZhdkdUUElYWVZDWUxBR0NTRDlPRGVkaTdxbHdydlgwcnZ2LTNZQURNV3pxbjQwRE1KV2NOYTVTdnhWUDdoRlViZjh0N2Y3S1hlbXRJc19CMXo1ZlBwbTJUekFPNDVONVpnSjc4ck05WkF4WS0wa3c?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "c30f312cd5c7",
-      "titulo": "Omni Táxi Aéreo abre vagas de trabalho para operações offshore e áreas estratégicas no Rio e Amazonas - AEROIN",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTViRFNNTi1UZU1XU19FZlFGVUk4NVgyN2JIdXFHS3lOam16ZlRTYXlJZUlWSFJMblBGeE4ydDVlYktMMG9PY2VNWDByZEk1SG5EUHpSOWZqU3VZSXJFalN1c2tEbzBkVGl3MGtVbDQ0cGZiaFBTczFyU0lrendMVXV0dFZnc000dGtMcE51VEZTaF9YMF9iMU5tYzVNcjBjdFlOTGZhRDBCdVM0YjNrLXNtUHpOb01Ca0tiSThB0gG-AUFVX3lxTE4tNWJEU01OLVRlTVdTX0VmUUZVSTg1WDI3Ykh1cUdLeU5qbXpmVFNheUllSVZIUkxuUEZ4TjJ0NWViS0wwb09jZU1YMHJkSTVIbkRQelI5ZmpTdVlJckVqU3Vza0RvMGRUaXcwa1VsNDRwZmJoUFNzMXJTSWt6d0xVdXR0VmdzTTR0a0xwTnVURlNoX1gwX2IxTm1jNU1yMGN0WU5MZmFEMEJ1UzRiM2stc21Qek5vTUJrS2JJOEE?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "767422a12293",
-      "titulo": "Enfermeiros offshore são requisitados hoje(29/01) - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1VUMFNJZno4azJpekllWXp5eV9fTGlKQ2I1aVR4RnMxWE9oRHhTNUY5bjY0eC04cjlwR0t4YWNDaHZabXhsQUJxZFJxMTRqbU50SE13dmtLZ1pzT2JBeG9lZDM3S1Q3YWxISWJlZWJ2bjJMX3pDamoyOFZWRC13VHRySnd5V3Nm?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "offshore"
-      ]
-    },
-    {
-      "id": "b977f1265aed",
-      "titulo": "Baker Hughes abre vagas de emprego para Técnico de Segurança do Trabalho Offshore em Macaé, RJ e outras oportunidades pe",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQYnVLeWhleTBpSGlGc1Jla2JHbUZOOXZubmJ3c2gwN1VWa080Z0pISmhfWHNaZVd2YjlvQW5fYUJpOWtnQnlJdWRMSjRrV3dlcFh2N1ZFNHNnTnM1cWNDdTFVcXN2SWU4UnU3Y1dhekQ5OHE0WVYyYVFpajM5Y0pwUGRkc1N3aDdtdzB1R3djLS1Xc3NBTkRxUDJESF8yc01qWWhWamx5TlVyUTRJUDhwRTVJQTBXeVBMMkxCbzZPdVNJLWNMeHpITG1JZER3Z2FUVFJ3WlhIOU5lSDA0ajk3R042cFMtbU5hTG1CNm5NVm1fUHBh?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "be0a6f9ecc54",
-      "titulo": "Marinha Capitania Fluvial de Santarém PA abre concurso com 118 vagas para aquaviários - Qconcursos Folha Dirigida",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUDFxMlptSzQ3X0ZBQmg1MGFqSXp2S0NTcHE0U0txZW5VUFNtT3drTWhOSEdHdlhTdEFzQWl0cS1fZWdmZ1lyUmRmNzBMNmNBNHVha1JneVlFLVNoOWNsRHZ6SWFxbWxoTWlSVXJkck51ZnFNUHZ0aEdQdlB2X0hEQVAxRHRwTUg4VUFSRFpuVlFEY1Z1R281UVY4dkpFa0lKY01RRTJQajE5bDBDbkFVanRfZW5taGM?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    }
-  ]
+  "vagas": []
 }
