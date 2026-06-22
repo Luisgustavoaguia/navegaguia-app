@@ -1,62 +1,30 @@
 {
-  "updated_at": "2026-06-19T08:00:19.612199",
+  "updated_at": "2026-06-22T08:00:17.967403",
   "stats": {
-    "total_vagas": 5,
-    "vagas_hoje": 5
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "e6cb5bc0e289",
-      "titulo": "EMBARQUE IMEDIATO PARA BRASILEIROS! Multinacional de petróleo contrata, hoje (20/05), para vagas de emprego em projetos ",
+      "id": "3286195e840c",
+      "titulo": "Macaé encerra o ano com vagas offshore e onshore de nível técnico e superior - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNclZpX0d2M3RJV0dyUmhpZkxWNkppTjlqRS1MNXc5MzlLTENsU3RMUE1nUXN1cHlCd083NE8td2dEYjVsSm5TSEkxdlN3ZTZZT1ZYbHFSMFBMdVFCMURpTnJEOU1FcWFud3NMbGUzNmxVMExLQ0hRc2ZsQzVza3BBTTJabVR3UkViWWgxODFnUzNIM2Z4cnczVHRQWllBOUs3c2p6SmZ1ZE84V0xMVEg1ZDQzTFBpTzVicmJqX1lOdGFkbmJFZmpwektyaGZoSmxBYjlpRlVTd2JHajNIb2RfZGpzeV96cDJ6cmd5NW5OU1A3T3JiZnNudWx4OWFHVEQ4Y2ZkZFZtUWtrT29Ga0NpNWEtOWdhRTc1Qll1MW9Oc2E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjNVX0t1aUxOVnRxdTVyOFRydlVLam9pVFVjd1h4bzBlM1FlQ1IxRjR0VFZmUUthNi1hODJoOVVLSXdiLTRfTVl2Nmx6V09jREtHb3hnd2k0T0RLMWpVMzlnaE9BaS04RU9KTlBWdjhIVkJVZFhvejBTbGVfOHVFYmdCRmVqQmpsV0ctRU04aUxvbEFaVWt2M3JfVU5MMkdiVEgyR1F2Nzd2WTk5TGRR?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "633de59ce9ff",
-      "titulo": "Subsea7 abre dezenas de vagas offshore e onshore no Brasil e promete salários atrativos no setor de petróleo e gás — Can",
+      "id": "f7d6f7968345",
+      "titulo": "Constellation abre vagas de emprego offshore para trabalhar em escala 14x14 no RJ; oportunidades para enfermeiros, técni",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDRuS0VnZGNwazdQNXlsYVFBMm9XVEZ0UDRJRE03Mm0zZWtCeWVYRkFPakJwbm5rT2VPYXk2clZVcW9vODVrZWFMQTdhS2ZvNzBrNDB1bWV1WjRhVlo4cDRJamZpclBlRW5peXpJeFdBck15UW1PaHE1eW5kLVdLajhkY3B2M3hZU2pKbi0xbldCNDROdGcwZ29ld3hBdGlxMnNQVUNPZnFFX0dNRDh1WEsyaGNJbFd6UE42T3BpQUR2VmdkMndhMjVmMjFxTUU4aHlVM3d4R0FoYWtIZWZLSkdHbF84LWlRN0VnUFQ3cGYzNW84X1d6WFRKZ0o?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLTk2MmsxcUVxUmZ6Qno0NHR0Z3poazhDSHRHU2tpMzFocFNqXzZ5cHZrRThDRDQ0Z3ZJUS1PN3ZhUkhXTGd5ejJzNGttNHlZNW5yUFdpNFNKTlJJb3p0alBwNXNTcHlvQVp4UlRYd2FqclJXcXJxdWdUQTBFRjJQekphc1ZoSW1MT2k2cWVIWDNTVzU1LXJJa2VHdHM5LVF2QWV1bllpN2V3U3hlSkV3dUQwWFdIWWZFZElJYnlvTG1BQlk2SC1sU2d5SmZhV1FfQ0drYVluUVEtWlNtUzV5MUZ3WUZsZnBTTG13S2NNTHFqZm1adV9VZ05laXFlVV9MNGxKdFdwakJfeXJiSmpObklZVEJrM21EV1FXenY5X3hYODA?oc=5",
       "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "53494a85c1b8",
-      "titulo": "MODEC abre vagas de emprego On e Offshore em São Paulo e no Rio de Janeiro; veja como se inscrever - CPG Click Petróleo ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTlZWVDJLX1pfOFVlQ1R1eDZsNUU3TG1Qa1hOWVZqYXA3dDhqT3VxV2RrTHZkNWVjOGx5UG9FeUQzVkZPZ3lOWkNaNld5Q1dNNW1NWUc4WlpKUEJtMXp6VzhkRlJncy1nUDRRM3lpdmtJMkNyQ2dFSm1TejM3c1lIT0FoODg4YVF3WXVrSGpLaW1zNVF2QjBDT2VycHpRQzduNHplSFdCYUNiaWp2MDdVaFluRXdnak96?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "d69f8fec7d7d",
-      "titulo": "Vagas de emprego offshore na Actemium Brasil para trabalhar como Técnico e Delineador no RJ e SP - CPG Click Petróleo e ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSHVZM0Q5NEJIUnZ4dEJQdDR4XzFUa2ZlbDdjbHdEaHpuNXNEc2o5NXBWWVhBV3FpN29Gb3VVOVB0TUlOMURJZk1SRWZLUTFaVkpmZmtCYzg4SDBNY2dRTXo3cUE5Y3FKaks1SFBNMzFUb0dJUGl6MTFZd004Wlg2a3hYdHdXY0Fnc2dnT2ptaUd2TDd1N0hEREwzM0RCcVpReHk4QnNaQWgtSDl5N3lCSlNlMW9fekZkVXdLaEhWam4?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "29d04521daa8",
-      "titulo": "SBM Offshore com vagas de emprego abertas: empresa está com vagas offshore e onshore abertas em 2026 para engenheiros, t",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVmlJTE1WVHhMUXZ6TWxUSG5fT2FjRnFXN0tzZWt0ZjV3ZkxDekMwSlY0Zk9melE0c1dER0Y0ZnRoZVdiei03MDlHbmZScXVvZXdNa1BBbjhwSm8waWowTW8wZTg3Wlk4b0hZZWtSZWtRNUM4YTJ2czN0VzJDY1BrX3JQSDg2djkxdEUwbGpNdG8wUENqY203MjA5cWZXZnlqbzRwNDByS2RteHlSWC1UcjhBWGdmU1RUVUQxUUtwSUJnaVNQOElkV2dVdElBTmpIY3U4UklKNmxvOG9WcXZtYnN0Q1VibkszZHNHUk85STJqcEZ2ZHBSZzNMWVJ2V1hscVdfcVoxZ1B0d21Jc1g4RGtqdkxaNVlhd2NnVTlWaWZlSnpxd1hLMzRvVDlSR05RcHFJYXFTc0w?oc=5",
-      "keywords": [
+        "enfermeiro offshore",
         "offshore"
       ]
     }
