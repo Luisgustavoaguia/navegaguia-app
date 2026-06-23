@@ -1,32 +1,8 @@
 {
-  "updated_at": "2026-06-22T08:00:17.967403",
+  "updated_at": "2026-06-23T08:08:04.152660",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "3286195e840c",
-      "titulo": "Macaé encerra o ano com vagas offshore e onshore de nível técnico e superior - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdjNVX0t1aUxOVnRxdTVyOFRydlVLam9pVFVjd1h4bzBlM1FlQ1IxRjR0VFZmUUthNi1hODJoOVVLSXdiLTRfTVl2Nmx6V09jREtHb3hnd2k0T0RLMWpVMzlnaE9BaS04RU9KTlBWdjhIVkJVZFhvejBTbGVfOHVFYmdCRmVqQmpsV0ctRU04aUxvbEFaVWt2M3JfVU5MMkdiVEgyR1F2Nzd2WTk5TGRR?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "f7d6f7968345",
-      "titulo": "Constellation abre vagas de emprego offshore para trabalhar em escala 14x14 no RJ; oportunidades para enfermeiros, técni",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOLTk2MmsxcUVxUmZ6Qno0NHR0Z3poazhDSHRHU2tpMzFocFNqXzZ5cHZrRThDRDQ0Z3ZJUS1PN3ZhUkhXTGd5ejJzNGttNHlZNW5yUFdpNFNKTlJJb3p0alBwNXNTcHlvQVp4UlRYd2FqclJXcXJxdWdUQTBFRjJQekphc1ZoSW1MT2k2cWVIWDNTVzU1LXJJa2VHdHM5LVF2QWV1bllpN2V3U3hlSkV3dUQwWFdIWWZFZElJYnlvTG1BQlk2SC1sU2d5SmZhV1FfQ0drYVluUVEtWlNtUzV5MUZ3WUZsZnBTTG13S2NNTHFqZm1adV9VZ05laXFlVV9MNGxKdFdwakJfeXJiSmpObklZVEJrM21EV1FXenY5X3hYODA?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "offshore"
-      ]
-    }
-  ]
+  "vagas": []
 }
