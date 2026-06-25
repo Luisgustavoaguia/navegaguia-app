@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-06-24T08:00:19.527501",
+  "updated_at": "2026-06-25T08:00:15.117207",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "1dbb211140ee",
-      "titulo": "Em Macaé e Campos dos Goytacazes, vagas offshore estão sendo oferecidas para operador, enfermeiro, técnico e mais - CPG ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdXREY2pnX2VTNkxrRGdJM093a21YZnRQdDQwQmVzUjRaVU9tTDR4Z2xhQmdjYWppTkRlV0JfU05PYTFkYWphMUFOSFN3NTdGdjhfQ25xOWZTRExodmQ5SVBZZkdQV2N2ZmZEQkFtU2ZjcGJGdzBiTHYtM0JXWnNQVFdBVDRoNUZKajlIa3g2akVtWmFIVUUwSmx3eG9FYU0xMHRUQjVWdEhPZndyQm1vQ1djVWp3d1RFZmZrQm1DazJCTkt1WC1kM3JBNTZZaVJTcjhrZ3dwMzU0OE1s?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "offshore"
-      ]
-    }
-  ]
+  "vagas": []
 }
