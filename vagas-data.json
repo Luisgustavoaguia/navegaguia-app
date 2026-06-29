@@ -1,18 +1,41 @@
 {
-  "updated_at": "2026-06-26T08:00:20.132927",
+  "updated_at": "2026-06-29T08:00:19.793059",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "aec6bda2952a",
-      "titulo": "Com R$ 3,2 bilhões em investimentos, Fundo da Marinha Mercante aprova projetos na região Sudeste - GOV.BR",
+      "id": "dedf40abac0c",
+      "titulo": "Modais de transportes terão investimentos de R$ 41,7 bilhões do Fundo da Marinha Mercante - GOV.BR",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNOWZOdlJhSFFjQ19WUGtVUE91ck1vR09tTGQ0ZGFWc0FNbVoxUEtXLTJVd3dRYTZreVh6WGF0Q05IaXBJUWNqV2hjWldjVEI0YTBSbExXUmJVVkNZQ1YxZlJZWGlpQWJUajRuOGtlT200VjZJaWpSNTNacVgwU0xsSUlvM1FiUlVyb1I5cklhcHU3ODF6MzhEVUVoS3FOMkRrQkpGa3c4eGxTMjk2UlZmdUdveFI5Y0FIamVjdEN6TzZHWE9aSzRLSV91R0RKYVNJYTZfSkFUakxFNEh2U0NTakZCb1d0cEh5cXpGUVZHV3dramxlMnNUaXlmNA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVNmalpaU2tnc0hseHJqRmtaNWlHRnVaOUpSSTZLZzRYU2wwVWI4TG9LcXpFcW5kUHRlYmp3di02dDNnQVlsS3NDZ0xYLXFvcGl2T09LZWVkVFdkRXBTd2FGdHlxN0hubkVCeUQyZVhlcGpfeXVHRDN2ZldIaURiUFlhY1o5LWFNazVYN3NJMVVSUmJjd1Z6cTdEUlRCclJNTVV5MkRqS3BiNjA4RXNsVTQ4SGxUZnphTzVlbnU5VlltaWVYN1hjTFF0S0x3cjNvR2xhLWVkTURjTEVrN1Y2eUhNUS1ZckpickJDcjRZNVM?oc=5",
       "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "d0886ef30d6a",
+      "titulo": "Marinha abre inscrições para curso gratuito de Moço de Convés com 30 vagas em São Francisco do Sul - jornaljc.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWpmTFVNdk5HSXJweXUzalR0YzkzOUpCc2FOZmlBYVpBS3k3RGZtTkdOcmVNYW81MXdIcUg2UXh4SXBhQ2xhNTE2TUhHX2Y0eThtelJNQkNIYnR6eWMtT1JERExrdGJTTmVLYTVKTUpRM0hRa09BUm9iSnR1UUhiZ01iMUJpd2JjZDlURUNhLXdPMm9QU1NheUFfT0lvVExNZExGWmZXWGJTdlhKcU5NSHhpMEw5MzJ2SDRRSlhZZi1qcHZpeXVZVUpKcjNrcE0?oc=5",
+      "keywords": [
+        "moço de convés"
+      ]
+    },
+    {
+      "id": "46baddb999e9",
+      "titulo": "Vaga para ENFERMEIRO embarcado no Rio de Janeiro. - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81RHdTRlNJVWhnTy0wUXhfd1ItQVl1QWIwYkQ4d2tGbzZSR252bk1GOGNZSUNhajRla3pLSmp0dVRSRDFwWHE3LXpDY2RRdmpzcjZILThCYUE5VFM1ZXlnNzVXU1FnOFZiSnBNTVF3ZlhXbW1KSmc?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
         "embarcado"
       ]
     }
