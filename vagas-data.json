@@ -1,42 +1,42 @@
 {
-  "updated_at": "2026-06-29T08:00:19.793059",
+  "updated_at": "2026-06-30T08:00:18.669095",
   "stats": {
     "total_vagas": 3,
     "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "dedf40abac0c",
-      "titulo": "Modais de transportes terão investimentos de R$ 41,7 bilhões do Fundo da Marinha Mercante - GOV.BR",
+      "id": "170f41dde30a",
+      "titulo": "Vagas para profissionais de Enfermagem do Trabalho offshore na MODEC - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVNmalpaU2tnc0hseHJqRmtaNWlHRnVaOUpSSTZLZzRYU2wwVWI4TG9LcXpFcW5kUHRlYmp3di02dDNnQVlsS3NDZ0xYLXFvcGl2T09LZWVkVFdkRXBTd2FGdHlxN0hubkVCeUQyZVhlcGpfeXVHRDN2ZldIaURiUFlhY1o5LWFNazVYN3NJMVVSUmJjd1Z6cTdEUlRCclJNTVV5MkRqS3BiNjA4RXNsVTQ4SGxUZnphTzVlbnU5VlltaWVYN1hjTFF0S0x3cjNvR2xhLWVkTURjTEVrN1Y2eUhNUS1ZckpickJDcjRZNVM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWEREQWU5ZnFYWFQwRUNFNVpaS2ozWFlVNHE0c2I4bWc3blc4UC1HNzlHejVKZ0ZOMXZVTGl1R0YwY2FvRV9YcUtaNGZWVVhsTE4zUGs5ak5VbUNiV2o3bk1BU29UWmhiazhHM2tFUnF5S2lab2pmRFBINklMSEdCU2w5Ty1uenlSM2dMdC13TXJWRUVQaURuNWlXYVJJdTBmVkNpaQ?oc=5",
       "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "fc57f74c24db",
+      "titulo": "Engeman abre vagas offshore com escala 14×14 para quem quer trabalhar embarcado em Macaé, RJ - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd0E3YmlKSmFMd3NhNkYxZEt4cXMwOXphU01pNDZVNE1EaElKQXY1blFUWl82SmVTUkIyYlpycVlXS2U0MGYwQWN3Q01nOXFfNEZuMXUzVTBXbWtaQUpFMkFCc0hfbzlFS054V3BJNDBzdC1wRE51bm5UTFhsZlAxVVo5Vkh5VVlqYndpYkExTkVjN1NQY0RLMl9HdGxNUzNzZERfejlzczFIVkE?oc=5",
+      "keywords": [
+        "offshore",
         "embarcado"
       ]
     },
     {
-      "id": "d0886ef30d6a",
-      "titulo": "Marinha abre inscrições para curso gratuito de Moço de Convés com 30 vagas em São Francisco do Sul - jornaljc.com.br",
+      "id": "55d5c5e91716",
+      "titulo": "PRIO abre vaga offshore para Marinheiro de Convés no Rio de Janeiro; veja como se inscrever - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWpmTFVNdk5HSXJweXUzalR0YzkzOUpCc2FOZmlBYVpBS3k3RGZtTkdOcmVNYW81MXdIcUg2UXh4SXBhQ2xhNTE2TUhHX2Y0eThtelJNQkNIYnR6eWMtT1JERExrdGJTTmVLYTVKTUpRM0hRa09BUm9iSnR1UUhiZ01iMUJpd2JjZDlURUNhLXdPMm9QU1NheUFfT0lvVExNZExGWmZXWGJTdlhKcU5NSHhpMEw5MzJ2SDRRSlhZZi1qcHZpeXVZVUpKcjNrcE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFlOdFVXcDJpSXpOREJQVnpObWhmZXdRRjRlNDd4dHBhOWdCTEtMdkgwaURTZlczX1QwbHlOWkZkbUtyOThrWE9BWmlvZ2ozMHhZa0dWRWdxUEVlOWRxd21hT0dXV0hMRzlQM2F5TWxvUVdyTGdzbUJmTGtNSWViMTl2VmdpY1dKYktBYmYybXFBQjN6UXhqNy1Hb0UweHViZGRKdlUtZlZFOEZRdW0wUDJyd1ZxMWcweGRPMk1zT0dTeFM3STdEVXljWWU?oc=5",
       "keywords": [
-        "moço de convés"
-      ]
-    },
-    {
-      "id": "46baddb999e9",
-      "titulo": "Vaga para ENFERMEIRO embarcado no Rio de Janeiro. - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81RHdTRlNJVWhnTy0wUXhfd1ItQVl1QWIwYkQ4d2tGbzZSR252bk1GOGNZSUNhajRla3pLSmp0dVRSRDFwWHE3LXpDY2RRdmpzcjZILThCYUE5VFM1ZXlnNzVXU1FnOFZiSnBNTVF3ZlhXbW1KSmc?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "embarcado"
+        "offshore"
       ]
     }
   ]
