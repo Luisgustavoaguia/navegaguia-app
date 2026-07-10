@@ -1,130 +1,19 @@
 {
-  "updated_at": "2026-07-06T08:00:17.346069",
+  "updated_at": "2026-07-10T08:00:19.909506",
   "stats": {
-    "total_vagas": 11,
-    "vagas_hoje": 11
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
   "vagas": [
     {
-      "id": "6a2572ab765f",
-      "titulo": "PREPOM 2023 - Quer trabalhar embarcado? Marinha Mercante oferece mais de 20.000 vagas em cursos gratuitos de qualificaçã",
+      "id": "767b2e755ca3",
+      "titulo": "Nova seleção confirmada: Concurso da Marinha Mercante oferece 368 vagas para formação de Oficiais em 2027 com curso grat",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUDBKVGtYYmp4dXUwcWFIR050YWZreW1oc3dHMzRVSkRYZlVVQUNrNnFMcEctd01YSDNTQTZoTnFXMVd6Q1EzQmhUOWFwdlZIQnl6b1JnbEk5TllmT2g0bE5XOFhrcTFmc3JmSXdQcDFMVUFKRjVBa2hUZnVKeHQwNUlNanhvckNVTE5sZTVIaDVhRnBySHVTUWs0TmtXUXEtV2Y1YVhOYXh5TGpWVDJKazhGVlctMTNCOEdQN0RtTk9CTk44SDlrRGtwVWk2c2xBSy1kWU9UZGFIMnQyR3pJRS1jeHlqRlpDR1o5WjNzUlNMVHptQnp2LWZFNXZYV1JLSWo3T2lKY0VJbzJUeGtFZ2FiX2pseXZ1eWJOWkNxNXFiLXcybVFLWHZIcFZhei1zem11T2Jjc2U2QXYyZlE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQbW5BX0RwZEtVckxoS1Z1LXBIUXBuM3VNWGptV0lFU1hjV1dyX0xDaWZmYkNEU19MVVU0QS1kVEduUFMxMHBZcXI4RmszR0tuMjdILU9FVm1lYm5ZVXNXUzJFZUtWZ0g4WDVCZHczZ3BhNjNWRWhFOVJWOTVmX2piTzQ5eEpqbDVON3ZHRC15dHNKRktBdUZ3YlkxTW5BZlZEei1JU2xWLXRFbzl6WWJjQk41V2lYMHJ5Q3NJcHQzR3RlMWxGZk9vQzZoZkdGN3pfM0hYUmFWQ0o2b2xDSWFsQ2ctZjNKdExjX3N5Q2VfNjlwcklZMlZzRlZRM2k3YzgzaWd3Q0ozeG03R2VKczFMQmxDNmV4OWg3eHBNMVN5c1hyLU9qdDdUVTBka05Lb1VHM1BjdmVrSXNZaFBDYjJVQzdn?oc=5",
       "keywords": [
         "embarcado"
-      ]
-    },
-    {
-      "id": "607a1198d134",
-      "titulo": "Empresa de prestação de serviços de óleo e gás, Perbras, anunciou a abertura de dezenas de vagas de emprego on e offshor",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTllPWkJWdGFZdFRzUXU3NXpUSmNLOGdvVEF1UEZGLVVKQU55Z290cko4NUE1UUxGRVgzSU0tTnhzcHJYcGNLRFlhNXQtMHkxQ0h5Qld0ZC1PRHg2dFNuU3E2aklvd1o2M2gwbm1Ob1RCRlpaVDRRa2o0N3BSTzFvRTFKY2NBNzczLThIamc3MGg5dlZPX21tN2dTVjBlaDZsQk5JVXEzaDdIMHZ4RmZGMzJCdVVxUUw4LU1QN1VWU29tNG1EdDlrY1ZmbzFlT2FvcmdyeE96ZHBVTWs3MnRfRG95dmcyR20yb1kwR3l4ZnA3NEZYWUdzd01fUDdvRXk1cFM1RE0yMzFDRmE4Wl9abA?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "67bca5a772b7",
-      "titulo": "Oportunidade imperdível na Baru Offshore: Nova vaga de emprego aberta para Assistente de Operações - CPG Click Petróleo ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeElzQnoxbTFaSGxiTGR1RTlkamVRYTJLUE9CNG1wejNWbnNyUWlTYWlKSjRmZ1RjSjZmYlctWXlocXMzVVBuOW1EMnctVjZYZGdkem02aFY1RlRtRllDSWQyNkM0d2xOXzFmNXJiX2NtTTFTYnJOQTBsMnpzWUozX2xHX1R6ZU1CSkw1VmxoOWptZkp5ckstRU12UkJZYkxRQXZPVlVpZzZUTEp2c2QwZmtIbW5obS1ldERrT1pxR3BQNE5NV1dTdVVVVEZ6cEoxU2JTWmVnSDQ1M1JMZjRV?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "0c5e63d672fc",
-      "titulo": "Líder em serviços offshore, a DOF Subsea abre múltiplas vagas de emprego no Brasil e no exterior, oportunidades para mar",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPVXdKbGZuU3hRU2FFek0zUlZkTDBweUxmMURIOW00NmNCVm1ocnZpYm9SYWhjTjBjOVI4eDBqUGtZclRHRzFiZ1VKckY1RjFLREVPSUhJSC1uejI5d3h4dE5RRHBrbVFMTHkxWmU3NHBVcXF2OHFrWWYyMzNFdmJwQ0hzbTREUXBjZ2tGRGJqQW1XTFVOZ1B4SjBQTDY1TXRNU29FUE5ZU3FtQUFyUjVrNC1wV3VnMVA4WTlhRkZLbmtBZlRBVkZxUHhXZkFtZjBwNFpHekJ1cy1yYWVpQWZHMVdBTTUzdl9UXzV4NDNxcVd6MGphcDlVRHZqRVhLbnNITGlXX1dVRU9ydE1TMFdDYUNGTmZBWnFKRGhtSS1LMXlmZWxUU1ROa2lCa3h5d0lBVlpPckIyY1c3WTZwcEpiOVBSV0NWLV9zSHJnTUNR?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "ca1af5656f98",
-      "titulo": "Bram Offshore abre processo seletivo com 40 vagas de emprego nos setores offshore, operações, manutenção, financeiro, SM",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPX2NlekJiTWhTMFBxak1BSkVVVWc3eWFYZmxlTF83OEx0RUoyeG9SZFVPOG9lYTJkenczdzN6eFVEanhJWGV0aVhLeXZkRlNCVXBsSVpnVS1ieldtdFZ1cTZFOTU3RHpVMGo0elVjMGpLSGZWR2ZEbHJVS0hMSnNBclVfcnQtVktMeks4THQ4RV9aaEgyUDJtNTRNUHBTMGlfMHBMSEZ4LXF0M3RWRmozcG5PNzN3clRvMFo5dHdGaUZkN0Z6NHIwVUtEdnVtUE5lUVVJb041RVZvVkE5N3liWkJEcnBvTGZYMFgtSzg2OUlrclZVOU9qYWN0aEkwdG9Ra0g0UlVOVVd1V3pzTlRVS0REN3BTYmhHRDdEZ3JQaFM4enY2MHVTTW53dXFFdXNvemxST0Ezd3BKelZ2MFhfOXpXWVVvZEU?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "a9b33fc047e0",
-      "titulo": "Vagas on e offshore pela multinacional CIS são oferecidas para padeiro, taifeiro, nutricionista, recepcionista e mais - ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNTBnMXM5QXpyLW9ORHgzY1ZzRzFjUU9scG5Sa1RIaHhqSlZ3NzJSMnJPaUNOT1NqLWxVNm8yNWZfNGdoYjdzOXhydk5wZUQtQVBnV1VFQWJSV1JTLU4zUGdaS0swMkJaYkR4TW1QUm54ZU1mOE5rQWwtb0Q3Vk5Ka0xwOVRELUFxMjBSNzNOS0FvRktTWmVha1RidEc1WF92TE5aTFU4VldaT2M1ZFF6Nk9oSGJqZTRPMzBMTS13NnhGZk1acFBHRlVtRTVyb1BYLW9pbXlJWDBTS3FGbzRNM1Jn?oc=5",
-      "keywords": [
-        "taifeiro",
-        "offshore"
-      ]
-    },
-    {
-      "id": "6f3fd1ac37c8",
-      "titulo": "DOF Subsea abre novas vagas offshore para profissionais experientes no Rio de Janeiro - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3VJbHh4YWwzaGphbnIwYmpkLWZvT3dsUmxMVm1iZGRqNWFkdEVFRWVJcEFFakY0QkZnczNJcjVOdnA0bmdCMGFlY2hneEFMZUlsdHlORXBFY3ZCQWxaWXhsTDhRNXJfT09za1BnYWhkWF8wZmpSdXR4djNWa282LWFGcVRna1I3czFXOGZSbjBkZFUtTVJSNng0QVlxdk1PaEd0SmtOV05aMk9NaUVuYlUtR2ktZkNhV3dUQW1jV0dnTFNz?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "7d6614aa9d73",
-      "titulo": "Oceânica abre vagas offshore com escala 14x14 +plano de saúde e odontológico, vale-alimentação/refeição, seguro de vida ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQkVZdDNKQ25WbEhRcjdleEhWQ0QxNmJ5NTlmQkxYQUl1OFRPUTN1SWpENTZOdXNYb2F1RWJZN0N2NTF5VnlINzY3QUhIZmlQN0pSMmE1emNHSXd1QTBheFp1Y20yS0NOel9hMms5QWptM19OMEVya0ZrSHl5Z09xT0Nyb0tOUnJRTkZwdXBFNm5tSFBIWF93dmVOT3Q2YU8zZERZQUI0bjB0dUlWUEsycC1SRnJtSHdDOVZ2b3Z2UHIzSk5wclZLLU1nQTZxeUVaWXZPWU83SXp1VkdRa1ZHT0xodXZpenVSNTFZS3RhV1VNQ2ZReHJxaWx6Q1FZVmIxTlkwWg?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "f971eb971bc8",
-      "titulo": "A MSC anuncia vagas de emprego em diversos setores offshore e onshore, oportunidades para mecânico de máquinas grandes, ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNcmZEdFoyWFhrZFB6c2RKVWVRdk8yQnB1Y3djT19laTMzcEdjOFlXMXdtYkVycW1SdkVIcFc5N2NUREhVaVI4VVdsbU1mR191TmVtdEpWRlE3T1ZPZk5ndGQ2TWtuRVZ2WGRJVExRM1hqUVpLaUNqT1Jvb3ZhTXVhYUV4YnVTODlIaERGdHpyVFhDdXZlVk81R3hoaWNJT0VydWszN01ja2JRNmNZbm9raVdrM0xOZ1podmRMRExLMW1felBlZmRzNTlncDFaQXhWMFJCemVQbi1zUDVoMEZpcERFSjlpejhtMFpKM0h3OG95Q1A5bnZDcWVLc0QtNEJLaHRvMTZRY0wtMEcyelZIX21selo5TkU4Q2tNd2pKQkR6cFpTRm9QeDZPMjR5VmlBS3c?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "4695fe9c399e",
-      "titulo": "Perbras está contratando! Dezenas de oportunidades estão abertas para atuar no setor onshore e offshore - Naval Porto Es",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcTFjOEFsazhGR3ZCbGZiMGNqb0xiX1lrSVlRMG0wakJQUWRqVm05VUNjb01NbHBpMUtiaGd3SnVVaDY4MVZFSk9Va3ZTY3h6TlJ5WXNqX3pRd2daZ3JQVk1tOWU3UlJGRXhMbjVLVVFUeVdYSUJlMENwTEFHTGhxaDNaMUx4eWlsQmlPUmpTZmthMmhVS0hCUGNhRGZRUk5wZ1dSU2h4ZU45enFYUUQ4Q1RJd0xiMU42RHZjNGM0SnU0bUtJbFYzWHdCQXlFS2F1?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "21f4fbdb3fdd",
-      "titulo": "Oceânica abre vaga de emprego para Técnico de Segurança do Trabalho Offshore no RJ - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT01zNkw1UEJ6Qy1qZFlacUxRNnNMZW5pZ3FOOUhxdUMwT0o1cVgtWGQxby05UElMeGJtS1ZIa2VGbkt5MVpseHY2MS1uNVJVWG5KUjBqNkpzNDJWcXFqc1Z2VWpYVExSN1BObm1sZDVMQ0NQQlQ2bEplZXM1ZjhOYVlGbGRmT1RMUW5XeldaS0N0U1hweWZvQUhlNzdCNmpFdzJWZ0pPTDFLMHkzUlJGUF9zRTM4Z2ZodUJTTE9hWQ?oc=5",
-      "keywords": [
-        "offshore"
       ]
     }
   ]
