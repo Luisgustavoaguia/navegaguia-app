@@ -1,19 +1,42 @@
 {
-  "updated_at": "2026-07-10T08:00:19.909506",
+  "updated_at": "2026-07-17T08:00:18.000862",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "767b2e755ca3",
-      "titulo": "Nova seleção confirmada: Concurso da Marinha Mercante oferece 368 vagas para formação de Oficiais em 2027 com curso grat",
+      "id": "0481f843e0a1",
+      "titulo": "Concurso da Marinha Mercante oferece 374 vagas para 2026 - Povo na Rua",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQbW5BX0RwZEtVckxoS1Z1LXBIUXBuM3VNWGptV0lFU1hjV1dyX0xDaWZmYkNEU19MVVU0QS1kVEduUFMxMHBZcXI4RmszR0tuMjdILU9FVm1lYm5ZVXNXUzJFZUtWZ0g4WDVCZHczZ3BhNjNWRWhFOVJWOTVmX2piTzQ5eEpqbDVON3ZHRC15dHNKRktBdUZ3YlkxTW5BZlZEei1JU2xWLXRFbzl6WWJjQk41V2lYMHJ5Q3NJcHQzR3RlMWxGZk9vQzZoZkdGN3pfM0hYUmFWQ0o2b2xDSWFsQ2ctZjNKdExjX3N5Q2VfNjlwcklZMlZzRlZRM2k3YzgzaWd3Q0ozeG03R2VKczFMQmxDNmV4OWg3eHBNMVN5c1hyLU9qdDdUVTBka05Lb1VHM1BjdmVrSXNZaFBDYjJVQzdn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzh4SlhzdFJwOGlmQ0dsRUNlQU5OWnlBd2E1LTFVSnJXcFI5aXJBV3NNWmMycmFWWFo0UVZBWTN3emgyTDBmVmdXX1o2Q3pGZU93dWhnWWhmcllmb0duZEtMb1NhaFQ5dkZGODBiSnNfeHRoVmpmeFZwSHd6UEhCQmhpYUtzc1ZfY2c?oc=5",
       "keywords": [
         "embarcado"
+      ]
+    },
+    {
+      "id": "e3078b6ccee8",
+      "titulo": "Concurso da Marinha Mercante: inscrições entram na reta final - JC Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmVkSWVIc2haWi1jcHV3VHFJZTdEYlNJMlVfQ0NVaElEUTlxVFpfdnpiVFNXVHNpMnFJYXpjYzJseEZ2b0NDSjFxcmVacVFYSUhnZjlvNWlhQkxSY1BSZ09URmNzaVNLWThMWjU4TWttcElHcmlpVVV6WGZOV2NObXZ2YTNEUkJsRlk0T3hvOGxOUXVMQU4yd3pxclDSAaIBQVVfeXFMUE9vM0hwNy1QWTB6TjRqSU04cXRVYmoyVVR3eWwyT2czRXdvYXJfQmFxYXhwcnpFbEhJamU5eDQxSTVZYUtuYTJ0aDJCUUpiTHRtdjBmeWZPUHlnSDUtZUZ6dFdfRElGaF9MYnFjTGlhOUwyS3lPXzhFOWt4Z3JocFZfX0lXMDlQRmZncWhtWGQ2bnFSZ3VEV1hTS1dIMTZvVVF3?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "d1bca7925828",
+      "titulo": "Modec contrata para vagas offshore e onshore no Rio de Janeiro rádio operador, enfermeiro, técnico, engenheiro e mais - ",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3ljM2tfZVV6NDdXQUZPSktFRGdBUnRZSU82R3BaX1ktVXNfM2pfT3hkNTV3SzhRNzJGaWVkSGh0WDlRaHdfdXdCR1BzbF90Y1d6eVZWTDdOSTZDZVJUd3FzRHE2SEpiVTl1U0tVWWE1alk0LWMwU1lPRFV5ekpPUlZuanBiS3ExaDBodDJ6WmRCRXdESEtrSXZQWFFyTnQxNFVQOVZ0dVBZNGtGNGpWenc3ZGczbjlSX0t1SEJDQ3N6S0JvcmZiLXFSZGNqZ1NJSFM3djRpN2o4dklvUmNkS3Zn?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
       ]
     }
   ]
