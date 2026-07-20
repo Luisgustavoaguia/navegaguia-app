@@ -1,42 +1,52 @@
 {
-  "updated_at": "2026-07-17T08:00:18.000862",
+  "updated_at": "2026-07-20T08:00:19.411527",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 4,
+    "vagas_hoje": 4
   },
   "vagas": [
     {
-      "id": "0481f843e0a1",
-      "titulo": "Concurso da Marinha Mercante oferece 374 vagas para 2026 - Povo na Rua",
+      "id": "c051e3371b81",
+      "titulo": "Marinha Mercante abre novo concurso, com 374 vagas para 2026 - Extra online",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzh4SlhzdFJwOGlmQ0dsRUNlQU5OWnlBd2E1LTFVSnJXcFI5aXJBV3NNWmMycmFWWFo0UVZBWTN3emgyTDBmVmdXX1o2Q3pGZU93dWhnWWhmcllmb0duZEtMb1NhaFQ5dkZGODBiSnNfeHRoVmpmeFZwSHd6UEhCQmhpYUtzc1ZfY2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVJrbFpJLVpCUDJyYjNVOXlWMmRnRV9aLUdCcUFUNTEwb05RRzVVSHd0T1FvSFByZTYzNFBmSm40ckVKaEZ5aHE0VGFIbDRNVTZzbE5ma0pkUjl2eXh5d1JUOVpORXBrOFZEb1oxM3VrdUJueU1fMHJGVjhwMlZxS2tpZ3pySkhXdElOQmdmblFfODA1UXNiSy1zODFITHNRNDJEb0pXWE5RV203NFBGd0xwVWN5ZFJrdDluZjVLU3hTMThadkFIZnA3UlA?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "e3078b6ccee8",
-      "titulo": "Concurso da Marinha Mercante: inscrições entram na reta final - JC Concursos",
+      "id": "94a95f5bafd7",
+      "titulo": "Engeman volta anunciar vagas de emprego offshore para Macaé neste domingo, 27 de outubro - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmVkSWVIc2haWi1jcHV3VHFJZTdEYlNJMlVfQ0NVaElEUTlxVFpfdnpiVFNXVHNpMnFJYXpjYzJseEZ2b0NDSjFxcmVacVFYSUhnZjlvNWlhQkxSY1BSZ09URmNzaVNLWThMWjU4TWttcElHcmlpVVV6WGZOV2NObXZ2YTNEUkJsRlk0T3hvOGxOUXVMQU4yd3pxclDSAaIBQVVfeXFMUE9vM0hwNy1QWTB6TjRqSU04cXRVYmoyVVR3eWwyT2czRXdvYXJfQmFxYXhwcnpFbEhJamU5eDQxSTVZYUtuYTJ0aDJCUUpiTHRtdjBmeWZPUHlnSDUtZUZ6dFdfRElGaF9MYnFjTGlhOUwyS3lPXzhFOWt4Z3JocFZfX0lXMDlQRmZncWhtWGQ2bnFSZ3VEV1hTS1dIMTZvVVF3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRUeDhDVHo4eS1TeGNoX3NrOUNXOG85SXVyQ2FtUTFkNDBEckF2anhHa2FSeFV0VWVhdVNCSkRiUklrYU1fV05GTVNnUmhzZ29uc3ZXbGtOaE9TdDlkenN5NVoyd2laX2VrTFBDVkFqNklEcUcyNmpHN25NNGRtclp1WnRCSGx3Nkw2ME8tTmMyWi1zdm1IWWYxMHUtYk5TNUtaWHIyX2xtR2FaTDlIdzFWUUhoWDdQSVhsa2d3?oc=5",
       "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "d1bca7925828",
-      "titulo": "Modec contrata para vagas offshore e onshore no Rio de Janeiro rádio operador, enfermeiro, técnico, engenheiro e mais - ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3ljM2tfZVV6NDdXQUZPSktFRGdBUnRZSU82R3BaX1ktVXNfM2pfT3hkNTV3SzhRNzJGaWVkSGh0WDlRaHdfdXdCR1BzbF90Y1d6eVZWTDdOSTZDZVJUd3FzRHE2SEpiVTl1U0tVWWE1alk0LWMwU1lPRFV5ekpPUlZuanBiS3ExaDBodDJ6WmRCRXdESEtrSXZQWFFyTnQxNFVQOVZ0dVBZNGtGNGpWenc3ZGczbjlSX0t1SEJDQ3N6S0JvcmZiLXFSZGNqZ1NJSFM3djRpN2o4dklvUmNkS3Zn?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
         "offshore"
+      ]
+    },
+    {
+      "id": "1c1740b758bc",
+      "titulo": "Oceânica Engenharia anuncia 54 vagas de emprego onshore e offshore para expansão submarina, oportunidades para guindaste",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQmNtTlc4cERUUm1aU2xPM0JBdVN3X0tUc3drNXYxcW85VjNVMHE4NWNmREh2cmd6X3Y5YkU1VS15d1VIc3JZcHVoY0wzVXJJemU4Zk9jVFNJSUkxd3UydjRuemJvLW5jc09LUHhtX1pyVzlIX0drTVFnRXBJd2Y3WDlsRGVBWlFXWVBsbWpVUUQ5YlVKbEdxemgxUlFpS09VbFdfdFR0TWh2RG1McmMzbTlyVzBaQ3dWVExNbUJocERBQnFscnRxcG5wX2syQkRxR3RYRGNGYmJXWkRDUVNXZmlwVGZtRElqRGNGVGVLMmE4Y3M3RmQyR294aFhtMnl1TkVzYUpHSm1YaFFOQ3BmWjE2b3BrMHZudkdQZmtockt1UFMtSXhBQVlDTjVaaUV4LUdFZFNieW55MHRwM05wSUJyYV8xZDNVZ0xYb01n?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "7f4284aa748d",
+      "titulo": "Noticias Subsea 7: Após fechar contrato bilionário com a Petrobras, a norueguesa conta com vagas de emprego no Brasil na",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPRTNmb3VjU1AwdlhrcmtuTnJOQ29EQnRRQVZaQ3UybjRIN25wVVdwSkpac1BEaWxqUmpPbnFzX1NYcGxWQ2ZHX2pFRU40c2owME5fUmp5Q2RiTFJscXFuY3dVYlFpVmhVLWcwUXJ5aVVPdXJ0Q0NHbDE0OVRGQWJMZkg1b00tbjFCSlNnVGw3Q0JoTDlKaEluZUpzTDRBRTJlb2NpVlpocm1EOHJsaWVsa1VJV3o1TFI3OTduVVdsV3lCT3Y0U1AzQ2tkM254V3laek9YSjhyakZDWFRuZ2VyRkxQNmhUakZnVlY5enlacFZOREhNVTdkOFctRG9CTFF1VU5PU2NZSmlBdWxyLVF1TmFSVm1YVElxSV8xZW5XUHkyUDEyNmc5V1pfTjhqZ3pWLTNRQ25VeUthZWFVV2s4MllxTGdVVHlRMTRFZ1F1Qms?oc=5",
+      "keywords": [
+        "embarcado"
       ]
     }
   ]
