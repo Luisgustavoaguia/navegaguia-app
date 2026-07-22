@@ -1,51 +1,41 @@
 {
-  "updated_at": "2026-07-20T08:00:19.411527",
+  "updated_at": "2026-07-22T08:00:21.255569",
   "stats": {
-    "total_vagas": 4,
-    "vagas_hoje": 4
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
   "vagas": [
     {
-      "id": "c051e3371b81",
-      "titulo": "Marinha Mercante abre novo concurso, com 374 vagas para 2026 - Extra online",
+      "id": "d6b6170bdf71",
+      "titulo": "Contratos offshore em Moçambique demanda vagas de emprego para brasileiros nas áreas técnicas, solda, tubulação e mais -",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVJrbFpJLVpCUDJyYjNVOXlWMmRnRV9aLUdCcUFUNTEwb05RRzVVSHd0T1FvSFByZTYzNFBmSm40ckVKaEZ5aHE0VGFIbDRNVTZzbE5ma0pkUjl2eXh5d1JUOVpORXBrOFZEb1oxM3VrdUJueU1fMHJGVjhwMlZxS2tpZ3pySkhXdElOQmdmblFfODA1UXNiSy1zODFITHNRNDJEb0pXWE5RV203NFBGd0xwVWN5ZFJrdDluZjVLU3hTMThadkFIZnA3UlA?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "94a95f5bafd7",
-      "titulo": "Engeman volta anunciar vagas de emprego offshore para Macaé neste domingo, 27 de outubro - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXRUeDhDVHo4eS1TeGNoX3NrOUNXOG85SXVyQ2FtUTFkNDBEckF2anhHa2FSeFV0VWVhdVNCSkRiUklrYU1fV05GTVNnUmhzZ29uc3ZXbGtOaE9TdDlkenN5NVoyd2laX2VrTFBDVkFqNklEcUcyNmpHN25NNGRtclp1WnRCSGx3Nkw2ME8tTmMyWi1zdm1IWWYxMHUtYk5TNUtaWHIyX2xtR2FaTDlIdzFWUUhoWDdQSVhsa2d3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZC1WLU1WSFBDREdMRFNoeUlfdzJ1TmxpMW9HTWJQWU5zeVRuTWthdDhVTnJtOEhkTm5uMUlIMnR2LU5QVWFtX1dHLUR4VExMTmlBWlN2bFl2SzhpdXlNZ0NnQXN2WnRtUnZ0UThhQlRfZmUwa2lId0h0MmNPajRkRXAxOG9uZWRGaFRiZElnLTJaR2sxak44QlgtMDV4R25iaG9FSHZvdFVvcWxrVXBGQ0liU01JUGFvVDhtSGliempKUWJDMk4zNkNWZEt6ZXlzMm5ZMFYzV1hhX3Jfb01aVWRaTXo?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "1c1740b758bc",
-      "titulo": "Oceânica Engenharia anuncia 54 vagas de emprego onshore e offshore para expansão submarina, oportunidades para guindaste",
+      "id": "6cf246111490",
+      "titulo": "Vagas de emprego offshore na MODEC com salário de até R$ 10 mil para trabalhar em escala 14×14 como Supervisor de carga,",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQmNtTlc4cERUUm1aU2xPM0JBdVN3X0tUc3drNXYxcW85VjNVMHE4NWNmREh2cmd6X3Y5YkU1VS15d1VIc3JZcHVoY0wzVXJJemU4Zk9jVFNJSUkxd3UydjRuemJvLW5jc09LUHhtX1pyVzlIX0drTVFnRXBJd2Y3WDlsRGVBWlFXWVBsbWpVUUQ5YlVKbEdxemgxUlFpS09VbFdfdFR0TWh2RG1McmMzbTlyVzBaQ3dWVExNbUJocERBQnFscnRxcG5wX2syQkRxR3RYRGNGYmJXWkRDUVNXZmlwVGZtRElqRGNGVGVLMmE4Y3M3RmQyR294aFhtMnl1TkVzYUpHSm1YaFFOQ3BmWjE2b3BrMHZudkdQZmtockt1UFMtSXhBQVlDTjVaaUV4LUdFZFNieW55MHRwM05wSUJyYV8xZDNVZ0xYb01n?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhFYmxnQmJjVmJwalJyUU8tbERfQUZYT29LLXRSM0FVNFZ1ZVlrRUNzLTBYZk9MdGdua1FhWEM2WUZ5LWFDTW5XYjEwSVBGRDZERjd6TWRoLUdMRjZPaEZTRUZaY0phUjBfTXRJanVFVXd2TzJCcGVDNXdaTFdkNFZNeGdpejBKeGZReEEtWVB3MTE5MlBEMnJrZW54Yk9PRVo2blNJZkRlNkhUNzI4b2NISl9JVXBrOTVjb3dZT2RtQTBxaGJFWVdTTU12Uk1aSVE?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "7f4284aa748d",
-      "titulo": "Noticias Subsea 7: Após fechar contrato bilionário com a Petrobras, a norueguesa conta com vagas de emprego no Brasil na",
+      "id": "5d0a0a3c103b",
+      "titulo": "Grupo Bravante abre vagas offshore para trabalhar 7 dias embarcado e 7 dias de folga (escala 7x7); oportunidades nos est",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPRTNmb3VjU1AwdlhrcmtuTnJOQ29EQnRRQVZaQ3UybjRIN25wVVdwSkpac1BEaWxqUmpPbnFzX1NYcGxWQ2ZHX2pFRU40c2owME5fUmp5Q2RiTFJscXFuY3dVYlFpVmhVLWcwUXJ5aVVPdXJ0Q0NHbDE0OVRGQWJMZkg1b00tbjFCSlNnVGw3Q0JoTDlKaEluZUpzTDRBRTJlb2NpVlpocm1EOHJsaWVsa1VJV3o1TFI3OTduVVdsV3lCT3Y0U1AzQ2tkM254V3laek9YSjhyakZDWFRuZ2VyRkxQNmhUakZnVlY5enlacFZOREhNVTdkOFctRG9CTFF1VU5PU2NZSmlBdWxyLVF1TmFSVm1YVElxSV8xZW5XUHkyUDEyNmc5V1pfTjhqZ3pWLTNRQ25VeUthZWFVV2s4MllxTGdVVHlRMTRFZ1F1Qms?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbFBPa09EQkdVVGk2amgtcFRKQWVSdjJzdl95N2tNV2oxdXA4R3VxLUNXWHBWY2MxV3VFWGt5S1I2akgwT1h4V0dBUXdhOF9xU2ZHTU9CblFUU2NLRFpTOFlseGZEVHFLYlpVQzZ2ZmtFanlkUElWSDhOV3BOWHFPVXFwM19EaksxMHRYMm8tWl9RVmlzTC02eWg2cEhYVkRraHRlSkQ5QWQ0eUs1ODJVajh5WmtiMjRFUzdYVnAyTHhXNWxHNEdYTUJjTFZTbzV2Wm9QU01naWk0bzBkdFNKV2JvR0hfRXl1UVczeGRoVGwxcHl0cXlRZlFJZ2N2UQ?oc=5",
       "keywords": [
+        "offshore",
         "embarcado"
       ]
     }
