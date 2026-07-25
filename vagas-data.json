@@ -1,42 +1,76 @@
 {
-  "updated_at": "2026-07-22T08:00:21.255569",
+  "updated_at": "2026-07-25T08:00:17.669338",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 6,
+    "vagas_hoje": 6
   },
   "vagas": [
     {
-      "id": "d6b6170bdf71",
-      "titulo": "Contratos offshore em Moçambique demanda vagas de emprego para brasileiros nas áreas técnicas, solda, tubulação e mais -",
+      "id": "249e42097f15",
+      "titulo": "Concurso da Marinha Mercante abre inscrições com 368 vagas - CPAD News",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZC1WLU1WSFBDREdMRFNoeUlfdzJ1TmxpMW9HTWJQWU5zeVRuTWthdDhVTnJtOEhkTm5uMUlIMnR2LU5QVWFtX1dHLUR4VExMTmlBWlN2bFl2SzhpdXlNZ0NnQXN2WnRtUnZ0UThhQlRfZmUwa2lId0h0MmNPajRkRXAxOG9uZWRGaFRiZElnLTJaR2sxak44QlgtMDV4R25iaG9FSHZvdFVvcWxrVXBGQ0liU01JUGFvVDhtSGliempKUWJDMk4zNkNWZEt6ZXlzMm5ZMFYzV1hhX3Jfb01aVWRaTXo?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajRxeUxsOUw0M1pUWGJVMUI1bFBxZVdTcmZNU0RZZGlPRXU1VlVrUW93dG90TWhUcjFWR2gtejFSa2VYRWNzbTZ3OEduN2Npelp2UU85cUJFbndKWHI0QjNEcUFHMGNGa2pfeDBQajhZRTRHWDhscW8wbWV4QVZGbFlLbXVMcXpuV25oc3FSbGXSAZgBQVVfeXFMUHRqWjBwaWZEWlAtS2pLWmZoMVVDQkFnSlM4MkRsTWpJcnFDRXl4dzB5TWV2UDRjUjdUYzJzTnU5QnNYTGFjUkZQT05Nbi16WFZ3dWhoNEJHS3hQNTBPWDBEUm9DZ3VVcEJ3cmFoc0hYMTRhSG1FMEZNX3h1UU9ITFY5VmZGSzZ2ZkQ1X2JWX1pTN3FOSVRHT3c?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "20f298bc2e06",
+      "titulo": "Vagas offshore no Brasil e Guiana com embarque imediato, além de vagas onshore em Macaé, RJ, SP, Vitória, Salvador e Por",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZlYwTjE2YlYydG5KcG9iRzhhdFlrWDVlOTJWbk9xMVFDQkUwTGE2V3dSakxTRGpxTk1MeVhWTWVhUUtINXMwcjJSN0UxdUs3cFZ6U1R2d0tXcjdHMkFKZlJfQmZobl9XdlZnekplbkZTSXpaWU5QVFI5Rk5LcFc3bzByWHhOdWZqemFhTEhQWXdaandCRDEzUXB5TmxteDUxTTQ5QjIzZVp6REI1SFg4LU44ZzVKaERjM09oaC0xcFNqc0Y2aDgyTGdOZGM5cF9tdGlZaFdPTkVha2gzck5NaElsZ3ZoRXFmSDVCUG9DVF94R0g2dXN3SkRyUnd0MUFNNmVYdU9sRTNwNnZKS0F2a1lleFV5VlJubXVWSzNNRUQ4V2s?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "6cf246111490",
-      "titulo": "Vagas de emprego offshore na MODEC com salário de até R$ 10 mil para trabalhar em escala 14×14 como Supervisor de carga,",
+      "id": "135da7cb41ad",
+      "titulo": "Certificações offshore: como CBSP, HUET e BOSIET viram passaporte para vagas offshore, altos salários em plataformas e e",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdVhFYmxnQmJjVmJwalJyUU8tbERfQUZYT29LLXRSM0FVNFZ1ZVlrRUNzLTBYZk9MdGdua1FhWEM2WUZ5LWFDTW5XYjEwSVBGRDZERjd6TWRoLUdMRjZPaEZTRUZaY0phUjBfTXRJanVFVXd2TzJCcGVDNXdaTFdkNFZNeGdpejBKeGZReEEtWVB3MTE5MlBEMnJrZW54Yk9PRVo2blNJZkRlNkhUNzI4b2NISl9JVXBrOTVjb3dZT2RtQTBxaGJFWVdTTU12Uk1aSVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdkVndVA3VG1XNmRBdmlLZy1EVjQ1R2ZXWm9GOGltSVJfQVdOR3VMckFHYVN5bEswakZjTk9teDZqQWd5M1FGWmZlSllwZG5tbTFkVXMwMXhfLXlwVVg1MTB3Ymd2WVI4S1Y0MHVWYnNUQXRKM1BXYWVaRTdrNmQ2UjgtRGxQTW5TWUhtZWM1dzVqTGNZc0pOYXdheWJEaHhaWW42YWk1SGlPTFVISWFyT1hsdmE1TXJJNFk5eVJ5RTFLcWZUNWlsbjBEWkt6NzY0d2FKU3BmNUVVanJ2RWdFbHo2T2Jta3JMNVRqZi1qbTNabU5GQjJidG1HQ0RmNUR6QWxFYnVmTzZ4LW9zTm1OU1JZRWxsZDQtdWgzTVdLM3U?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "5d0a0a3c103b",
-      "titulo": "Grupo Bravante abre vagas offshore para trabalhar 7 dias embarcado e 7 dias de folga (escala 7x7); oportunidades nos est",
+      "id": "21fc0785d9d0",
+      "titulo": "Empresa parceira da Petrobras abre 400 VAGAS para trabalho onshore e offshore em funções como marinheiro, RH, eletricist",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbFBPa09EQkdVVGk2amgtcFRKQWVSdjJzdl95N2tNV2oxdXA4R3VxLUNXWHBWY2MxV3VFWGt5S1I2akgwT1h4V0dBUXdhOF9xU2ZHTU9CblFUU2NLRFpTOFlseGZEVHFLYlpVQzZ2ZmtFanlkUElWSDhOV3BOWHFPVXFwM19EaksxMHRYMm8tWl9RVmlzTC02eWg2cEhYVkRraHRlSkQ5QWQ0eUs1ODJVajh5WmtiMjRFUzdYVnAyTHhXNWxHNEdYTUJjTFZTbzV2Wm9QU01naWk0bzBkdFNKV2JvR0hfRXl1UVczeGRoVGwxcHl0cXlRZlFJZ2N2UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcHdndVFWNXdXT2FxYU56VnVYNTZEaVFOcUFtbEk3UUUzdnBLbUctUXpyd0wxT2VzdkZwME1TMDFIWWdtT0pvbkt6S0FDSVNOT2xqNWg5WUxncTQ0U1BjZ3dxVnM4Z0xhb3JUXzF5WHhsb3A2Y2UzZzNxd0ZPYkF4UVVNaGZvTGNWUVZoeDhfY3ZiMlZ4WTBCT2VjZ3RZQThGbGM2MllvMl94eGtrYVJwa2FBSW5EaW5sSDZidmszWDJlZzFOSWxfSm8tMExMTE1aREFVOUpENVdpdnYyaWVzQVlld3dNWWIxUjlBMTJFR0lwNzFENFlMVV9nXzlIN2Rt?oc=5",
+      "keywords": [
+        "eletricista",
+        "offshore"
+      ]
+    },
+    {
+      "id": "174e4d599cbc",
+      "titulo": "Brunel abre nova vaga offshore em janeiro: oportunidade para trabalhar embarcado no cargo de Supervisor de ROV em escala",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRUZXalFYY1lra3ctNXBjQUpEQ01mNDFub2dCQWpMYVd1NGJfOHlsbXdNVnQ1YnBHRUd4aVJGa19IX2NUcVJuamtOeUZUUThGTThOVi1DY01jWFNlQlRpci0yakVlN01NNDViRG5MVWFRdDdCaTRFZUpNUE0xUDk3bnlOWnNveXZubWQ0dEI2S3lwN2JjMWhZYWNjQW40b3RzbTVHVndoWldlcHd0aFhfZ05IUXVPb29OQjRDeHFuZWZMZ0tOeDR3V211M3VaYjFTdlY5NnJoODR4X0ZyaEN5VzQ4MTFEb3lLOEQ0Umc1bnZoNThyTFJMaTF3RXJLLUxWaVZTaWQzM01RSzhOaEtEczNETGs4NV9PMjV1bUg0QzZ6eE1p?oc=5",
       "keywords": [
         "offshore",
         "embarcado"
+      ]
+    },
+    {
+      "id": "ddcee6a05607",
+      "titulo": "Enfermagem Offshore é tema do 19º episódio do podcast Papo de Enfermagem - coren-es.org.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBqVkVhQXZvcWdiV0Jrd2dtc0h1ZnRkNmlnQVhkajBkbjZIRUZYUVRBNWo5YV9kajNEdmp0SjlDVlIyVU1xdmxQMkhFeG5nQzgtaXhjVWY3a1RTVzh6WnlLVjNBYnkzbjNBMHlhaDN4ckhEY0Z0d1l2ai1GVEEyNDhpVjBkRmpyVnVsaVVvSTNCRUJrc25aempnNzVwTDFGbUFR?oc=5",
+      "keywords": [
+        "offshore"
       ]
     }
   ]
