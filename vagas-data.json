@@ -1,76 +1,111 @@
 {
-  "updated_at": "2026-07-25T08:00:17.669338",
+  "updated_at": "2026-07-31T08:00:26.319118",
   "stats": {
-    "total_vagas": 6,
-    "vagas_hoje": 6
+    "total_vagas": 9,
+    "vagas_hoje": 9
   },
   "vagas": [
     {
-      "id": "249e42097f15",
-      "titulo": "Concurso da Marinha Mercante abre inscrições com 368 vagas - CPAD News",
+      "id": "12f64788697f",
+      "titulo": "Marinha Mercante fará concurso com 374 vagas - Foco Regional",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajRxeUxsOUw0M1pUWGJVMUI1bFBxZVdTcmZNU0RZZGlPRXU1VlVrUW93dG90TWhUcjFWR2gtejFSa2VYRWNzbTZ3OEduN2Npelp2UU85cUJFbndKWHI0QjNEcUFHMGNGa2pfeDBQajhZRTRHWDhscW8wbWV4QVZGbFlLbXVMcXpuV25oc3FSbGXSAZgBQVVfeXFMUHRqWjBwaWZEWlAtS2pLWmZoMVVDQkFnSlM4MkRsTWpJcnFDRXl4dzB5TWV2UDRjUjdUYzJzTnU5QnNYTGFjUkZQT05Nbi16WFZ3dWhoNEJHS3hQNTBPWDBEUm9DZ3VVcEJ3cmFoc0hYMTRhSG1FMEZNX3h1UU9ITFY5VmZGSzZ2ZkQ1X2JWX1pTN3FOSVRHT3c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2NJUnhJOS1NcmpRODVLVDE5MWJDa1VtZUdoLXJ5Z2RERk5DaHZHVjFrcFRReUZ3UVpibmt4R01VbTczcDFQdFdsNEFvWlFNM3VvaXRpdDVhQzZVc3ZJNXdfUEJrWV9VV1pmQURRejd2M215Zi00V3lMX25uQnZORERNNmFXcVE?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "20f298bc2e06",
-      "titulo": "Vagas offshore no Brasil e Guiana com embarque imediato, além de vagas onshore em Macaé, RJ, SP, Vitória, Salvador e Por",
+      "id": "498925d48172",
+      "titulo": "Marinha Mercante 2026: veja o gabarito da 1ª etapa - Ache Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZlYwTjE2YlYydG5KcG9iRzhhdFlrWDVlOTJWbk9xMVFDQkUwTGE2V3dSakxTRGpxTk1MeVhWTWVhUUtINXMwcjJSN0UxdUs3cFZ6U1R2d0tXcjdHMkFKZlJfQmZobl9XdlZnekplbkZTSXpaWU5QVFI5Rk5LcFc3bzByWHhOdWZqemFhTEhQWXdaandCRDEzUXB5TmxteDUxTTQ5QjIzZVp6REI1SFg4LU44ZzVKaERjM09oaC0xcFNqc0Y2aDgyTGdOZGM5cF9tdGlZaFdPTkVha2gzck5NaElsZ3ZoRXFmSDVCUG9DVF94R0g2dXN3SkRyUnd0MUFNNmVYdU9sRTNwNnZKS0F2a1lleFV5VlJubXVWSzNNRUQ4V2s?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3V5eDVjVXZTWFFyREVhQy1sc0pTT3pPZUJzeTF4VVp2YXpfbjg0anJhQkNNbTlpc19xeHZxNEt1Qkk1UGhoNm02azhISGNvUEg0OTE4WFBPMEpmZWIzcjdXRHpuaGlyYTQtOHVXXy1WUDUyYjllZngwWHdHblJlX1JmMTlMNkVpMEgtLXdFZFTSAZYBQVVfeXFMTVo4SXJJUkZjNDExQUVjSWYzNlJ0TXpWNFVCd2VJcHVPNGdZN1FHSmhudVRWRFFDblBsX2stWEt5LVRpSTdwRlF3ZmhzR0VoTjdfWEUtV1pUeUlyd2pzei02dFd4dWoyN2ltcHF2MlkzRXdNZzBXREFNTWlaNTI5UnZnb092Zm9jaFBhY21wY29iTV9nS2h3?oc=5",
       "keywords": [
-        "offshore"
+        "embarcado"
       ]
     },
     {
-      "id": "135da7cb41ad",
-      "titulo": "Certificações offshore: como CBSP, HUET e BOSIET viram passaporte para vagas offshore, altos salários em plataformas e e",
+      "id": "a44e1e38ded8",
+      "titulo": "Marinha Mercante abre 368 vagas de nível médio em 20 cidades do país; há vagas em Belém - dol.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdkVndVA3VG1XNmRBdmlLZy1EVjQ1R2ZXWm9GOGltSVJfQVdOR3VMckFHYVN5bEswakZjTk9teDZqQWd5M1FGWmZlSllwZG5tbTFkVXMwMXhfLXlwVVg1MTB3Ymd2WVI4S1Y0MHVWYnNUQXRKM1BXYWVaRTdrNmQ2UjgtRGxQTW5TWUhtZWM1dzVqTGNZc0pOYXdheWJEaHhaWW42YWk1SGlPTFVISWFyT1hsdmE1TXJJNFk5eVJ5RTFLcWZUNWlsbjBEWkt6NzY0d2FKU3BmNUVVanJ2RWdFbHo2T2Jta3JMNVRqZi1qbTNabU5GQjJidG1HQ0RmNUR6QWxFYnVmTzZ4LW9zTm1OU1JZRWxsZDQtdWgzTVdLM3U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnFCUGlUR1QycHlGVmtlUDc5YkFfZGNZb0N1cUZybjJPYWxYamRZell5d1dUQTB1cUpXVWdHSmt2enA0d083ZEpCbzhfZEFaNnN0NHpRb0s0UUxoUUtwWEczeklfUF9EZWQxUVdwMnBnNS1BaTZBaE81SGtjY3pPNl8wSWlKeDliVXc2cWVBQ0oxNnJldzkwS0sydllRa3BDRE1OZU8tMkFFanRhMTRzSnZnbEFPNmlGYnNuUURTNWFzQjdCbkgzLWltQdIB0wFBVV95cUxNUmlIVEY4QjRidUktX3l6ZXdFdXNsYl9oUGtVTEFqdTZRai1wcTViRVBNQWNtTnBOclBTLWpuQlBHMENpcFlXcy1tQW5FbzQtMlpTX0tMYk5hSTU4WjlfU3Q5NGpEWVZxU2t5NjRhQlQyeHZPNEdyQ19uaUh1Q3M4TUIzWFlLaXp1ckJTRU93bUFVNGdVT1hZUE5zMEtsa2R4T29BTHhkeVg0YWRhUzF5QWpkeTdFalFsVnV2SzZLWjYxSzBlMHJtWVdYUTdIX1p6eFdz?oc=5",
       "keywords": [
-        "offshore"
+        "embarcado"
       ]
     },
     {
-      "id": "21fc0785d9d0",
-      "titulo": "Empresa parceira da Petrobras abre 400 VAGAS para trabalho onshore e offshore em funções como marinheiro, RH, eletricist",
+      "id": "45060b41fd2e",
+      "titulo": "Novo edital da Marinha Mercante abre vagas para formação de oficiais; provas já têm data marcada - primeirapagina.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcHdndVFWNXdXT2FxYU56VnVYNTZEaVFOcUFtbEk3UUUzdnBLbUctUXpyd0wxT2VzdkZwME1TMDFIWWdtT0pvbkt6S0FDSVNOT2xqNWg5WUxncTQ0U1BjZ3dxVnM4Z0xhb3JUXzF5WHhsb3A2Y2UzZzNxd0ZPYkF4UVVNaGZvTGNWUVZoeDhfY3ZiMlZ4WTBCT2VjZ3RZQThGbGM2MllvMl94eGtrYVJwa2FBSW5EaW5sSDZidmszWDJlZzFOSWxfSm8tMExMTE1aREFVOUpENVdpdnYyaWVzQVlld3dNWWIxUjlBMTJFR0lwNzFENFlMVV9nXzlIN2Rt?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVHAydHd5d0RxemlsSU9Rbk90eC04N2gyWlNjdlIzYTJoLUItdllZbkVLTDR5OThTNmRBWkJFRTd2ZUlWQnpuNEdKSlVaaUQzdDhwTWl2Y045amdibTZ3OWd5SUhsbWI2UFRKZjRDRDREbTZqODdFMVN2OU8wb0FPb1hKcWRvcEtud0dhM1l5aXc4cU9fNndCU3J1WmtyU25DNGdXbjNPeWoxSU9Pa0ZWd2xkZ1pkMExnUnFXc3hlMDdOZFpRM1MyRHZlb0NTUkU?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4776a6503c2f",
+      "titulo": "Manserv está oferecendo vagas de emprego onshore e offshore para eletricistas, soldador, motorista, caldeireiros, inspet",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWXRWLVlIWTE3QkVCTUdTM0xxbmlnb0ZnTlVIS0NuemNBZjR6TjdUTEdxNW50UVg0MTc5MFA4SnBkNUQ1cGZUMmhmaF96MTFFTkdqZk9lQVZEZ3FOREZtSTh0c1pRalQ3MjYybWQzQlN6VEE0TWpGdFV0MTBKNTJIMmZKRU00NGxGOU1VZnd3SzRGTW1EcHNMUkFGMlBWNC1EZnBkdXpLcTVTbU9seTZUX2FocmhVckNyY25ZVm5RbVRqSEcyR0xQZXRpQmU4aDBxQm5yYjNLTlM0N0tKMzFZVEtURjlXMjJNR1hneDgxNVdHSDBMUHA2TFN4YXgwXy1KZkl3eVpiWmczWXlNb01uTA?oc=5",
       "keywords": [
         "eletricista",
         "offshore"
       ]
     },
     {
-      "id": "174e4d599cbc",
-      "titulo": "Brunel abre nova vaga offshore em janeiro: oportunidade para trabalhar embarcado no cargo de Supervisor de ROV em escala",
+      "id": "aed97a396838",
+      "titulo": "Vaga de emprego offshore aberta neste mês de novembro: SBM Offshore contrata Operador de Carga para o FPSO Alexandre de ",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQRUZXalFYY1lra3ctNXBjQUpEQ01mNDFub2dCQWpMYVd1NGJfOHlsbXdNVnQ1YnBHRUd4aVJGa19IX2NUcVJuamtOeUZUUThGTThOVi1DY01jWFNlQlRpci0yakVlN01NNDViRG5MVWFRdDdCaTRFZUpNUE0xUDk3bnlOWnNveXZubWQ0dEI2S3lwN2JjMWhZYWNjQW40b3RzbTVHVndoWldlcHd0aFhfZ05IUXVPb29OQjRDeHFuZWZMZ0tOeDR3V211M3VaYjFTdlY5NnJoODR4X0ZyaEN5VzQ4MTFEb3lLOEQ0Umc1bnZoNThyTFJMaTF3RXJLLUxWaVZTaWQzM01RSzhOaEtEczNETGs4NV9PMjV1bUg0QzZ6eE1p?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObWdoT0JiVHBaaWpabWRSUGd3OV9Sd0tlS3M0ZFJBZXlMTVRVb3lZdjZKOG04M2hJbHowd1lveDAtOWxVMm1BZmswSEs1WUtCdldJNG1QUGFObW5jNG90bDZNOWxFQkhfNjViNmFwSUdpZ040MTdzQTd6dHF6Wl9SbXlBQzlnX2JRV09NT0Y3aFRMbERuRzJjNFN0OU1yXzZUdmJHakZId1NJQ1M3M01Vb0JfWWs4S2hzQ0xEa01sckNhN0lPRjhvVldTclVuZ2NzaHAwQmM3ZkEwaEhVX3FnWTdKWnJvc21OemdRTnZUeGY3R3RURXRmcDUtNlo5cVEtMmIyeGNvbUVDWW1odXEwNEx3?oc=5",
       "keywords": [
-        "offshore",
+        "offshore"
+      ]
+    },
+    {
+      "id": "9edb5469c37f",
+      "titulo": "Vaga de emprego embarcado em escala 14×14 para Eletricista: Multinacional anuncia processo seletivo em todo o Brasil - C",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSC15ZmVIZzRLZ1hUWU16ajZGV0tGTlZQajFJdGFFVzhnU1YtbWZRbjhDeGNzYmE1aGVJY19ub1RzMmh1Ul96OXNoU21YeDV2YTFBQ21Uc1A0VE1RN2huQ0Npd21FOXhkd1JWVDF5UGpFeGdfRXZ5bmlwMUI3V0dLeGY1U0ZoM2tURG5JdGhzc3QzejlNdUo4R09POEl6aXZwSUZTLVJjLU53OS1rRVBRSnBJVFJmTDllQnZZQ0VGVVpIOXZCLVVXVm95RnZhUUJMUmJVT3pBQjhGc3VVYUQxck9xUU8waGtJcUE?oc=5",
+      "keywords": [
+        "eletricista",
         "embarcado"
       ]
     },
     {
-      "id": "ddcee6a05607",
-      "titulo": "Enfermagem Offshore é tema do 19º episódio do podcast Papo de Enfermagem - coren-es.org.br",
+      "id": "66a0a0c62de5",
+      "titulo": "Subsea7 com vagas de emprego abertas: empresa está com vagas offshore e onshore abertas em 2026 para operadores, pilotos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBqVkVhQXZvcWdiV0Jrd2dtc0h1ZnRkNmlnQVhkajBkbjZIRUZYUVRBNWo5YV9kajNEdmp0SjlDVlIyVU1xdmxQMkhFeG5nQzgtaXhjVWY3a1RTVzh6WnlLVjNBYnkzbjNBMHlhaDN4ckhEY0Z0d1l2ai1GVEEyNDhpVjBkRmpyVnVsaVVvSTNCRUJrc25aempnNzVwTDFGbUFR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbGVJcWVlNUtWdWRkUzNzTVVDOTV2TnN2Ykp2NlQxTklsb1dQa1ZGQUdXZlJXSGR0RUM3NXhMNEtabE84ZmdodnF1aVpWbkVZZlFPUTBfMkhFYTZNLXAxbmcxVHd1c2lQZmNyc0N2VzhLY1Axd01LbmdMWngwb3ZDOFRJZ0g0Wkp0aEdnTmUtTm5qSVc3QklVaWstemRmUTRoaWRpcXlpS0hoQVptMS1sdnF5RG1BRnQwQWozMldrMjM1UWRFa3oxQkJXM2NISHUwaUR6XzRrYmVXNlpVS3hNY2FHSW9iaURrQlZHb0ROTXJYMlhHM1VsU0hycmNyVHNGTHFhb1lpM0FUaEJzdUZQbW54ZmNnempUektuQndRVm9jQWM?oc=5",
       "keywords": [
         "offshore"
+      ]
+    },
+    {
+      "id": "6673412c4001",
+      "titulo": "DOF Subsea anuncia vaga offshore para trabalhar embarcado em escala 28x28 como Enfermeiro no RJ - CPG Click Petróleo e G",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzI2Q3Vwb3VrVEVCNWFvVkZwZGUwbk0zQzhMakM0OHFLQ1ZiMjkyTVpaQllyejg5OWFPcUdkOXdiTEhYWTJwNDJrVmNoelVnR1RwNTgzRXVQSktPSXVsN3ZYMEdsUnRYekFtaTJCakdrNHlYUnBiLXdGTXJmRjVFeVBSdml4NVlqN1FYMnpWSmZzMEhKYWc3alRNaVBxX19vY2pIYzg2NGc0OXJ4c2Y0N0hQeWw2LVU?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore",
+        "embarcado"
       ]
     }
   ]
