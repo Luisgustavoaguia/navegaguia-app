@@ -1,74 +1,52 @@
 {
-  "updated_at": "2026-08-03T08:00:17.147792",
+  "updated_at": "2026-08-05T08:00:18.796247",
   "stats": {
-    "total_vagas": 6,
-    "vagas_hoje": 6
+    "total_vagas": 4,
+    "vagas_hoje": 4
   },
   "vagas": [
     {
-      "id": "4008a9262153",
-      "titulo": "Baixo número de profissionais afeta Marinha Mercante no Brasil - A Tribuna",
+      "id": "85e0de6d8f2f",
+      "titulo": "Marinha Mercante fará concurso com 374 vagas - focoregional.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUpBQUc0VDk0MXhzclhIMTc0OEl6LUdwOWtBbU9Bb1QyOHhadllMN3JvNzFreGhZVE1nMlBYT2xFMjdmbGhtQ0xtSTF2QlhpZF9RT0ZIbTlXVHo5emZzd19OMm13THg1b3o0UTFtRVR5clFudFgwRW5yeFJFeldRbkxPQ1FURm4yWG1Jb3hhSTNRam05dk9tQVkzUl9STWRWUjkwMF9pZjlCQWFhYWFFRjFFNlgwVFds?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2NJUnhJOS1NcmpRODVLVDE5MWJDa1VtZUdoLXJ5Z2RERk5DaHZHVjFrcFRReUZ3UVpibmt4R01VbTczcDFQdFdsNEFvWlFNM3VvaXRpdDVhQzZVc3ZJNXdfUEJrWV9VV1pmQURRejd2M215Zi00V3lMX25uQnZORERNNmFXcVE?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "0133d50b7570",
-      "titulo": "Applus abre vagas de emprego no Brasil, incluindo posições no setor offshore; Oportunidades para caldeireiro, motoristas",
+      "id": "9f246be4fce3",
+      "titulo": "Marinha Mercante abre concurso com 368 vagas para nível médio - terra.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcjdnb2s2aWN0QnpRYW9kaFQ1a0hhVHJCYlo5emdId01uRGpSNFNMU0hTeTBESzNKc0FsejI3M2EwZV9fNlhqVVE3a25rbl9hTkdvV3BIZG5MZm1fZTVZalROUzdOUjJlVjYxSmVIMFBuNHhlSHFmLUp1QzF6d3kzTzZyTUpBZjJfVU9DcXVVTXVwaXNXSUg4TTg0aldNdkJubGwwQ09IanQtRGNXUjJ5bS1yWGhVcmV5UHNnWEZSVzh4bU9UaGdIRWlVREJQa3VWMF9xUmtGQ1dOQlVSRzNrOWpyRFpkbFY4QXplM1BXckdObFR2VVM3Ym9PMjB5RU1CVnpfd0xhQmh2ZkFkaFE?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "25486102d0cc",
-      "titulo": "Saipem amplia contratações no Brasil e abre dezenas de vagas offshore e onshore - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSVktdW9KSE5rM084VHlCUjNvZ3dVay1CQldwc28xcFh1Y1pha0p0dFE4Tm53dVJiLWc0YzluYlR3WFhwbl9PUXF5dXJLU3pnVXptYjJ2bDQ1Y012M05YSkQ3empGQzZxWGFxYjlwWVBJT3k0Qlhnak83OEUyVl9kc25wWFU3ZkVMNHBTVEx6Nks2dDlreHc0ZktvUmo1X2NGZlhFWkpTeE1XSEp2d0R3TUhtTC0xYW00a3k1SQ?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "c2797921f210",
-      "titulo": "MODEC abre vagas de emprego onshore e offshore para profissionais de nível técnico e superior no RJ e na Guiana, com ben",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0pMN1B3SUlVMDFPUzM4UXlINl9fYmRDeG4wd1ZxbUc4b1BuOG4zSHEzb0Y5NzBOZFVPUTJ4bG9Hb2M1dzRfVW5kOWlBUlBhQ3AxX0VTTUZpXzNJTm9Iem96UnJ6ck1qQThoWHJSZDRvcDJNa0doRDBKTS1CUGdyd2RkMXRhVDNaTVJLZmkzOGRST3M4ZkE0ZHh5TFJHejdNSEFYelpKNFFsUXRWRWpQR3dMTTB0cFJh?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "2db4056dd736",
-      "titulo": "O que é preciso para trabalhar embarcado? Guia do zero em 2025 - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdmdYQ2ctWVh2M1Z5MjB5aUs2bFFCZ1Q3X283cVZJSUU0WDluTFFFSUZRWkliWmZjUkIzV2hjVXJMeF91T3NVdFU1MVJ2eHF3eDQxNWttVVVPTVNLVlEwdDhMQnZRa1pPemhUOVcwdkxFNnAzT19ydlZKRkV6cU5LNFdELTVuN3ViM0JGNkFabFVUMktMcnIxWGUwYw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1hzNURCbFBDVzVPTXdIcW9lSFJhNkZ0MUdtNjVnUnFfRGtxV1lINXFfSmRsN0lpZVNOQ2N6U0FNNEVDdW5iWFotRWQ1WU5xMlhxcnB6bVV0UVgwOGdacTZ5d3lTNDZ5UlF0SkRodl9reGxYRzJJZUZBdGxXQWhteGRrcGVFY1d1R18xaGFha2xuUTFHZkdZSy01WTY4b3NyXy1UMTlqbFZvWEZQazl0bTFIbEVNZWVKWTJydmVvbmRYeHIxWGF4QUpkNUFtdFVfZnFMc3VUSGIxV3NFdlpPNFZkM2N5OS1ZTEZtdkxfM2k?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "38d051629df7",
-      "titulo": "Altera&Ocyan abre 30 vagas para trabalho embarcado e em terra - TN Petróleo",
+      "id": "061f6f2281cb",
+      "titulo": "Projetos apoiados pelo Fundo de Marinha Mercante criaram quase 50 mil empregos em 3 anos - monitormercantil.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFhmb2FGcWRpUUxQTzdIUGRwR0llSDNUUzZGZXZkTzN0NUk4b2plRmhqTERCZFRTSDUxSU52NTBTX3BxdWZVRFdjTllqRzQwQ1V0a0l6bGExaHhyNmd4QjVKTmpDWTNPcTFHX0hHV1h1YXJSdUVCNno4X1N5V05aM1RBLXRTSm40QURFSkhwQl9PZEMxTzdWeWp4eWlTZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFdadmJkVktURVItZFotekwxSVpvQ2FrRXNUTVpMX256WkVUSHNEdnZkR0dRZGV2MFJSU2NkR2RYbXh2ajdnNTdORU9HQ1pqSEhCWlVMdkZGeWlHWFUtNTNHeHR5V1pGUzdFU2NiblVqM0FOaTYybVF2ZlAyTnY5aXBybnlRZm1RMVBjV2txNzhpaGpnVjVGTHlkUTE4YXBiT01kbXEyNEhtaDlETTlRanBQMzNxMkxPeTNVY3VB?oc=5",
       "keywords": [
         "embarcado"
+      ]
+    },
+    {
+      "id": "784596cd0692",
+      "titulo": "Novas vagas abertas! Oportunidades na Baru Offshore para Técnicos, Marinheiros e muito mais! - Petrosolgas",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEVWTkVVOHQyVnVobkdudTlqVldmSEtZaW5HNkpiT1BVY29QbEtPSDNfUDFoeHZCLWZFN01JcXdyTGFUT0tGTkNIcTlQSGF6eHM0M1VUNDNmRDVKOXRfN0k3NVRfQVlZWlF0MzRTaFBTdC0xTE9hVDdXX21vTVBJdVg4S00zTmF4eVpvcWgxMk9HS3cyVDBIeGozRmY1d0djYjlyejk2bGRzTGg4VVYzM2hnWDJQXzlu?oc=5",
+      "keywords": [
+        "offshore"
       ]
     }
   ]
