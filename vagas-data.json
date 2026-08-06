@@ -1,50 +1,127 @@
 {
-  "updated_at": "2026-08-05T08:00:18.796247",
+  "updated_at": "2026-08-06T08:00:19.134646",
   "stats": {
-    "total_vagas": 4,
-    "vagas_hoje": 4
+    "total_vagas": 11,
+    "vagas_hoje": 11
   },
   "vagas": [
     {
-      "id": "85e0de6d8f2f",
-      "titulo": "Marinha Mercante fará concurso com 374 vagas - focoregional.com.br",
+      "id": "e0b1ab132d87",
+      "titulo": "Concurso Marinha Mercante 2025: Resultado da 1ª etapa sai em 12/09 - acheconcursos.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2NJUnhJOS1NcmpRODVLVDE5MWJDa1VtZUdoLXJ5Z2RERk5DaHZHVjFrcFRReUZ3UVpibmt4R01VbTczcDFQdFdsNEFvWlFNM3VvaXRpdDVhQzZVc3ZJNXdfUEJrWV9VV1pmQURRejd2M215Zi00V3lMX25uQnZORERNNmFXcVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3RHVFYzVkpNMXJIbXpVS0dycnBOUWtVYXgxdUJ2a2JGQW5UWWdvRWpMd3BNU3hIQW5McnlHYW0yZW5iMExuOE9WSkhDNEhLNWVsbmV0QkNRdEVxMFVLdEI4SWQ4UDcyTVZ1MGJkR0pvS2pvUHA2MHlPOWdCQVhRX21MUTdfWnA5cHBBTDhFYUk0M2k3ZzBQaHltMXRIU0ZDVXFGZmRCR3FWZ0JJR254X2JpRVRhNk3SAbwBQVVfeXFMT2VURkFxc1hRblRyZko0SE9fRFBtQnlHdWJ3cVktd05qT0NmQ0M4dEZUYnQ1QVZfY1laRDAyeENrY09uMWRZNTV3czFacWFqRGl1SUUwN1VLSTBUOEZtb29sSnpvTVR0MEdRTm1kb2hmQ212MEhxZk1mLWJGcEs3Qm5aYWd6WThqN052ZzdhOXJyZXpPQUY2SmI3M291ZG11QzVuZUlxREYyTTV2TTFGOEM3TmF5RkszWGN0SUY?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "9f246be4fce3",
-      "titulo": "Marinha Mercante abre concurso com 368 vagas para nível médio - terra.com.br",
+      "id": "968d6880af8e",
+      "titulo": "Concurso Marinha Mercante 2025: Sai edital com 374 vagas para Oficiais - acheconcursos.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX1hzNURCbFBDVzVPTXdIcW9lSFJhNkZ0MUdtNjVnUnFfRGtxV1lINXFfSmRsN0lpZVNOQ2N6U0FNNEVDdW5iWFotRWQ1WU5xMlhxcnB6bVV0UVgwOGdacTZ5d3lTNDZ5UlF0SkRodl9reGxYRzJJZUZBdGxXQWhteGRrcGVFY1d1R18xaGFha2xuUTFHZkdZSy01WTY4b3NyXy1UMTlqbFZvWEZQazl0bTFIbEVNZWVKWTJydmVvbmRYeHIxWGF4QUpkNUFtdFVfZnFMc3VUSGIxV3NFdlpPNFZkM2N5OS1ZTEZtdkxfM2k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnZ4OEYtUThGRmR0LUgtUm56Y0k5WE9RY0xDQkVxYzVEMGRxcU1aVy1tMjdLNlhOYjZvWjBfbUJqQ1VJSU5rZEJvdzNEVl9OanNUbmhGR0JGbl9SYW5RSFF4SG42b25kdjV5RnRuY3A5b3JCX3ltc0RfRnVIVnlCZ01Lc0EtYjdTcWNNSGc0MXFsSTVybk9Qa3dKdHFvVlg5WWtIeElubHczRWxlUDhHVWlHX0pVUmdhWWxN0gHAAUFVX3lxTE92UmpCSTZNNVdibmJpLUFOSnR3bXdNb1d6Y1o1MVVrcHk2Q0ZwZzUyVzltQjJad285SmZobTZoWnhiaHRLR0xDS18tTnY2eGFodjVoZjNJdEF3UmY0RF8yRkJEWDRDMGc2ZVVaMWtPYmtuZ042RzJyUmhWWXRXODRudm8zcTFvaU5icjdIQW9EM3RmNzdWRkl2WUxNcDlOaW5wSTQ4VXIwMEcxdXFEMXVUS2VRMXlrV3NJQlpQT1hwRg?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "061f6f2281cb",
-      "titulo": "Projetos apoiados pelo Fundo de Marinha Mercante criaram quase 50 mil empregos em 3 anos - monitormercantil.com.br",
+      "id": "8a8728232ccf",
+      "titulo": "VAGAS EM BELÉM: Marinha Mercante abre concurso com 374 vagas para formação de oficiais em 2026 - parawebnews.com",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFdadmJkVktURVItZFotekwxSVpvQ2FrRXNUTVpMX256WkVUSHNEdnZkR0dRZGV2MFJSU2NkR2RYbXh2ajdnNTdORU9HQ1pqSEhCWlVMdkZGeWlHWFUtNTNHeHR5V1pGUzdFU2NiblVqM0FOaTYybVF2ZlAyTnY5aXBybnlRZm1RMVBjV2txNzhpaGpnVjVGTHlkUTE4YXBiT01kbXEyNEhtaDlETTlRanBQMzNxMkxPeTNVY3VB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYngyaW5OUnZBaGxLVE5pWlZidF9rRF9FbGp5STVMTVctX1ZnaElKUlF1Vi02akRWUDNzWWRSUVNGYkhObnkwcGhYTl9CSDdNNkdjVlFjY053R0dFTGw3WFJ5ZUtqcmNCVEdzX3ZoekVsdFhYX3ZPb2xLMFBDeDRqVVJyZkhJcmdjR1JHRTdNNG9zam1kOUNJWUhZWFJjRW5fLWkyQS1ERHBsQmdvSy1wUC1RM29TOEdSb0E?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "784596cd0692",
-      "titulo": "Novas vagas abertas! Oportunidades na Baru Offshore para Técnicos, Marinheiros e muito mais! - Petrosolgas",
+      "id": "78b40bf0c3ee",
+      "titulo": "Concurso Marinha Mercante 2026: Sai edital com 368 vagas para nível médio - acheconcursos.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEVWTkVVOHQyVnVobkdudTlqVldmSEtZaW5HNkpiT1BVY29QbEtPSDNfUDFoeHZCLWZFN01JcXdyTGFUT0tGTkNIcTlQSGF6eHM0M1VUNDNmRDVKOXRfN0k3NVRfQVlZWlF0MzRTaFBTdC0xTE9hVDdXX21vTVBJdVg4S00zTmF4eVpvcWgxMk9HS3cyVDBIeGozRmY1d0djYjlyejk2bGRzTGg4VVYzM2hnWDJQXzlu?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW9pclBhZG1oRG9nUzdieUVhUUZhZi1JNHZtM2VZMkM1RTQ3UFFULVplbUNiVjlJU0FvSk9IUTI5cXRVdDRpbTFZSzFGQnRDUjBQZEp3VXVKYUVZVENyemN4ODdiOGlsa0hIbVhIa01zUjh6eTFMSkhmOTR5V1ctTEFqOTJGMmVTNERMRF9VRzEtR1V5N2VJanFNX19kWktMWV8wbVczX2Qzd3luS3JVYmhn0gG3AUFVX3lxTE83ckJHS1JBS0J0U0R0QUo4M2hHT0lvdnFGRTdZdjBiNEpxakl6aUlHb0Zma0lzWGtlOG5NNTU2NDBILWN4VVlMbFFqOVRWZlk3NkVBVEFfeGEtTGRtUFVoN3lFN2ZVX3ZyekdYOWI0b1hJN1ZOQkZjOG0xbnFzM2dNOW1qVko2MUk5N1djc3FhS05ycjlqelNIUjVab0RObExLZWNLaklKNlRrZmpmaVFna0hoOVBSSQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "40fa200c6d50",
+      "titulo": "Marinha Mercante 2026: veja o gabarito da 1ª etapa - acheconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3V5eDVjVXZTWFFyREVhQy1sc0pTT3pPZUJzeTF4VVp2YXpfbjg0anJhQkNNbTlpc19xeHZxNEt1Qkk1UGhoNm02azhISGNvUEg0OTE4WFBPMEpmZWIzcjdXRHpuaGlyYTQtOHVXXy1WUDUyYjllZngwWHdHblJlX1JmMTlMNkVpMEgtLXdFZFTSAZYBQVVfeXFMTVo4SXJJUkZjNDExQUVjSWYzNlJ0TXpWNFVCd2VJcHVPNGdZN1FHSmhudVRWRFFDblBsX2stWEt5LVRpSTdwRlF3ZmhzR0VoTjdfWEUtV1pUeUlyd2pzei02dFd4dWoyN2ltcHF2MlkzRXdNZzBXREFNTWlaNTI5UnZnb092Zm9jaFBhY21wY29iTV9nS2h3?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4fbf03417ecb",
+      "titulo": "Marinha Mercante: veja prazo, taxa e como se inscrever no concurso para oficiais - JC Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHdTdWxxSnpHY1VJTFlaMjdSUzB3OHI5TFJTXzJFRHNodGNRY0Z0cW9HS0ZnRDNwVkxsV0dLZktaVllZeW5iemdBcElJQVpIT2hyS1FjeVBIbGlzX2pWTVMzdFVtaGJpdE1Ed3JESkdqUG1NRW5wUy01aUR3dVA2UU5FZnlVZ3pkZUdNU3lIaGZlQ3h1Tm5ZLXF4THZkbndPbTVTYXRUQmxpMlp2SkdJcUkyMTZWcDJEUDI5b2NWcmpEYUltNmRCbXp3?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "b51624dcfef3",
+      "titulo": "Marinha Mercante abre 368 vagas de nível médio. Inscrições começam em 21 de maio - extra.globo.com",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG1fRjd3M2wwUks4cmIxRXRNS2R0RjMzSnFubFVPYURFbS1FWXEzNHBhaWJKNHhXclNVdjFjUndsUVdNTDBoNUZCU05BOU1zRDNSN0xOcWFFU0FwWDdkdDRyQzJ2VmdTa0pLRUU1TDBkRXk5enkwYWpjbEVONHhJQnRIUUtoWHNrdzcxLTJmN3AxUTVGYldPSHVsOHNXVXZsUE9IbUFmb2hGRWdWblJBSWNyWGFTam95bE9vbElSTnRWNmd4TTQwZ1VQclNGa1B0RmNNM1lROTFHYWF1SXVzMUhLUWlvNXPSAfYBQVVfeXFMT3dkYWVCQ2FkX0dNUGFQNFdKNE43T2hLSkZuLWtOVy1KR2F4ZUliM2JveXltaG9UUlhsWlBPNU5NeHBBS1RmYUh1WDBPYWZ4M1FsSzVtX0U5aUdKUUlXU0N0YTFWYVc2cWFwRGdhbGZQdkVaaHEzanZkTEJqWElqZGtiTElMbGN5NUFFT3NJdVlmWXljd1lncm9XQVAwQl9aOElBS0Fxa3BJT1hoYzFFRUhCSFFIR0dhTERibjcyQWRvQUtEaXJJdUJ0NC1WMTNtR2Y2ZXdxNndJaTN0TVFPZFlydlFxa0x2UHlNelhhd19QdDdzXzZR?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4afe25fd53cc",
+      "titulo": "Salários offshore mostram profissões mais buscadas em plataformas - O Petróleo",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXZLUzF6Y3VnRmN2eXR2M2N3c0I5bUQwbTlBb0ZDTVpBSWVQazhld0ZHYUI5dC14VDNyeVE2NU93UXQ4M1R6M3FMQVBtLVVlNmhlM1JZX21RcU9KZUlOWEllVG5kWWNrY0FlUkZBeVJmU1JqMW5heUExcndweEc1bnRZMDNQWDIzd3VxMnlKbVl6SmlUa2c?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "31ebdbdebdcd",
+      "titulo": "SBM Offshore abre vagas de emprego para diferentes áreas com salários iniciais de até R$5 mil: Oportunidades para engenh",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQd1d1Uk9UbGhWQnVkX0wyRDVmc1U1NGJfOW5qSnl4VEQ4VWRiYndJR3hGMjRqdlNIamswRVh5RTB4cExOV0FhRlRxUFhoWDFsX0MxTFcwQ0w3cm8tbmI2ZlF1bWJ4WWUzVDVoZ21KTFpIbFg1eEJOanZqaE9CVVEtNEl5MmduUkFYSV8wV1NiSG5PVVUzMjd5d0wwVjVpRFBPQnFFaFpXcE9GNXBjd1Bsc2RJXy11S2Fwc2QzUDhsOWE1YUFoOGpmQklYUTZ5T08yS3d5M2RFZzM4Yk9kcjllOGEwQU83TGNRZDFIQlZKUTY4bExGOGR0UWt6YWZRekJNNWJ6dFJyMWRtVVpXX0c0R0d1dHViSl9yYk9tUFA4NmxkTTN4SEhOcXdYeEpTVTlhQlhsbHJPVjgwbzRaUHc?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "6bcea480e608",
+      "titulo": "AKOFS Offshore: empresa de intervenção de poços submarinos, anuncia vagas de emprego offshore, oportunidades para técnic",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLVFXOEJtSFVHbEpkQmhpYk1BM2huLXVOR3h5NG9DMFV4WTY0bFBIVXNXYnVtRktSaS1VTXlmWTZjQkxGVldILXVOY1VHWDBRelFLdEZVRl9PdWljd0dtQXF5R3FlbF9NaGtGdV9iSWhROWRmVXBxbVhqbmx6bXRQbktkdHFLZERNYUtwUDAyVWpIVmJYMV85OW5MUE5hLWhjalNlSmFFdExycUNOLUM5RkxULXlXek0zMGR3ZWJMbklsZWk3OUlDeHVjOVN6ZnlXTzNZQzlHLUNicFhPRC03dnpvZVB2MTNkc2s0NFRGWVhrdWk0d0MzZkcyWWhnZWQtV0RIWXhJaFFJVnM?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "354aafd6c12f",
+      "titulo": "20 vagas offshore para Homem de Área em projeto de 2 meses - CPG Click Petróleo e Gás",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbTdlQWlVeW1hZEpjcnhYYUJUSGNaYjZ4amdTOE5yS0lITU1GTms2U0FZczIzUENWVU9zWFVNV2x2czRNOERSMGlJaWNNSmdjeG9BX21ZbWh0cFBBdGI2NmhpRnJNVDZjejhNRXZRaWNCUldZam54N2VmLWQxX0JKZmhMbW5xNTltRDBWNjlNc0lxVmFiX0pN?oc=5",
       "keywords": [
         "offshore"
       ]
