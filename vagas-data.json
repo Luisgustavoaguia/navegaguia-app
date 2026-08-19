@@ -1,129 +1,109 @@
 {
-  "updated_at": "2026-08-06T08:00:19.134646",
+  "updated_at": "2026-08-19T08:21:57.893306",
   "stats": {
-    "total_vagas": 11,
-    "vagas_hoje": 11
+    "total_vagas": 9,
+    "vagas_hoje": 9
   },
   "vagas": [
     {
-      "id": "e0b1ab132d87",
-      "titulo": "Concurso Marinha Mercante 2025: Resultado da 1ª etapa sai em 12/09 - acheconcursos.com.br",
+      "id": "32ecb70b5e4b",
+      "titulo": "Baixo número de profissionais afeta Marinha Mercante no Brasil - atribuna.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3RHVFYzVkpNMXJIbXpVS0dycnBOUWtVYXgxdUJ2a2JGQW5UWWdvRWpMd3BNU3hIQW5McnlHYW0yZW5iMExuOE9WSkhDNEhLNWVsbmV0QkNRdEVxMFVLdEI4SWQ4UDcyTVZ1MGJkR0pvS2pvUHA2MHlPOWdCQVhRX21MUTdfWnA5cHBBTDhFYUk0M2k3ZzBQaHltMXRIU0ZDVXFGZmRCR3FWZ0JJR254X2JpRVRhNk3SAbwBQVVfeXFMT2VURkFxc1hRblRyZko0SE9fRFBtQnlHdWJ3cVktd05qT0NmQ0M4dEZUYnQ1QVZfY1laRDAyeENrY09uMWRZNTV3czFacWFqRGl1SUUwN1VLSTBUOEZtb29sSnpvTVR0MEdRTm1kb2hmQ212MEhxZk1mLWJGcEs3Qm5aYWd6WThqN052ZzdhOXJyZXpPQUY2SmI3M291ZG11QzVuZUlxREYyTTV2TTFGOEM3TmF5RkszWGN0SUY?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLUpBQUc0VDk0MXhzclhIMTc0OEl6LUdwOWtBbU9Bb1QyOHhadllMN3JvNzFreGhZVE1nMlBYT2xFMjdmbGhtQ0xtSTF2QlhpZF9RT0ZIbTlXVHo5emZzd19OMm13THg1b3o0UTFtRVR5clFudFgwRW5yeFJFeldRbkxPQ1FURm4yWG1Jb3hhSTNRam05dk9tQVkzUl9STWRWUjkwMF9pZjlCQWFhYWFFRjFFNlgwVFds?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "968d6880af8e",
-      "titulo": "Concurso Marinha Mercante 2025: Sai edital com 374 vagas para Oficiais - acheconcursos.com.br",
+      "id": "0cbdc430b507",
+      "titulo": "Atlas Professionals divulga novas vagas offshore para profissionais do Rio de Janeiro. Hoje 01/06 - Petrosolgas",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnZ4OEYtUThGRmR0LUgtUm56Y0k5WE9RY0xDQkVxYzVEMGRxcU1aVy1tMjdLNlhOYjZvWjBfbUJqQ1VJSU5rZEJvdzNEVl9OanNUbmhGR0JGbl9SYW5RSFF4SG42b25kdjV5RnRuY3A5b3JCX3ltc0RfRnVIVnlCZ01Lc0EtYjdTcWNNSGc0MXFsSTVybk9Qa3dKdHFvVlg5WWtIeElubHczRWxlUDhHVWlHX0pVUmdhWWxN0gHAAUFVX3lxTE92UmpCSTZNNVdibmJpLUFOSnR3bXdNb1d6Y1o1MVVrcHk2Q0ZwZzUyVzltQjJad285SmZobTZoWnhiaHRLR0xDS18tTnY2eGFodjVoZjNJdEF3UmY0RF8yRkJEWDRDMGc2ZVVaMWtPYmtuZ042RzJyUmhWWXRXODRudm8zcTFvaU5icjdIQW9EM3RmNzdWRkl2WUxNcDlOaW5wSTQ4VXIwMEcxdXFEMXVUS2VRMXlrV3NJQlpQT1hwRg?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "8a8728232ccf",
-      "titulo": "VAGAS EM BELÉM: Marinha Mercante abre concurso com 374 vagas para formação de oficiais em 2026 - parawebnews.com",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYngyaW5OUnZBaGxLVE5pWlZidF9rRF9FbGp5STVMTVctX1ZnaElKUlF1Vi02akRWUDNzWWRSUVNGYkhObnkwcGhYTl9CSDdNNkdjVlFjY053R0dFTGw3WFJ5ZUtqcmNCVEdzX3ZoekVsdFhYX3ZPb2xLMFBDeDRqVVJyZkhJcmdjR1JHRTdNNG9zam1kOUNJWUhZWFJjRW5fLWkyQS1ERHBsQmdvSy1wUC1RM29TOEdSb0E?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "78b40bf0c3ee",
-      "titulo": "Concurso Marinha Mercante 2026: Sai edital com 368 vagas para nível médio - acheconcursos.com.br",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcW9pclBhZG1oRG9nUzdieUVhUUZhZi1JNHZtM2VZMkM1RTQ3UFFULVplbUNiVjlJU0FvSk9IUTI5cXRVdDRpbTFZSzFGQnRDUjBQZEp3VXVKYUVZVENyemN4ODdiOGlsa0hIbVhIa01zUjh6eTFMSkhmOTR5V1ctTEFqOTJGMmVTNERMRF9VRzEtR1V5N2VJanFNX19kWktMWV8wbVczX2Qzd3luS3JVYmhn0gG3AUFVX3lxTE83ckJHS1JBS0J0U0R0QUo4M2hHT0lvdnFGRTdZdjBiNEpxakl6aUlHb0Zma0lzWGtlOG5NNTU2NDBILWN4VVlMbFFqOVRWZlk3NkVBVEFfeGEtTGRtUFVoN3lFN2ZVX3ZyekdYOWI0b1hJN1ZOQkZjOG0xbnFzM2dNOW1qVko2MUk5N1djc3FhS05ycjlqelNIUjVab0RObExLZWNLaklKNlRrZmpmaVFna0hoOVBSSQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "40fa200c6d50",
-      "titulo": "Marinha Mercante 2026: veja o gabarito da 1ª etapa - acheconcursos.com.br",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3V5eDVjVXZTWFFyREVhQy1sc0pTT3pPZUJzeTF4VVp2YXpfbjg0anJhQkNNbTlpc19xeHZxNEt1Qkk1UGhoNm02azhISGNvUEg0OTE4WFBPMEpmZWIzcjdXRHpuaGlyYTQtOHVXXy1WUDUyYjllZngwWHdHblJlX1JmMTlMNkVpMEgtLXdFZFTSAZYBQVVfeXFMTVo4SXJJUkZjNDExQUVjSWYzNlJ0TXpWNFVCd2VJcHVPNGdZN1FHSmhudVRWRFFDblBsX2stWEt5LVRpSTdwRlF3ZmhzR0VoTjdfWEUtV1pUeUlyd2pzei02dFd4dWoyN2ltcHF2MlkzRXdNZzBXREFNTWlaNTI5UnZnb092Zm9jaFBhY21wY29iTV9nS2h3?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "4fbf03417ecb",
-      "titulo": "Marinha Mercante: veja prazo, taxa e como se inscrever no concurso para oficiais - JC Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHdTdWxxSnpHY1VJTFlaMjdSUzB3OHI5TFJTXzJFRHNodGNRY0Z0cW9HS0ZnRDNwVkxsV0dLZktaVllZeW5iemdBcElJQVpIT2hyS1FjeVBIbGlzX2pWTVMzdFVtaGJpdE1Ed3JESkdqUG1NRW5wUy01aUR3dVA2UU5FZnlVZ3pkZUdNU3lIaGZlQ3h1Tm5ZLXF4THZkbndPbTVTYXRUQmxpMlp2SkdJcUkyMTZWcDJEUDI5b2NWcmpEYUltNmRCbXp3?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "b51624dcfef3",
-      "titulo": "Marinha Mercante abre 368 vagas de nível médio. Inscrições começam em 21 de maio - extra.globo.com",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbG1fRjd3M2wwUks4cmIxRXRNS2R0RjMzSnFubFVPYURFbS1FWXEzNHBhaWJKNHhXclNVdjFjUndsUVdNTDBoNUZCU05BOU1zRDNSN0xOcWFFU0FwWDdkdDRyQzJ2VmdTa0pLRUU1TDBkRXk5enkwYWpjbEVONHhJQnRIUUtoWHNrdzcxLTJmN3AxUTVGYldPSHVsOHNXVXZsUE9IbUFmb2hGRWdWblJBSWNyWGFTam95bE9vbElSTnRWNmd4TTQwZ1VQclNGa1B0RmNNM1lROTFHYWF1SXVzMUhLUWlvNXPSAfYBQVVfeXFMT3dkYWVCQ2FkX0dNUGFQNFdKNE43T2hLSkZuLWtOVy1KR2F4ZUliM2JveXltaG9UUlhsWlBPNU5NeHBBS1RmYUh1WDBPYWZ4M1FsSzVtX0U5aUdKUUlXU0N0YTFWYVc2cWFwRGdhbGZQdkVaaHEzanZkTEJqWElqZGtiTElMbGN5NUFFT3NJdVlmWXljd1lncm9XQVAwQl9aOElBS0Fxa3BJT1hoYzFFRUhCSFFIR0dhTERibjcyQWRvQUtEaXJJdUJ0NC1WMTNtR2Y2ZXdxNndJaTN0TVFPZFlydlFxa0x2UHlNelhhd19QdDdzXzZR?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "4afe25fd53cc",
-      "titulo": "Salários offshore mostram profissões mais buscadas em plataformas - O Petróleo",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXZLUzF6Y3VnRmN2eXR2M2N3c0I5bUQwbTlBb0ZDTVpBSWVQazhld0ZHYUI5dC14VDNyeVE2NU93UXQ4M1R6M3FMQVBtLVVlNmhlM1JZX21RcU9KZUlOWEllVG5kWWNrY0FlUkZBeVJmU1JqMW5heUExcndweEc1bnRZMDNQWDIzd3VxMnlKbVl6SmlUa2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGRWWi02dW1kdW9qVTA1U2xwQnVPU0pBTHNvaFNoZDRwRExpQjhzUHBobWZQcldlZGx4TnZpbzZLTGRuWTl1bF9tZURTSTdFS3A2dExDRm45SkFaNml5YnFBQTRHSDNzZDZSQ05yOHNCY0xJREZkOVVBN0pWVXVzS1NNN3B1NTJqbUhZZzBUckh5NG9oNUc0OG5YdHVJWHVhcFc5aUEtVjdYOWxEbHRDM2NUdkd2V3N1YkxTTURNSy0zUQ?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "31ebdbdebdcd",
-      "titulo": "SBM Offshore abre vagas de emprego para diferentes áreas com salários iniciais de até R$5 mil: Oportunidades para engenh",
+      "id": "f8515ffbc17e",
+      "titulo": "5 profissões offshore em alta em 2026 para quem quer trabalhar embarcado - O Petróleo",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQd1d1Uk9UbGhWQnVkX0wyRDVmc1U1NGJfOW5qSnl4VEQ4VWRiYndJR3hGMjRqdlNIamswRVh5RTB4cExOV0FhRlRxUFhoWDFsX0MxTFcwQ0w3cm8tbmI2ZlF1bWJ4WWUzVDVoZ21KTFpIbFg1eEJOanZqaE9CVVEtNEl5MmduUkFYSV8wV1NiSG5PVVUzMjd5d0wwVjVpRFBPQnFFaFpXcE9GNXBjd1Bsc2RJXy11S2Fwc2QzUDhsOWE1YUFoOGpmQklYUTZ5T08yS3d5M2RFZzM4Yk9kcjllOGEwQU83TGNRZDFIQlZKUTY4bExGOGR0UWt6YWZRekJNNWJ6dFJyMWRtVVpXX0c0R0d1dHViSl9yYk9tUFA4NmxkTTN4SEhOcXdYeEpTVTlhQlhsbHJPVjgwbzRaUHc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZFpqN01vSklXd0MtbkhrX3o4VER0VmM3YmFqMGFwbEdNc3BlUEFYVkpSUlBzQlI4ODQ5NTQya0IyT2lKeHJsX0NFeW50d1FtQWItNk80WDVDdlRPR05lOEF5WEM3VG51WE5udnJUb2oyUHlXX1BSNXBFcHZhM0pkUWZkTEUxT0hvNjVGb3RKQ1ZYT2lnTEUxS08wSFNwQXc?oc=5",
+      "keywords": [
+        "offshore",
+        "embarcado"
+      ]
+    },
+    {
+      "id": "0ea28da800e4",
+      "titulo": "Salários offshore podem chegar a R$ 40 mil e atraem quem busca vaga embarcada - O Petróleo",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG9Da1VBXy02Y21MckYyNEtMeVJQOXI3LTg0bDQ4UndkZlhaWW5WR0VKczJMWnR0RXlYTWNhSUtwZE5jNDJIcnRJSDlxQ0tDQkR5ZUdWTFRKc1V4TGxpVkR0UkUxRkRKZ3dUallPNHViZnNLWG1kQlZMTnl2RTAwWGpkcUYyaVVGY1hCRzM5RzhOYnJSYkdsTjAwVU9hcW9INHdIcA?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "6bcea480e608",
-      "titulo": "AKOFS Offshore: empresa de intervenção de poços submarinos, anuncia vagas de emprego offshore, oportunidades para técnic",
+      "id": "904bb30756cc",
+      "titulo": "Lista de e-mails de empresas offshore, naval e industrial - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNLVFXOEJtSFVHbEpkQmhpYk1BM2huLXVOR3h5NG9DMFV4WTY0bFBIVXNXYnVtRktSaS1VTXlmWTZjQkxGVldILXVOY1VHWDBRelFLdEZVRl9PdWljd0dtQXF5R3FlbF9NaGtGdV9iSWhROWRmVXBxbVhqbmx6bXRQbktkdHFLZERNYUtwUDAyVWpIVmJYMV85OW5MUE5hLWhjalNlSmFFdExycUNOLUM5RkxULXlXek0zMGR3ZWJMbklsZWk3OUlDeHVjOVN6ZnlXTzNZQzlHLUNicFhPRC03dnpvZVB2MTNkc2s0NFRGWVhrdWk0d0MzZkcyWWhnZWQtV0RIWXhJaFFJVnM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRFI2eG8ySTFobDhsSy1DQzBlSE1DVFhGMHE0akdnbnd5ZVIzZEJSQWYxWmxNWWRMMVp0VE12cWVHT05vT1NTam1XSm5SS1c2dE1XY2g5dkpGRHVidkdYQkRkV3NDaEx5UGg3WWNyZ0tRSUJpZHZRWlU5R1VMdmJDaUt5eWdLNWJOMnNaVkFmdDR3X0FR?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "354aafd6c12f",
-      "titulo": "20 vagas offshore para Homem de Área em projeto de 2 meses - CPG Click Petróleo e Gás",
+      "id": "8922c11fb74a",
+      "titulo": "Grupo Bravante oferece vaga offshore em escala 14×14 para quem quer trabalhar embarcado em SP - CPG Click Petróleo e Gás",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbTdlQWlVeW1hZEpjcnhYYUJUSGNaYjZ4amdTOE5yS0lITU1GTms2U0FZczIzUENWVU9zWFVNV2x2czRNOERSMGlJaWNNSmdjeG9BX21ZbWh0cFBBdGI2NmhpRnJNVDZjejhNRXZRaWNCUldZam54N2VmLWQxX0JKZmhMbW5xNTltRDBWNjlNc0lxVmFiX0pN?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXUxS1RjUlR2RjJMZzhSclg0UTQxQUxaRVhBampQNnVybGszbGhibElaUloxSUVBUkR0bmhhMkFUSkwxYlhldG84U2xhclVNS1ozNXVtMGRBcU43NENPeEpfam9rOE9SOUI3bzBnS0hXdUVNejMtUC1WU1ZscjRmVVpIcFByU3VfV1VYYWo3UE5MenBVZ2FRR01fU2FGa2F2MjZ4SXd0VnUxaWdCNV94dG96YWpqV0dQMU9EVVdHeVdXa0M1LVVSRHU3emhCdw?oc=5",
       "keywords": [
-        "offshore"
+        "offshore",
+        "embarcado"
+      ]
+    },
+    {
+      "id": "097b756f2240",
+      "titulo": "5 cursos para trabalhar embarcado: vejas as melhores opções - querobolsa.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWEVYNGlwMEF2UEtvVWw1eV9FRktiOUJOcGJDNzN4YWJ5ZG5qSUFwNkE1OF93TjRLY2tFQjJ6THd2U19tajlFbURXV2RnOTN0eFp4VVV5Wl84R25jSi00bVNlYjAyNXdlTGR5SEV0NC11TWs?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "c531dcd832a0",
+      "titulo": "Trabalhar embarcado em plataforma marítima vale a pena? Quanto ganha? - estadao.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVExpZlBiX0ltTEhObmRUQkpuZE5reVZrQktYdHZWcHVoSktSRWN1b3RGdFRyV29UZk85VlY2OEpxRVB3TnJvT3U1eEItQVVxUm5oZk8xSThsaGJUcFVQQmh2TjdHakMweDNfU0NYUUxFczJTTk9DY3RJLXRxM0tabS1BRFRHVkQ1TnVESU1ubDFBaThwV2w3UkhBcjVMRzBKa0VYWjJRQVpncDNYa3N4STJEbzNTbGRSQ2UxemJB0gHDAUFVX3lxTE1tMzRhS0l5NERpazBNa3c1Umxxb0Rzd1JZNVBuenY4LWlSQVVINzg1N3NNdDhOYThfb0xjRHM5dWVrb1RnRm9EN0ZKU29YQlV4V2xwdHFISEtBQlZ6Ri1Ea3FsZHc1RVVjLVZjaVU5ZUVIc0V2ck9wZW9sNlc5VkZnZVZTM0pndC1kY3prelpicDdGSE5vTm83dURLME1lb0piTnIzT09mMlp2Y3VMbGgwVDRCRDVpQjZJX3dzd0YwanlBWQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "fb214e8fb0f7",
+      "titulo": "Moço de Convés ganha destaque com salário acima de R$ 6 mil - O Petróleo",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMU9teHlJdFBtb3E1cFhhZktXLW4weVNUTndHdnZKNDZxMGEteENabEVjUGRCa3poc3psekk0T1A5NXJXbUNaeGNJOFdXSmx6aWZRd2xpQ2VmWUh0MFN6WmVVX3pza29iYmFicXR3czd3UEE3ZlBkOHlfWnUzVWhKc09NN1p0YTQ3QUd1Vw?oc=5",
+      "keywords": [
+        "moço de convés"
       ]
     }
   ]
