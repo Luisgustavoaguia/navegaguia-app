@@ -1,8 +1,53 @@
 {
-  "updated_at": "2026-08-20T08:00:45.205038",
+  "updated_at": "2026-08-24T08:00:18.814953",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 4,
+    "vagas_hoje": 4
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "d451896146f7",
+      "titulo": "Ocyan abre 50 vagas de emprego offshore em de Macaé, Rio de Janeiro, Santos, em São Paulo e Vitória, no Espírito Santo -",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQzZCS0VnWjBWX3o2VTRocjZyZG1xS3BmcDlGazFBX2NhNnBFdk1sc05DREVjRE9Va2R3ZWJwSU9jemlDZnY0QXBER3cxQ3lOcU5ud3dqSnFTdEJlcElaWmFSNXFhRzhpUGRSbmU2QUUyWnE3WENVXy1kaHI3dVpuQ1NLRi0xaDhiREx2S2ZabnZKY3RhMDJGRy04TlhqSjFQNEljbmYyelBCWm1VZWx5VEw5ZWR3X3k0dzBYNGF6Z3N0QkY1NTRkc0l1cWtub1VzcEtSM0lxb3B5UQ?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "b36c8f3b1be8",
+      "titulo": "Imagine ganhar até R$ 10 mil: Foresea abre vagas offshore com benefícios incríveis – inscreva-se agora! - CPG Click Petr",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSG5jdWRpcHFBM1FtUHN3N2g3dGFta1NiaWczeGxCYm5DNXZ4RzRibDNacjY0NzU1dkZMelRpLW96QkphaF9PbUVwN201TUlvYllIc3JXdHJYOWkzZzB5dnQ3Vzh0WTR0eWRNbjFfRG91WG9TUHgxZkY4TzdHdDFKcURESUEtMkw1TWVmZFV2YzFsY2J5UTFNX0JxcmUtQ3lxcmctUQ?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "445ce9b9fc07",
+      "titulo": "Sodexo abre nova vaga de emprego offshore para profissionais de nível superior em Macaé (RJ) com benefícios como plano d",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQb0xKNzBLRGZPZnR1Njd4bEpITmE3bVZwMHR3RUNlODZUU1JCT00xUXVXTV9nc3dGR3lLT2c5VWFEOFpSU2loU3ZTeFBVM0ptNmRTU0p1SFVGUXVKOEEybHU3RjNZeWdhaXZqS2lzdzR1WnJLa2EtUVl0T0dlRGZmdW1nT1diWmFOTS1lZlJMd3Y0MV9OQTk5VzE3QnRaaHNNYWdMb05JbDlDT3pJMGdEaDVmZGRfUVpjSERzNXF2SEhFQmJ6akpnLVpLbXMtV0c5UjIxYy1Zbk1ma0Y3b1hzQmlRMVpRdUxLQWV5cTR1WERYQTlxcEdmUlVnZU1jR2NqRjRwcW50Ukh0Z05RQ2ozN0lmQXF5Qk1YVFp2eA?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "0de251c195e1",
+      "titulo": "Transpetro abre 386 vagas para suboficiais e guarnição da Marinha Mercante - O GLOBO",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHh5dnRWMnRSRGtPbVZkRC13Ni15QkJmQVJPd0cyOThLQ0FDWFJBamY2eGdrck85WU1ZYWRpVXduWDVDcEFBMDJuZk0tUHdueWxGblQyU3hKOG5yZWhuTHMwRTFCMEpFcG9xYU9FV2djSnJibjIyMUdWeTRKMTRHWGZFbnhtYWVYZlZTbWtIVkRZZ0J1UGg2cGlvb1I2WFI0TVEzbUNvdG1oMW9EVUZCTXdvUmtybXBMa0NiLTRFWQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    }
+  ]
 }
