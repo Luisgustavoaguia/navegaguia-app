@@ -1,31 +1,8 @@
 {
-  "updated_at": "2026-08-25T08:00:19.875530",
+  "updated_at": "2026-08-26T08:00:15.439538",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "aa2537d0f55d",
-      "titulo": "Constellation divulga diversas oportunidades offshore em Rio das Ostras - Petrosolgas",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZy1FRUlLUVpZR2NHQW5xNHdiVVZBemttaXA3ZXFDc2hUYmUtSDNlSmUtUHBGZHV0elRUV0lXaXRhQVJncWNBdlVHekxZbjdzMFkxODFvbUU2by1naE04Zi1fck11Z3NsMmZIREswTHBOQW5CUDRBZlFqdFdteXhPMjlJSnhVODJmNTJfX0FsRzU2X2RGV2pfWEdTZUNvUE10?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "6f44a6e5e029",
-      "titulo": "Transpetro abre vagas para trabalhar embarcado com salários de até R$ 15 mil - Folha do ES",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FaWE5aXdMdUUycXBtcjlGVF93SVdhN2tWWENyQlJTdGV1NWFXa3Q3S2RDeG4zdDBBc0JVRW1ReV9VRXdMNlBVMzNkbFR3eHVtS0lrcnZLM0NyZ2t3X1hhTUpHelg1WjhCWDVuRDk3bGhqa09obmRhNlpPN1A?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    }
-  ]
+  "vagas": []
 }
