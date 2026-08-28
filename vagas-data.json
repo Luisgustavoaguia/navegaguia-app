@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-08-27T08:00:15.717443",
+  "updated_at": "2026-08-28T08:00:18.992233",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "57c3ede44f48",
+      "titulo": "Transpetro abre vagas para trabalhar embarcado com salários de até R$ 15 mil - folhadoes.com",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FaWE5aXdMdUUycXBtcjlGVF93SVdhN2tWWENyQlJTdGV1NWFXa3Q3S2RDeG4zdDBBc0JVRW1ReV9VRXdMNlBVMzNkbFR3eHVtS0lrcnZLM0NyZ2t3X1hhTUpHelg1WjhCWDVuRDk3bGhqa09obmRhNlpPN1A?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    }
+  ]
 }
