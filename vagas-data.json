@@ -1,19 +1,85 @@
 {
-  "updated_at": "2026-09-02T08:00:17.743086",
+  "updated_at": "2026-09-03T08:00:20.219280",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 7,
+    "vagas_hoje": 7
   },
   "vagas": [
     {
-      "id": "ed358a14dbce",
-      "titulo": "Marinha abre seletivo com 118 vagas para curso de Aquaviários em Santarém (PA) - concursosnobrasil.com",
+      "id": "587e2c96b8aa",
+      "titulo": "Concurso da Marinha Mercante 2014 - Ache Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbFYxY0JFTG1lZkVkeEswM0ZDNXY2U3JFNjdjdklOUlE0aUZXdXNWemQ2TmlOb1dWUFgzaVc5eDN2N0J4WTkyUTRBZlJWOUlwV29ZZjBhZ25WVFhZMHRNc3pGTmlScVJVa1ZsUDdzLUJvV0pnbFZTbjBnNGJvbENJUTA0TEpVRUVlay1sSG91X2ptMnphWi0zcWpGUzZYbWtSdXNWWU5Gc245YzdOLUp4c2xKVG93YnlSampzY2lWV0JJcURPMkhXN3h4Yw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQldwaFBGZHNHZms3RGM3TndsektuaTBZbXJwY1QyZG9UWC1KWGdKV0NIVDdnZWtLU2JuZ1FLcEVWbktZYmItUTNZd2lGTGRIa2thblJNN2pGTUtSQ1dfa3ZMYWIyQ2VIM2htbHZqMXRWOGFUMy16emdtd0hjdldlVVZvWDBoak5jOFZUZ9IBkgFBVV95cUxNV1pGdTRSN0RLdTRHVUxNa1RZOFJaNkxlbjA0SExUa2VVU1lrd1cyazBkNTBIbmU3WGtLelRjMEZLSldsUUJzZHhXaDNVZXNwcVVIMVdLems3RFZ3WWhERGY4dldhY2ZDT19ybC1IdGk2d2VNQThnT3BMTklJaDROOE1qcmYzNS1TNElKc0tydG9Ndw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "43cf52259129",
+      "titulo": "Marinha Mercante abre 60 vagas para Aquaviários CPAOR 2014 - Ache Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcWxCVjNwOGlZZGpKb3NmY3NpcWltODNtN2VnZFNpanlWWlRKRUxSWnlhekJjOG9ndlNNZi1Iajk5SXZYWF9ULXZ5VFRlN0NEaW5rNzI4WUhpaU1VSWJKOTRPc0RfclZmWnpJMWIyS1AxLXFJYkIzLUdGeHBxaFhaazlVZnUtODloQ2V5d0NJMkVrZ1YyVGQtTzQ5U0QyNzJmeUZLMER2X0Nxd9IBrwFBVV95cUxNQ05JblBPR043NVBuTTdFOGRMMmlsb2psNXhZNks1M0czdWZoaHNZQnlqb0dYME5JUXZpVXU2LWI5RzVBMzY2REVGaTYwck9MaEdiaVdGcWJFQ2Q2T3pDN0pwU0lKTkcxM2hUWUJnYlp1LWdNNTlCZERpRFdROURma1pNeE10WEYwMWRhdkV3VTZDd2N6eHZJeGYzUFFfRUU5VlpjeFd2V3F4Wklnem5J?oc=5",
       "keywords": [
         "aquaviário"
+      ]
+    },
+    {
+      "id": "0e2fe6499b6d",
+      "titulo": "Marinha abre 30 vagas no CIAGA para Moço de Máquinas - Ache Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzRmdFNkRnQ1T29VaFJmRUJSUXBJLVNROGoxOTllY2FKc2gxQlhMaXdWZkVCUTZyWTBxUWJ4ZWJCWTVnaTRKVUFLREFkRUFjbVNvRWNqd3BaQUlRLTBFYmIxS0R4Q2lzX2ZFMDE3MUNZXzdweXV0RnJZanV0OUMzajlLRDF0WXZ1elhSQ09TSWhYTVdYeG1fcVhfUElyb2hJdFB2RFVSeUczTWFHZFHSAbMBQVVfeXFMTk1NdjRoeW52eHRFR2M5UjkwcVlhdV9BbFRzaDRqR1NZTFJUaTVXYVBRMjllOTJWdDFmbW45QU5udlpadnZ1U09RcTNWdzNBWVdOSXpmOVNIT2REbVk0X2hoT0NzZlZvZXR5UzdkZWpzdGx3MGRUZjNQVkFmUTB3Wkc2LUJEdTNuRHMyU082X1dkRTZKdjA3cmNIVHAzWkpRVU15QzBQN0QtQzFxUF8xTm1Mc0k?oc=5",
+      "keywords": [
+        "moço de máquinas"
+      ]
+    },
+    {
+      "id": "028aae9a3fbb",
+      "titulo": "Marinha tem inscrições para curso de pescador e formação de aquaviários em Chapecó - Oeste Mais",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYnYtcHRJS3pWT0t2TXNrb0d0b1ZPT1YxZVdlTFpwX09mY1dfRHRSWjFfS0tLTFlnLU9WdDlVUmFLcTN4bFIwU3lzTkdLc25jQ1NkWHRBeUV6cWNteGh1RFNwbjZGZk10Skx1WF84dnBaaHU0ZGRrMHFvWjdMWTgzLTZDOHExZEtldVVxT3MzM0t1d3pqTTRJWWpDUTlON1VmenNYV1k4NGlnejZBZ3A3WWRVdnR6ck5CNTBNcDRQdHNvZ0JLM05zczZB?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "4b796103cf04",
+      "titulo": "Aliança amplia formação prática de oficiais da Marinha Mercante - Transporte Moderno",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWU2M2p2S2cwU1daZnBtNl81UU8xa0hFWENwYUNrY3pDLWpXc0NEYlpGMjhtTjljdkVFeHA3V0FtaVhwaVJhSXAyLWFmaWFCSllTb3UwRXJQdmtFd0FFaDVLWEp5SkNoVmdwZXhzMEVjOG1xYnoxTzdjQV9Nb1FvWXBDYU1vb3M3UnNZR29MeXNGWUR0N3c3eHBoMnNhUjNnSE5uUkV6ZHBFM0Z4?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "7390afe7e357",
+      "titulo": "Capco abre processo seletivo em no setor de energia e serviços financeiros: Oportunidades para nutricionista offshore, e",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWVdLMXduWXhPUEdfdWh6ZjluczRoYnREc3g4UW5mc2FEMld6b2RBWFQybTJqR0FZUUt2VXpnNWkzU2gzbzR2MkpIWndIVUVsYTJ5andZNTkyQzA4SlRPY09yTjV6a0x2dk5LSTJNa0cxaVcxMWNVUk80TzhVZDJVOU9EdEZEb2poTnRZM1FNREJ3ZUtScWJrR0U5elNhSnJjTy1wLXpaVmNkVjhxU2xVZGhqUV9udHFIZDl2R0JnSTBjTjU5NHZHSFN5QlNxWjJOSU1ueGpteWI2b1dtNmo0VWt4amlVV2RwT2tPcm14N0MxVXhJanNmbndDZ2M0cUl2Qk5WeXVDazcwaHJrQlpITXNlZEFWdXRNWnEyVjJyM1I4dzRT?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "3b45f040a493",
+      "titulo": "Omni Táxi Aéreo abre vagas de trabalho para operações offshore e áreas estratégicas no Rio e Amazonas - aeroin.net",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTViRFNNTi1UZU1XU19FZlFGVUk4NVgyN2JIdXFHS3lOam16ZlRTYXlJZUlWSFJMblBGeE4ydDVlYktMMG9PY2VNWDByZEk1SG5EUHpSOWZqU3VZSXJFalN1c2tEbzBkVGl3MGtVbDQ0cGZiaFBTczFyU0lrendMVXV0dFZnc000dGtMcE51VEZTaF9YMF9iMU5tYzVNcjBjdFlOTGZhRDBCdVM0YjNrLXNtUHpOb01Ca0tiSThB0gG-AUFVX3lxTE4tNWJEU01OLVRlTVdTX0VmUUZVSTg1WDI3Ykh1cUdLeU5qbXpmVFNheUllSVZIUkxuUEZ4TjJ0NWViS0wwb09jZU1YMHJkSTVIbkRQelI5ZmpTdVlJckVqU3Vza0RvMGRUaXcwa1VsNDRwZmJoUFNzMXJTSWt6d0xVdXR0VmdzTTR0a0xwTnVURlNoX1gwX2IxTm1jNU1yMGN0WU5MZmFEMEJ1UzRiM2stc21Qek5vTUJrS2JJOEE?oc=5",
+      "keywords": [
+        "offshore"
       ]
     }
   ]
