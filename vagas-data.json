@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-09-05T08:00:20.109942",
+  "updated_at": "2026-09-09T08:00:15.763437",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "1f609dc7445e",
-      "titulo": "Marinha abre 120 vagas em cursos de aquaviários com inscrições de 4 a 6 de maio - concursonews.com",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb3BmVF9HSGlIamFncjJSZUJIVEY0cWR5NUN5Qy1LZjRqcHA1dkVpTnRFdUFnSHNZOWdWc1pycVJpLUIyVllqUm1pc1NvajMya1FLemx6TEJ1Vm1tR1VhZXgzem83Y2VyRWwwYTI3T2JLSU5oMW5TQzFMcV81UnM4djJKTGVJcHBzWVlnamdlTmlzSEs4QUFTaE84aXpmdzk1YUtSUkpodk9ZY0Q4MjFkdGNvd9IBswFBVV95cUxOb3BmVF9HSGlIamFncjJSZUJIVEY0cWR5NUN5Qy1LZjRqcHA1dkVpTnRFdUFnSHNZOWdWc1pycVJpLUIyVllqUm1pc1NvajMya1FLemx6TEJ1Vm1tR1VhZXgzem83Y2VyRWwwYTI3T2JLSU5oMW5TQzFMcV81UnM4djJKTGVJcHBzWVlnamdlTmlzSEs4QUFTaE84aXpmdzk1YUtSUkpodk9ZY0Q4MjFkdGNvdw?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    }
-  ]
+  "vagas": []
 }
