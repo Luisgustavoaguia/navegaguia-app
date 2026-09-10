@@ -1,8 +1,240 @@
 {
-  "updated_at": "2026-09-09T08:00:15.763437",
+  "updated_at": "2026-09-10T08:00:28.781143",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 21,
+    "vagas_hoje": 21
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "4aee789a2932",
+      "titulo": "Concurso da Marinha Mercante oferece 374 vagas para 2026 - povonarua.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQXzh4SlhzdFJwOGlmQ0dsRUNlQU5OWnlBd2E1LTFVSnJXcFI5aXJBV3NNWmMycmFWWFo0UVZBWTN3emgyTDBmVmdXX1o2Q3pGZU93dWhnWWhmcllmb0duZEtMb1NhaFQ5dkZGODBiSnNfeHRoVmpmeFZwSHd6UEhCQmhpYUtzc1ZfY2c?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "b9d637fe6e73",
+      "titulo": "Concurso da Marinha Mercante: inscrições entram na reta final - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZmVkSWVIc2haWi1jcHV3VHFJZTdEYlNJMlVfQ0NVaElEUTlxVFpfdnpiVFNXVHNpMnFJYXpjYzJseEZ2b0NDSjFxcmVacVFYSUhnZjlvNWlhQkxSY1BSZ09URmNzaVNLWThMWjU4TWttcElHcmlpVVV6WGZOV2NObXZ2YTNEUkJsRlk0T3hvOGxOUXVMQU4yd3pxclDSAaIBQVVfeXFMUE9vM0hwNy1QWTB6TjRqSU04cXRVYmoyVVR3eWwyT2czRXdvYXJfQmFxYXhwcnpFbEhJamU5eDQxSTVZYUtuYTJ0aDJCUUpiTHRtdjBmeWZPUHlnSDUtZUZ6dFdfRElGaF9MYnFjTGlhOUwyS3lPXzhFOWt4Z3JocFZfX0lXMDlQRmZncWhtWGQ2bnFSZ3VEV1hTS1dIMTZvVVF3?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "f2faaf0d40f7",
+      "titulo": "Marinha Mercante: últimas horas de inscrição para concurso de oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2tlWVpUcnF0X1ZFeTAxUUpXYkM1LXNUMFh4YzZZcDBBMldKcnhnY0hvM3dhMnlzR00wWFNkSzdOWjkyVk9tSkphTm5FSzZPWmZTTk1BRHlhVkY3QWp3dnhUbkxVSnVqS0Jsb1JsRDloVDhtZGxVNV9KZzZPdmg4UXRNMjFRcU1BTW1HMG1MLVB4eEdPOGdmUTBOVDbSAaIBQVVfeXFMTkQ0d281elM3U0t0NTBfM29Ya1NsUTB1WXZoeGRsX3haZG5TT1VKR1RDYlhZZEJ0YVJBOUpiQ1YycU5TVldmZ1NBXzRHTkstVmxEOS1obnlEZ1Y1LUh5YmhrMmVJM0lqYXdpNTR6eTVvRmNobGJJbGFldGZ2RXpUUUJNSF9oUl9jNVNyOE16MjFTWmljd3lQN2l6RkJIRzRUNkFn?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4e024920a416",
+      "titulo": "Concurso da Marinha Mercante abre quase 300 vagas para oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbFlrTC11eFJWQ1ExR05KcUV3R0IzWGxNYnVzOVl3TXQ3bWdPWjJ1YVJkOWszU3l5ajFIZVJfS2VOdzd4MjAxdU1hSGhwTjJBMGxEYmJNN3lvSUNGN1ZEMUs2b2swd19JSkJmZnZkWXctX242RHdZZDlkdzNRWVJ6eDMzU2ZNVzdtbWhWeHdqQU9BMElaUFNOUdIBngFBVV95cUxOem1XT1lFQW11WklOU0Fzbml4VjJJRHNkZDZpWW9FYTh4S2R0VVRJNHBEc2V3SkE4Q3VMZG9xbU1KRGEtdjdoaERHTm9JNkc4QXhKS2MxVFVqLS1pbXBzVlRxaVY1VDlsLXU1Tnl2bFpEUWQ0eC1WQlhpVklGNUxreGJ6UlNSMTZOeDJCMFZCc203Qkt5OXl6OGlaUFBYdw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "2c7b9690cde8",
+      "titulo": "Concurso da Marinha Mercante abre inscrições para 293 vagas de oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaDBBWldRU18wWnRwT2pocXlsZ09BREJySlp4aGFnWW5PRVVaekFuY2JMcm90emZvbnBMSWpfcjdOQlh6MFROVWlRaTgyUndzUzdiSzFWOEthRmxreV9hUVBmYVkwYTJBLWR1U3dtdG5XMFBCSlc2XzhqRVkwQ3gtTHBzVEQ3WWhEenZTdnpuaEpzY0NFcW9CYUgzOFrSAaIBQVVfeXFMTWZYNkIyXzc1Y3FQMVdHZjc4Z3RaODl1OFMwX3lyVVU1ZUwwdm1JQ0pqaTBjcW9GT01PVVExN2JZdmpUY3p5bjdESU5ydlRQMUUwV2RONzdQbWNfaS1WX2ZmN0tZbklvNEVzemZuSHdIc3BTeEFOaGhJSldiamdINTR1dnRlMmxVLWZ5VFVuV3FUejd2S0Z6bjdJRk9zZVZjME13?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "54554827bf6d",
+      "titulo": "Marinha Mercante: veja prazo, taxa e como se inscrever no concurso para oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTHdTdWxxSnpHY1VJTFlaMjdSUzB3OHI5TFJTXzJFRHNodGNRY0Z0cW9HS0ZnRDNwVkxsV0dLZktaVllZeW5iemdBcElJQVpIT2hyS1FjeVBIbGlzX2pWTVMzdFVtaGJpdE1Ed3JESkdqUG1NRW5wUy01aUR3dVA2UU5FZnlVZ3pkZUdNU3lIaGZlQ3h1Tm5ZLXF4THZkbndPbTVTYXRUQmxpMlp2SkdJcUkyMTZWcDJEUDI5b2NWcmpEYUltNmRCbXp30gHPAUFVX3lxTFBqR1JYODFUcWhDRFBFMGNDSWZUNUJFLTE3UE41ekRua3djT2NkaXhvRjFsd0daLTZXSzJqVjZpWFlrNjNjZWJDaXJoMnRUdktnaGpGY0k2ajVZMGRGVmNYeWRuU2FFNDdIcHBxYzlndllQQUFCSGxjTXpqaW5uNkJaMEJURUZXUVJwNEVtWUFHYnVVOXB4c0xRUXJnOHl2NlM4Q0Zfc05qSWlMOFNfeXdoZ2NSd0pEVVhSbEo0bWJyOWU3UXo1cXlKTnNOZ09GOA?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "7e2daa3cfad4",
+      "titulo": "Processo Seletivo Marinha Mercante abre 30 vagas para curso de Aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenpYZG9LQUhMSXVfTDFORVlReFRRNDJrODhVUTJLZ3l6T3hQaExveGc0UjhQRnEwbloxUGdMMGdSa1VLNUVoQTBZNXlPZTlEYnB2dFhUUzVOd0FJaGVsMUhUelpNODc4NDlrQm5LbnZjMDdIUEdsejBpMk55UnZhRURRdkcyR1FFZHZhcDFRc3NDSjhVd0dzVEV4dmxfYVNDaFRVWFh5VUxiSTF4cy11dXI5TVl1NGNyUnRkRU9KN3oxVlRO0gHKAUFVX3lxTFA3c2RGbFNIcEZjTFlfMndIVWwwaWVnTmc5UDNrZEwweHpjTXc2WFRob0NnTERwWGh2akVyNGlNOVgxeVV0aUp6TWQyb2ZjZnZZa2lSYnktT2FQWUkyTVk5NjNvbjdJaVNzRmJEbnZWSTk1X3Y0ZFBoVG1RU0RlVy1KbWpGNkRoSTc2QWNIX1BPdVlZNVJ2U2dIbElzWnN6d09jZDZJdFV0ZW85S3JWSlFPQnV3dE10ZGs3MDNYdlZSTzZmN2xISnRUY0E?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "1c68672a80fb",
+      "titulo": "Processo Seletivo Marinha Mercante: inscrições abertas para 30 vagas de Aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlV4WkgxVE9fSm95YVNjWWUybFkwYlA3NHhiTnRaaEtrVDh2R2p6MHVWWFM3LWhhbWVnM0l3LVZ1XzFFOVRxczhLdXpPaWxKdmhSOVJVUTVMODQxanF1dS05LVpDYkFOSHprNThTZ3ZXVndaTUE0c1pVUmpMSGFBYk53UnNCbXl3ZlNKUWpQUHJPSk5JZjJtNXF3aTlPTjlBLU54cU56TXPSAa4BQVVfeXFMTVhabWJYb2MwZ00wZEt5SlpPVGY4LXhXRXRNTDJ0QUJabG05Z19jdGR1bm5zSWRMU3NNTzJ4ZDNTakNjSC1VQXhLeTdXbFQ3Wkx2WFc2dTdUU3EwLXphTjlZWV9pbzdBSWlYYjRjemlWTGpreXdMbTNtWEk2VVpVRUhqSkl0VDVkMGdoc2x4bnhJYmlVQXFNOTJzQnNsY0lmRTNoT3I4d2ZxTzZzN0l3?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "94b749ea748b",
+      "titulo": "Marinha Mercante abre concurso com quase 300 vagas para oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdG8yaWp6WlN1MGVGcjUwa1ZKY1djWUdoMHBsc21PM0RQRkFlM2hfMHNwSnQxak9zUGxZd3RWckx0RDdBQU9kOXdKWG90ajVlcFpOOTJVUHV1amNNN21jc3RRczZQUGpyaDlqMU5KZ0RBRkU4Z05weWtyYUtjdTRWUWluV21ITXJ5VUJHeG5JN2E4VkhndXN6YtIBngFBVV95cUxQNHNuUTNzcXhSTzdIUWZtc3M4V2JnMXVNcENxemlUMlo0VkhtLVdCQlE2QWNYdWE2a1RHWUtYV1lUQno1TkkxYUZFMzRlb2ZoNjhlS0prY3RkQnc2NHcxcW9pMEJzaEdnXy1OYWJMUzFfYmJ4cGRaanIzM1c1aXQ4VkFnUWZOa1M1U3lOSm9jdXNPS1dGaDVQMkNncXpmdw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "005f83a34b07",
+      "titulo": "Concurso da Marinha Mercante: publicado edital com quase 400 vagas para oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbldvakpGb2RYSm9SR25aYUgwMllrRnl1bmEzSFF0R0lla2gxdGJBTmdDeVYzSDRrUEpIU2lSNGdoMWR1YndGcEZWVE12a21fS2c0ejBTU2xhcEVxaG01LXBGckpfTlFyUjREZnVFaHNQZUpGSV8xbXBSampXREhNWHlpdFo0NW44a19vaVdFS1B3bDlaQ3Fqa2RYeWpVTW9P0gGmAUFVX3lxTE56b1czRm11LXBLN21UelRaZU45YmlLV285ODk2MUY2R2RiYVN4Mjl0QUpqejJFZWUtT01VYWxrWTdVYV84TDR0MEwwNEt4ajlXeXR3UUN4VTJzWE9jaWtDdVROdlZJME5yYnA1b2F3bk5sX3hueXJpWkllSTNFN3pWdFhxOWIwQXREeXNmSEZ6cW9ZbGZuWVgzNFh6aHg1ajFtdnMwWGc?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "25f4405aa0a0",
+      "titulo": "Concurso da Marinha Mercante tem número de vagas ampliado para 388 - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3h0Sno3LTAxMU1ZeWREOTRNSXNiLXFPam1hRU94dHNwVGZxQ3JlREdoZHVZZ1JSeEE5dEM1TzBaUVM2SkVCNzJqZVZRVDJkQWdoSTQzVW5ncDFOVHozNDMySVE4amE0c2pBZXpGLVNubnJ6OHIwM25aa09fTWZrNjlWcVVNR1JJallpNjVBN29rUXlTRGVmYU1NMzIwbjBnMnZkU2d30gGrAUFVX3lxTE8yQ1hveU5UZXoyQ3JqREZ4Q3BCUGxpVER0QlVxNmxwYk53dlhPS0hkSDl5X3VreW05UzBsRXdKbVhVS0NHT3VfQlhTaWdkLVdtYnpUaGppVVBnY2Z5ZVVmNkpDaUx3RDRraDQ0TDF4VEg5T0t2Zm1pcWs3WEJBaEZ5aVM3dzZLQzVmZkVsdDRvSHJPYUVZd2ZLRFdRVk1mbUtQUnJldzR3NEN3cw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4f8d3a37970a",
+      "titulo": "Concurso da Marinha Mercante: últimas horas de inscrição para quase 400 vagas - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb05jWWFZa19CZ0ZBVHhLMWZ6cm1MeTZRcndELUJuY1lCemxKSHhRZXNvM3l0RHlieVJUYTBxdFVCbloxSktBUU9Yb3c1WGFkZU9OZ3RmWDFGQ0g5c0xndzNiN3Aydi1qTDNWLVZUNEtaOE93dUJuMVN2d3ZkUkh5c1VNT2I4QmpvX0xNN05uQ2UybGFSRS1KRkp4MWt4QnFoaVpMZdIBqgFBVV95cUxQQ2ZIcnpWbXAwdnBDZmFrcWFvNnVjOHV5cVF1dWV6WXRYUWZmeGV0SHFOdzdKa1liZVRhSXlSNGhqd1k3T3NsanJVREUyRFA1YWMzeHM0VUQzb1hNRXROTGhGRzVlX0h0ZnlBRmdYOHhNZ3p1Z1lqV1JNMnBaWHY2bFBDNERRSzJPbHg2TjBzenZhM1VZS1BLV2ZLLUIxWFFpQkRVdERlZUZ0dw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "bcd368b9a34b",
+      "titulo": "Concurso da Marinha Mercante abre inscrições para quase 400 vagas de oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTRJM2E0emZPUDFCNm0zSnZUOVZtN0dzTWZUS05jaTdTR0o1RHVjVFJqc0N2aHc1ZVV6dnNieGlhTlJKcEpCamp5X0FMTTY1WWZGNkNRVk5pRnBZYUxmelV5NjBMZl96Z2U2b2lyY1p1aGxaOXhtN1BvQlFkRjd3NnpBcGRWVUlaeFliOVhKeVdqWDFBTnpISjJyNEF6Sks2b01PedIBqgFBVV95cUxQOEVDd25TMnlaTldXU25Fd0o4VUVOeWV5Y0I1Z3R1bElJR2s5d3ZpTUw4Q2dtNW8wNDNBb3J1TzF2bDFCeU5tXy1UU0FpRmExUGNZb0VHNVhWNXVzR0c1bUlQY1Z5Qi1xUHZJVGJJNldTMlk3b2Q4Mi1oWWtuZlI2SWRHRDE5dUs0clFHbENMZFdfaWVDazh3VTAyMEZWQ2JHa2l6dlVhOU5fdw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "f1c81f378869",
+      "titulo": "Processo seletivo da Marinha Mercante abre inscrições para 120 vagas - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1AwY3VmeW82bFgwTkJfdWdRNFVFNkFpYndLcjBISUg1N2NjWmhyOUJEdW9nWk96V1kxZDRkUXZmNExkQ1V6VWZvTHA4R1Z6YXVReFRzRzVKWEh4NHNmS1hKTVpxZnJNQmtXNm5KRlI3cGh0SzNDcGlRUmFuQnBxOFUwTU1pUE5KWWxfY3BWMHhyVlc5Z3Y4ME02TzM3eUMwNXk5U2VaSE3SAa4BQVVfeXFMUGV1RXRVU1FvWjNHVjZTcWZGZV9KUVpUWUJBaHA5aHE3RkRQUXAwWVR1cWhGZjk1MmlHT2FTTmRudm1PeTJTOVVyLWVVeHpRS1Q2Y3ByTVdlQTJSZE1uckhDTXJ0OWwwMlZrM19UTm9hQTVvbVpzWUFPZVRKUEkwTURkdzg0anNvMjF6QzBuNDd0elpFNUNzOVZYX1lNSy1DdzdUeTVhbVJ0WkJScUNB?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "b01c646dcce2",
+      "titulo": "Processo seletivo da Marinha Mercante: publicado edital com 120 vagas - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3ZwdEp1cmF5VTJyb3gwd1U3cmw0VUVXN3V3di1yUlFfcXptdkJQZ0VHV2QxclJXdllISXMtNHQ0WGd4VGtZSlFXOGZld090dHo5VWJBbG9wZnJIR2JjNS0yeXcyMnNRVkVGWHBnRzVRU0lURXNQUWZmOVFZUmlSZDdINmEwX2JROHJ1R1ZxcWFULWU0WGVKdGllUHpjQ3lGQzcyRHg5SURmUdIBrwFBVV95cUxONE5PYWkydWlneG9UaFVrLUpUbm9iRms4WTRBSmdOZ2VFRzRKOWtVUERFMm5YNDhJTm1fMXFTdjVkYjJLaVBYSndMU25YVFd5UkJqeEk4U0VleVpPSjZiLU9zb3EzQ0VqazhQUl9maTNaWUY5THhvZ3RyWUZQUGxsODd6RWhpUTJaaktCcmpZMmNPRE0xeHdUOUVycGV2Q1p2SVdRdHpaWXdOWVRWSEdB?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "907a52e16243",
+      "titulo": "Processo seletivo da Marinha Mercante: última chance para 118 vagas de aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT29VQ0Npa1VaRGExaUN5QnZjZzZ5WWNsRF83bmtjZm44TlVXYjktOEplUk8zNGRkNnZCMkZCeGoyeVRPZnU2NndXTEFWVnF6cnBRWWhUcmo2ZjJlNXN4bTJSeGZLRXI3Vy1ObGZQWEdFOXR5ZmRibV9BOWE1Zjg2NXk0cUZXNUFfT3ZNVHhxTjZCU3pCSzFzMG5GbVp0akVMYTNsSlpFaVk2WUJnUmxXb9IBtgFBVV95cUxOc2MzQzQxN3NLUkZSNUpYLURfNVRGSksyM2J5a2g3bGhHQVUzcDNMWlVha2UwSnJVejZUSTc0OVMtcmNaLTZsaEVuSEJyWnM0QXl4UGt2b2ZBZF9hMG82cnJmbTVHREpyc25CQ0RucTkzd0R6MDd0SVE0XzcyWlhJRVdGR2l4NEJ3VWE5VE5fQ1NaQmFFLVpOR2pmbmlEWTlORzl0Z1pBa1RsMlgyR1BNNVVfMjdkQQ?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "e02e7700916c",
+      "titulo": "Processo seletivo da Marinha Mercante: edital abre 118 vagas para aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU2tpbGU2VjBnSzFPd3E4ckx0V3dwNzJVUDFhLW1oSWhOUEd2Y0JMcHF0NUVYZ0lkNElydkNnUUFYWXpJYnI5Z2Y2djNwaVhRUjVtNjIxLWVGRkVuX3pvOVVNRF9ZeUNJQWUtbV9PVmZSYUNkUGVwSGc4RXVIdnUtXzVOSEV4d0xQSGhkaU1VSGFDSEwyVlhOT1o5bXd1eUJwWXdQZ1VHQUY0LTl6U0ZrSFlFNNIBuAFBVV95cUxQSW1lMzd3RkR2bGNlLW5RaWk0dGpzMllHdjRRLVlOeENGaFRoY2swMzZhV2pFaUtSX2NHX3RieGIyNmpLSV81dTVSRjNNYkxwRG82OFJHY0hMYUdYYkpkUlJjeDFZWTc5QzdtaC1rM1hKeFk0cmpSa1BUSzhycmR5RnFHclF5Rl9TUnh6Qm9OUWdvNHhSQ093SGhZZm9Kd2NrUWFEc2hFNTNhLXlGYVF1eUxDck10Nk5X?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "de4514e2e10b",
+      "titulo": "Processo seletivo da Marinha Mercante abre inscrições para 118 vagas de aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0M2MlpxYU9XVFhUVE5FMERqWnQzTGhFa05VNFBhSlZvVzNmNmxvT1RicVdVcUQzeWhoTVhmdGxWMEVIU016LV9Kcl9OSDgwNzE3WG1rV0tDd3kwZkhrVFdrUHRiR2ZrbFZnVVVrdDRGQ1RwSy1hYlZxRTdfZjNiaHNHR0V2VXktYll3T3FmSjdTOU9XNGI3RXFxRHZRLVIwR3o4SmV0b2w2RktaMEVnaldzRk5wX2VodjB3WHJzZ9IBxAFBVV95cUxPdldPRjJieDZpZHZLT2ZVNWlNUm1sLWd2eU1ieFVvLW5TUnRiaTU2U1IzcUs3OWhPY0s3OEhYN3RvQXRnMFl6U3NiSGN0MVNRb05Xdk1IY1g2YVNfUHItbVJWNnV5SGIwWWFuaTYzX3ZYMHZyZmM4SndPa2FwSzdNS2VxQkQtdll5LVpfQTRGS1BXZG13X2Vob3UwYXpPVkowWDdVekcwTUM5eVppbVdzeS1iUDA1dlFhME52bExGREdJRDJC?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "499c540c3e50",
+      "titulo": "Concurso da Marinha Mercante: novo edital abre 368 vagas para oficiais - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUxCdGNzYkVZRHc4VVoxZ2tSODl0eUQ1eFdFTkxTRGM1aXBQa1RTRlpVemx3LVhYbG9McHBTVVc0eE5PWUtJUmxYQkE3cDJGMlM4YnEwa0RLQ3ViS1RxbnRrS190MHV6M2k0TlNNdWwxeDFmWkJsUXZqdUlpMHZVaHk1RGx4ZUdoRFY0M0h6cFFONnRHeVdYdmJVU0YxSmw50gGmAUFVX3lxTE1NMjdPUFlRQU5JdktmX3A5ZG5rd1JqVUxEWjlfMDMyS2doR2JvU2lxVG9HWjhwVi1YbEJtZjNjS2J1LUx3VGgzYUY1VnZUQTNzQldaMXBlbkFwSGc0SXVETUk2aGN1bjdsR0Q1a2Z2UXVuazh0eVNYOGpOaFFVLUxzdlRtTTZSTEViWjMxbHU2Wm1hYkNXV3lKREZtN3ZLaEdCUU9aMVE?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "4243121b1083",
+      "titulo": "Concurso da Marinha Mercante: últimas horas de inscrição para 368 vagas - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUWlzdnF5ZWxiRVpTWmpGRElVS3NqWHRnZlNGekpabGt3Yk5ad1g3dzJKN3FhRW9HVGtRd3ZSbmd5cUhwRTZsWUlSUEJONWMxbWNVYkViaDJkdm1LYTlhRzZVeFlhY0RZMWoxNGdKMEo0Z19JaHZRWmdma2RBenFSbnd3Nmx2WDMtZzdjOWZDYmEzNnE2dmJ6SWFySHEyS3hIVG1heW9rMDZCRTd5eTM3cXp0UlVjTmt2UTlJ0gHAAUFVX3lxTE81N0tzTW81cG9kb3gtZy1BcVJVaTBHTHFHTl9FdzVPNUNNbE84NFlYX1J1TjBqa25FWVFDX0ppcVBrOWwzU0hkRE1MendTb08yNTZWdm1LVlUtemxKZmlKVEJremZnWU9ZX011WGxIdjVMb1hzNVpKRkxqUXFxMWQtUktKV0NjbW4tRGFIY0NKTC1EZTdNSUVnTkdhRkhpT2pTVGR2ZGxGZk1ucUVHU2FTUGdSMGRBX253aVktUXRIcg?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "71434607fbd5",
+      "titulo": "Marinha Mercante abre processo seletivo com 60 vagas para curso de aquaviários - jcconcursos.com.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2hFdV9Lb0RGVVJFSmxETk4xZzZ1T0ZhR0lKRDBVajctNHRLd3QybV9xbnVpNDJYaGJNcWFTQUdtRU1XX3NFNDBzNXlQYktmMkRqOWh4bzNKYkZOSWtSbS05dHBLZjRTY2R5S0ZGYVpzNVRZVlNqbnhWckhwd0Y2bVZMVi1NNEQtNVNra1hwOU9hV2FmaXNyZ0l2VGhXLWJzYzR5Tm4ycU9TeTYybnJzY0NDbXlNNHBJ0gG-AUFVX3lxTE1QaGtDbm9GNnA3YmZnRjJ2U3NMdDZEN0ZNc0xNMHZDbjFTWTIyQTVZejQ2dnRCMlBlTmhFb0doRFRIUkpIdnJGUjhCVklGdHR3MzJwNVBMWTVlRWZKSkZoZXROV25FUGFna2FxOVpSY1JiZVdiaW96UUYzcnFYRjk0NFdzOXcxX043MzJ2VXBuVHlVUGlJM1ZjQzFoY194MWpVRy1xa2g0eG1xVUlyeTBobHdNbU5WRG5ZRVVKOWc?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    }
+  ]
 }
