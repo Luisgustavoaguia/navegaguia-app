@@ -1,75 +1,30 @@
 {
-  "updated_at": "2026-09-15T08:00:17.844067",
+  "updated_at": "2026-09-16T08:00:17.640852",
   "stats": {
-    "total_vagas": 6,
-    "vagas_hoje": 6
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "1c0c1b4e48e8",
-      "titulo": "Marinha Mercante abre seleção no CIAGA para Aquaviários em 2019 - Ache Concursos",
+      "id": "252e62781187",
+      "titulo": "Concurso EFOMM: Marinha Mercante abre 263 vagas para Oficiais em 2021 - Ache Concursos",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdC13U1hNWmZPREwzbWlwY0JWUW1oVUV3b1JfSHkwN3cydEZ1Q094S2JLYmJIaFhyQ2c1dGF4UmFfblhpU2h4TXpZdXdZUVZtME44SkR3RUxJcnd1Ty1zTXRPN0dVdHpYTUtJUTNhZDl3M0hqZTFuNXA3NDE4Q19hOEFhb0JSeTBHdjg1X2RBT2JuV2JDTjdJRXlUSXRHby15VW43REZhdDFyUjNKQVl3UXlsbmF3MEV2U2hkS3V30gHDAUFVX3lxTFBOUG9tV1hOb2M3UHQtR2k5RUFKYXJZMlRqU0JSQmowaVotd2RUN0dPOXYxalZqU0ZHeDJpZk5wSU00YUtfT3B3T0VoUmZKVlZYdFBnam1rYmtxLURsRV9abmpVTzZCaG4wSmI2WWpWNmM2R0tLWUZUOGotMUpEaFNBNEp0bWVHeTh0dDBTTUM5YklYRFNNT1MweHBUQW1EOGM1aXNVaERmdFMxRWVORHhDOVl5SUxFdGRVSHlRdHpKa3d4cw?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    },
-    {
-      "id": "486fa10780a5",
-      "titulo": "Marinha Mercante abre 60 vagas no curso de Aquaviários em Manaus-AM - Ache Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRTNXODRwOTNvamk4Q1FDNWFTaWZaMnpQVkdLSjdWQkl6dzZFRmNzSWZxQmxQdUhMeVpuUUdfWWk3eTdZZDJsZlYwQ3ZjVUlOdnpnaWh0a3pWa0dyNlZCcG5Lb3hHTFpMaXB1NU5sMU92WmtuQzVhZkRJR2xOVkd2RkNxNndLcnRaekF2b1dwY1l1Q0M4cWx0UGFPOUxhY3JlSzJFTzEyRDJsMEVRX2ROT20xa0VRZDg2QjI2NGRQUlREQdIBxwFBVV95cUxQTzZvWmc2MzljYXZ3amowUUdYVTZOMndVaHQ4X003ODg2R0VLSFdfWTFTRVBBQnRVMGZjX2FyZEJKZnI4UTQxLTNxMzFtcFNuRG5pekNKZC04d1VKeHQyVTdnb1djSWtHTGVheE1UbVpyZlg0UjZNT29CRUlrdGt6cHRodUJKXzVvcXg3Xy02YzVwVWNmMFBfY2xCbkdSck9VUDY0THo3d0k0THlDemkxeDBIQ3MxVU54NU95M3kyTnRpc1JJZlFn?oc=5",
-      "keywords": [
-        "aquaviário"
-      ]
-    },
-    {
-      "id": "3db770b791af",
-      "titulo": "Concurso Marinha Mercante 2022: EFOMM abre 263 vagas para Oficiais - Ache Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWVFNUIyTUhyX3pFaHBONlpMLVVqWlNaVVJScm42NWFZRDBTcUI2eTUxLTFISmhrMXlrMWlJejc5LWF2LWFiYk5ZRXZNV2tQUWJ4LThRdnFSSEtDdkpUQnVKRG9td3g2RDBfcnBYb2pwbEZsUXU5bEJjazJJRDdqYTVZVkI4VzVjRm4wTVEwMFRMTnN5dmlnaNIBngFBVV95cUxNSU1ZZVBTVDQ3MnB5M19kaDlEeEMyLXEwVk9iSUJxbmVVNG9leGZ2T1V5c0JQWm10Smx2ZWU4S2xLNVctZW5saE84Ul9QZWQ5M1dvUk10bmUtLUdIYUNxb01McFN5MVZqNXdDd2I2ZzVwQWllLUhSVzlpUzQzX0VpRjd3V3FsVy12WVFSQWxVaGZGUk0xLTlNVThaMngydw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmdYYWZ6WV9ZU09Xc0pGcjhWQ2owenRGUVJrV25XWi1BZ2N4MUNVQkpfUHVwRkN6SXlQdDNJTGJLUnQzU0NSUTN6SW9Nbzh0Yko1WFZsLVUtWHIxaWVqN2Z4MUctcXZZQjBmamdvWkxDejFGNlRKTWxraENRUHhMU3dkTFFQY19PUkVpZFNzVzNWcW9BQndVOdIBngFBVV95cUxQTFBTbGJDenNQNmNIUDVhU21LNDVGTXJSeVJ0OGdHd0NoTkRwZXhPZXVRNmVKeHQwRHgxbDRMckdkdGdYRkhCNFliMGxIczdfcFBRSHFDVktnUmRQNHJiRjZvRGo5MGQ1eTZ1NGRqSVp1NmpNSzdJY0g4MmhZTkJyeV9DMFVWZjY3WnlKSUJqUFVQX3RYbXhNdUt0d3VPUQ?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "f257528d1845",
-      "titulo": "Resultado Marinha Mercante 2026: classificação na EFOMM sai nesta sexta (11) - Ache Concursos",
+      "id": "12c735ff85d2",
+      "titulo": "Salário de até R$ 15 mil e trabalho embarcado: quanto ganham funcionários da Petrobras e da Transpetro - A Revista",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTZzc3c3cHVaazMzWVF2RWlBa0p1LW90MU5zbXNFY2ZydnU5LXdyMzFzTXJDQWkxYTRRRmg2RUx0bXZGREVEdW1Ga0NTbzlkc21QT1pZb1VkVEJJNXRUYWxiNV9lR0ZVLUdDY2ZmZmJGMWdfbDZBM1lScVgwZ0k2Xzh2ZWlSQUxQc3p3TEcyZ0xXUTR5TFBwcnEta0MxTThlTDFPN2VvWjdFcUloa3JXR2tVUU9VeDFEMmZqaDd30gHDAUFVX3lxTE9KN2pKLVpZVVRqZmtYaTFLQlJqbzR2dFRadERsVlgzV2s0Sk0wX1hKMTVySDBsaHNsZXNOQnFVWTRlM3BZZlY5ZFFVV1M3NTlRd0NyWnFkNXJnVG1tUFpqOG1PaGRmd2xpUkFtQTladjdpWHZseFNqWGJIUUZYaDd1M1FpNGQwcDQ4d1RHWng1a0NyRzJSaVpNcWtlcXFicHZGQlE0VXhOTUhnVEpEMTM0QW5IeVRYS0pjSld3V1U2RzJQSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQYldkcXB4UUVRYk9BdDdlblQyQnBBMlM4X19sZHFNdFhFTTJWS3JzQ1dqd1BLOURxVGtwZVU3VFVQbGJNNXNnckgyTkJaNVR2eWhzRHFfQ19yNXNkQVBzS09ESFVfMFBucVd5ZXhSSUJwSDJWNUNOVjJ2TWZnOUdkUzlKeWtoYVdIMzdLVkx4TW1LVTIweGVVc2NjRWNfU1dzQktKWWVWLXN5cS1POUxfeFI1WWJqRzFMN3RxcC1BQU82UzRxb2gxWmpaaGplaDJpbml3dXY5X2dFVWcxRGlKQUl0ZWY1OTV4d3dPWnBfMmE?oc=5",
       "keywords": [
         "embarcado"
-      ]
-    },
-    {
-      "id": "721011c58d47",
-      "titulo": "Concurso Marinha Mercante adia provas da 1ª fase; veja novas datas - jcconcursos.com.br",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb2NXdkw2MkhrTy1XbUQzdzNlX3hvTzZKb3hqNUUwSGt3RzNYcHdqLWFaakI3em0wczJaeExvZUZiVEU3ZzdMQ21mUVlabEpoamF4N01tNU1jOTZzZGVSdWtESnJNZ1J4RFh6Y3ZYVW5iZVo4VEdyMWZPQ2NlcTZOVklobFBMc1Q1Wjhn0gGQAUFVX3lxTE9FUDRiVXc5bWxMLVdlV3JCa2NkQ0FrM1VpVDlER0ZRdXZqRzBuck1wc1BVTGpBdXhjZkh5RVpsSDc2MXdGM0xZZFk0YW9VZlBFWEhReEZxUVRKTWJ2V0hqanRTOUowWS1sN0VWc1VHS19hemNKdUpXZ2c4WTlaVl9DdmVvS1hZNXdCS3YwUE1JUQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "755019dfe586",
-      "titulo": "Constellation abre vaga offshore para Enfermeiro em escala 14x14 no RJ - CPG Click Petróleo e Gás",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUmhOQ0o5ME8weVpfQWEzNXhKc2FyVGNsNGRzTFZXQkhsSE9IN2FJQ21EdUQzQ1ZfeWtRTnRoZXgxMzdNOTl6b3JqaUFXTWtQV1U4M1NZWGVhSERkZVVYS2RNNy1RSjByT2lWT3NQUVpFSVJSeW1oMGdKaXh6QUVzOTZsVWJMQmhoLU5jLWFaRnFVOVNTZjZzcU41am5ib3Z3elBxZTdXMUZqX0RqOHhSYg?oc=5",
-      "keywords": [
-        "enfermeiro offshore",
-        "offshore"
       ]
     }
   ]
