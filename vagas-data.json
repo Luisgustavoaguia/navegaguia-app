@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-09-17T09:42:27.488970",
+  "updated_at": "2026-09-18T08:00:15.366203",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "492b73bfbae8",
-      "titulo": "Concurso Marinha Mercante: Edital publicado com 368 vagas! - novaconcursos.com.br",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zWmFqLXFEa2RieUZ0OWRaVmNOdFAyTXFjQWZxWDBUWjkyV3RRX2h6V3lnOGRQOGVKdVJaYzZkaWlEZG1FZkxNWUhpQjJJcmN6T1d1YjBtSnd0YU9yRTVLRzVKVkMtaWVCSFB0MXNHNkVsYS15MEsyTVQ5N2Zsdw?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    }
-  ]
+  "vagas": []
 }
