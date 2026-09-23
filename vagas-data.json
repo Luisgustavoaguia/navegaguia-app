@@ -1,50 +1,50 @@
 {
-  "updated_at": "2026-09-22T08:00:19.727392",
+  "updated_at": "2026-09-23T08:00:17.467514",
   "stats": {
     "total_vagas": 4,
     "vagas_hoje": 4
   },
   "vagas": [
     {
-      "id": "cadabd32b68f",
-      "titulo": "Concurso da Marinha Mercante abre 374 vagas com formação gratuita e salário de R$1.644,92 durante o curso - sociedademil",
+      "id": "098a3c5cf6f2",
+      "titulo": "Oceânica Engenharia abre processo seletivo URGENTE com muitas vagas offshore para quem sonha em trabalhar em alto mar! -",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRS1LemJlWGwwLTdHTGdEcEJ1aVNaZnpfZFBuQjJ1T0FneGRUUWdKQS1VTU4zWkdlbjNYSXdFYU5HWmtpZ0RPaEJiZG16RkN1aHVvcnFhbFZNNzR0S0F1dlpkUlZSSmxSMl90YWJpRjVqTmczVkRoMkdtOEJURlVvRzNaU2h0YVZKU2xFOU96RW1iTmlpVDU5QjB0MkthVjZiR0tlNE81aHVfMVE2VHJnZmlqQ1Y5NW9tZkI4bjdlVnlVeDBDcUlJLTh2Qm5GS2tQZGVPYjlWUDhja3l6eEg3cXpqWFhYX0pYVHpUeVFB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPXzVhU05qLXVnTThWRjJDYlRQOGdXMjNLVk9BREUtSFptTFcyQlV6R3FHWDktV0VJYllfY183cEtkUG84R1ZxbmVmbkRsT3pFeEhtNW1ackt2WnMtaUtqQUIwRjA3eUpRU0l6V2hiLUdJWmVJSkdiU1AyUldwZHpqdzQwNG9SUzRlb0ZSdkpqS0JMa0hWbVJZelNBNWFLczViTWlxekdDNTI3NndFOWpJXzVsQkNWbV9qTTNSNlFkMGNIZVlSdl9uRnd3SkpxbU80Q0pnRmNwMmZORUNpcEE?oc=5",
       "keywords": [
-        "embarcado"
+        "offshore"
       ]
     },
     {
-      "id": "b16e423968af",
-      "titulo": "Marinha abre mais de 300 vagas de nível médio para Oficiais da Marinha Mercante! Saiba como participar - sociedademilita",
+      "id": "5045a6a31b0f",
+      "titulo": "Uniflex Group abre vagas offshore para candidatos com e sem experiência em Macaé-RJ - petrosolgas.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOWZrOF9yLXFMaTdGQm9EV0N2UFdtT3psOGtLNkZBY09uMU42Z2d5M3lTakFxc1gzenpPRGlvaGZzWVYtY01yN2lxOFV5U3dpZmU1MlpZVm9MMmR2d3VNazVCZnZvLXg4SlF1aTNiQVNHXzcwMlFYMDVPUTFJd2dKWk8xY0tIXzZtdnQwODZTSHc2ZTdnb0xoV0Q1QURnTzR2NHhuZ21PeUNPekxBRThkOGQwaThyRkU5UnhFaGtfbU9vS3hDZHJBMXZ6d3Z2aFJsSE9naWYyWWc4TDQ0TXU4TFliaGpCeEJKLUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1pPZHVKc1hYR2dmNDB6Slh3b2FHOTEwc3pIMGxaakd4Zkx3MHhMWmU2V1JmT2Z2VlIxVVlqRHhLUU8zN2lEd3JKUHlXVjdKMXhqd3E4UDZpd0ZvSWtuYkFUTkNkOFRiTVZ6ZzRieWFkeFdNWnQ0ejJkd21VV25Md3M4WWNwS0o1c1M3bF9KS1Z6SXI4aXBCM01ZZVMwbGtPS2RnOFFpUDIxTnFiUTdhTg?oc=5",
       "keywords": [
-        "embarcado"
+        "offshore"
       ]
     },
     {
-      "id": "849e132b546a",
-      "titulo": "Marinha Mercante abre 368 vagas para Oficiais em 2027: inscrições do PS EFOMM começam em 21 de maio com taxa de R$ 110 e",
+      "id": "aafd2d05c9ba",
+      "titulo": "Oceânica Engenharia está com mais de 45 vagas de emprego on e offshore abertas para o RJ - petrosolgas.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNelZUdmRXZHpyZGxGOVAzcnl4d1VaMHpUakUtZmNkclNsX1B5bTY4eXlEYWxBbTZWeG9WZ21tYUF2MGgtTjNEazFiaHFDbm1zSVQxaldnd3N5MkYzMDR0aklxVDRnTXRKa0VLdm83d0NOdnhMZ0g0QWstUjYwbUwtTnlXUWdZaUtwWXVaOHVuZnZBY1lLYWhya3pqUWI0bzFvWmxlejFQU0RLNjVzRnlPS0lfQ0dhdmlRNTFSd0xLSVBTbGwxblZBOGE4cVh6WXc3a1VmQ255dG5XdVlXdkxsYTdlWkhpSnQ0WGJGRDJoMmZoWGtfTkgteHRwSUo3TjlUM3VsNWVaemRaWU91Y1RrYThDZkZXWnJa?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWl84VkhmR0pfamZIV2Jka0hJRkdkX3hhY3VHNnQ1ZkRFT0RzRmYyS0RJM2MxZDA1LXJBTmtBR2hTV19hYk4zM3dQdEZWMEFaZUpKOWVTS3dVNXNEZGtQeUFkMFVDaExjb3hMQ2VSeDZVQ1pGQ2huUnk0dWZ1aDVNei1yZldkOUVkSVNjVDFWamh6Q0RLOWVOUTdMeDhxWHB3ODVwSmZWdDRBYTJuZWxiNHNxTmF5NVU?oc=5",
       "keywords": [
-        "embarcado"
+        "offshore"
       ]
     },
     {
-      "id": "697d7d3c170f",
-      "titulo": "Quer trabalhar embarcado? Veja vagas da Transpetro e entenda as profissões a bordo - Folha Vitória",
+      "id": "304415857ca7",
+      "titulo": "Altera&Ocyan abre 30 vagas para trabalho embarcado e em terra - tnpetroleo.com.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZnNyOHB4WHBUd0I4cGxYUUxtUFdLbTNxRnpIVkk0RENJNG8taWZ6XzRhcWRtRXFKVE5CZmNBTE9IZ0pFZlFwYnY3RDU5QjdxamF5aHBOa2dicDcwT2tleGtFRXc5ajg3VmcxQTB6MFdKTk5PTEZyM1pwclhYS3JHRVdoQ3VXdkdMZV84OWlHcnZWR1BONHpwem9NV05hRWRNSXFEZkxKemszMjdnWjZXVWcwRXlHVGhJQmRFV2xvY0M5cjF5REFpSHZOX2pOUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdFhmb2FGcWRpUUxQTzdIUGRwR0llSDNUUzZGZXZkTzN0NUk4b2plRmhqTERCZFRTSDUxSU52NTBTX3BxdWZVRFdjTllqRzQwQ1V0a0l6bGExaHhyNmd4QjVKTmpDWTNPcTFHX0hHV1h1YXJSdUVCNno4X1N5V05aM1RBLXRTSm40QURFSkhwQl9PZEMxTzdWeWp4eWlTZw?oc=5",
       "keywords": [
         "embarcado"
       ]
