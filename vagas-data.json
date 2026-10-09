@@ -1,19 +1,76 @@
 {
-  "updated_at": "2026-09-25T08:00:29.951878",
+  "updated_at": "2026-10-09T08:00:24.846694",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 6,
+    "vagas_hoje": 6
   },
   "vagas": [
     {
-      "id": "280d44c9cb2e",
-      "titulo": "CAMORIM ANUNCIA A ABERTURA DE 28 NOVAS VAGAS DE TRABALHO PARA O SETOR OFFSHORE - petronoticias.com.br",
+      "id": "6c9bb7d7d77f",
+      "titulo": "Marinha abre inscrições para curso gratuito de Moço de Convés com 30 vagas em São Francisco do Sul - Jornal do Comércio",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZENBa2xqMEljZmtGZTdLSUFfa2VMMFpWYWl4djRxRlQ2bTgzR29kQzRJSmo3LU9jNFNUdmZkRHE0SWxNRGFiUFVxTEVicG5uX2xfNTlZM0xRNWdoc3Rud25HNDE2Q2tvNm5YVzJvME1hWm9sNHZVTU15VTd2c0NTNHhpZVpaNmVJdTJlQk5MS0hPdVlDRmtrT1k1RE1SOGkwTFh4cw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWpmTFVNdk5HSXJweXUzalR0YzkzOUpCc2FOZmlBYVpBS3k3RGZtTkdOcmVNYW81MXdIcUg2UXh4SXBhQ2xhNTE2TUhHX2Y0eThtelJNQkNIYnR6eWMtT1JERExrdGJTTmVLYTVKTUpRM0hRa09BUm9iSnR1UUhiZ01iMUJpd2JjZDlURUNhLXdPMm9QU1NheUFfT0lvVExNZExGWmZXWGJTdlhKcU5NSHhpMEw5MzJ2SDRRSlhZZi1qcHZpeXVZVUpKcjNrcE0?oc=5",
+      "keywords": [
+        "moço de convés"
+      ]
+    },
+    {
+      "id": "e6a002b3cb51",
+      "titulo": "Vagas offshore para brasileiros com passaporte para trabalhar no exterior na função de Enfermeiro Marítimo - CPG Click P",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTi1pUEs4aGZGbVZtc25pcTd3R01fajdXNHItRFhlSU5pZDFHbjNuczJxNnVsWmZiMFRSbFdkblNaMHlXOGhIdlg2LWwxVkFjbmhBUFdLQkJwUHlrOEhZRnBkMHBNVF9CdnhWaGZFWi1sckg3YTh6NGxQNU92NWhsY3lSOUZOcUxEdkc1aW9jLXJnaVJFMGZRNmNhd21lTlhDeVJ1Mkp4bnpNSWlrNWdpdTd5dl85S096UkFycWRLdU1QRThROWhMZ1Fzczk3SkRQTXBKd3o4WQ?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
+      ]
+    },
+    {
+      "id": "c9088740fdf0",
+      "titulo": "Enfermagem Offshore é tema do 19º episódio do podcast Papo de Enfermagem - Conselho Regional de Enfermagem do Espírito S",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBqVkVhQXZvcWdiV0Jrd2dtc0h1ZnRkNmlnQVhkajBkbjZIRUZYUVRBNWo5YV9kajNEdmp0SjlDVlIyVU1xdmxQMkhFeG5nQzgtaXhjVWY3a1RTVzh6WnlLVjNBYnkzbjNBMHlhaDN4ckhEY0Z0d1l2ai1GVEEyNDhpVjBkRmpyVnVsaVVvSTNCRUJrc25aempnNzVwTDFGbUFR?oc=5",
       "keywords": [
         "offshore"
+      ]
+    },
+    {
+      "id": "848a2f90f3fa",
+      "titulo": "Bram Offshore abre vaga de emprego para Enfermeiro Marítimo para atuação offshore no Rio de Janeiro, com salário a combi",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOczNtTFJJQXd3LThyZVRYQzlBZ0pVN2pRczNMc3hZYlVIMzIzdTk3NXcyNEV4NUs2QWdMWGM5b051aXFCS1FITklfZFNrUVlrOVpPanRfWTBvVzB1VXRBX2F3blNhTjRtY2xhc2lpdU1SbVhTMm9zLXEyUExsa2c5RGhZZ0ViS3VYOVZuTFZkZ2tybXVuX2hvTUd1R1pPOGhqZ1F4cXBIeFd5REE3cVhRem9IOUFGRnJJZDVyRFNtOGE5S2xrTkJZTmVfOHl2bzlvWTdYRDg4TGxtQjg0WVBlZGg5YWhxOEptQzlhSHB4Q2hVTXgyQ3ROeUQ4Z0pYRGJXV2lmRUJhRkp6bFZyUURicHA0X2o5NWk4WU5FdnlGekh0by1oVGQ3MmFoaWlqdmV1b3l2RkxvVTJyWUk?oc=5",
+      "keywords": [
+        "enfermeiro offshore",
+        "offshore"
+      ]
+    },
+    {
+      "id": "1c617db21663",
+      "titulo": "Marinha do Brasil abre vagas para curso de formação de aquaviários no CIABA - PCI Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnp0X1V4aVBVaWhfeEhTVWV2XzVZdmNOUUlLWGlEMDJJTXlleWJXUkRZeU9PbTZoVWo1TXc3RzI3alpCTkMxczl2QXJONXpWUjQ0M19jb1RsRllmVWVUcGhHOHdtNDNjVXFaVHRNUmhJaC1RbzB6Yno2RWMyZk9lWkRZSm5ZTk9sYWZES0tJbUJucUFhX1Rfbm9DMEloR1VFc2lPOFEtRVI3LVYtNnhhdGxCS2JDMzA?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    },
+    {
+      "id": "af3e8fa4848e",
+      "titulo": "Marinha do Brasil abre 270 vagas para os cursos CFAQ-I C/M e CAAQ-I CT/S - PCI Concursos",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTVOSkMyNEJsd0dLb3hILUk4M1duWUtiYjZ1aDlkMTdudFppYlAtVVY0UkhFazRoam5lUE01NlRpbjQyQ3kwUlF2bUJZVzBJcHFfbUpHdmNxTXVvX0dld3NJN0UySDd2MG5Dd0NJNnF5ampvdkcyVThYZHhzM2xiZXFMZ2REQktHbjRBdGVESjg3LVM4alZ0cE5pekdHS09NSkJvc18tbUNmWk43aFlUMGxCcw?oc=5",
+      "keywords": [
+        "embarcado"
       ]
     }
   ]
