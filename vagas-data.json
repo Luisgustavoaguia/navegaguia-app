@@ -1,75 +1,54 @@
 {
-  "updated_at": "2026-10-09T08:00:24.846694",
+  "updated_at": "2026-10-10T08:00:21.167243",
   "stats": {
-    "total_vagas": 6,
-    "vagas_hoje": 6
+    "total_vagas": 4,
+    "vagas_hoje": 4
   },
   "vagas": [
     {
-      "id": "6c9bb7d7d77f",
-      "titulo": "Marinha abre inscrições para curso gratuito de Moço de Convés com 30 vagas em São Francisco do Sul - Jornal do Comércio",
+      "id": "b2b240d1b815",
+      "titulo": "Subsea7 abre seleção offshore para enfermeiros, eletricistas, mecânicos, marinheiros, almoxarifes e operadores de rádio ",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWpmTFVNdk5HSXJweXUzalR0YzkzOUpCc2FOZmlBYVpBS3k3RGZtTkdOcmVNYW81MXdIcUg2UXh4SXBhQ2xhNTE2TUhHX2Y0eThtelJNQkNIYnR6eWMtT1JERExrdGJTTmVLYTVKTUpRM0hRa09BUm9iSnR1UUhiZ01iMUJpd2JjZDlURUNhLXdPMm9QU1NheUFfT0lvVExNZExGWmZXWGJTdlhKcU5NSHhpMEw5MzJ2SDRRSlhZZi1qcHZpeXVZVUpKcjNrcE0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRHZQb3JtR1lJblJ0LTJLRHlrTVZZYzVTZ3JSVXl5RUZZMThXbTJCXzFlUU9TaDFicWQ2WldMejNXbVhVSlRUYWNwZExmQ1NGUEl4LUNBUUx3eTlaLVVNRTJBLWtJcnZ4YU12cVJiOGhYaEwtU0RtdzdvR3JfU1UxR2J5Ym96TU8yQ0dYY0VtMl9KdEN5Ui1QbzRPY2RDdGJZZnRzdnNDNVZNcXI5Rng5Z19uVVBYaVdqcGswTmlPWU1uTkRwNE9BdnVRLUhhaW4tZkJPVE9rc2xERDJhSUJMWHNDQWhReFdTVmxCNmpMcC1IdWk5TDNQQkIwQjBabDgwNHlYX2ZoaHMzMXph?oc=5",
       "keywords": [
-        "moço de convés"
-      ]
-    },
-    {
-      "id": "e6a002b3cb51",
-      "titulo": "Vagas offshore para brasileiros com passaporte para trabalhar no exterior na função de Enfermeiro Marítimo - CPG Click P",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTi1pUEs4aGZGbVZtc25pcTd3R01fajdXNHItRFhlSU5pZDFHbjNuczJxNnVsWmZiMFRSbFdkblNaMHlXOGhIdlg2LWwxVkFjbmhBUFdLQkJwUHlrOEhZRnBkMHBNVF9CdnhWaGZFWi1sckg3YTh6NGxQNU92NWhsY3lSOUZOcUxEdkc1aW9jLXJnaVJFMGZRNmNhd21lTlhDeVJ1Mkp4bnpNSWlrNWdpdTd5dl85S096UkFycWRLdU1QRThROWhMZ1Fzczk3SkRQTXBKd3o4WQ?oc=5",
-      "keywords": [
+        "eletricista",
         "enfermeiro offshore",
         "offshore"
       ]
     },
     {
-      "id": "c9088740fdf0",
-      "titulo": "Enfermagem Offshore é tema do 19º episódio do podcast Papo de Enfermagem - Conselho Regional de Enfermagem do Espírito S",
+      "id": "ab33207893c4",
+      "titulo": "Governo do Rio oferece 290 vagas em cursos gratuitos para trabalhar no setor offshore - Diário do Rio",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHBqVkVhQXZvcWdiV0Jrd2dtc0h1ZnRkNmlnQVhkajBkbjZIRUZYUVRBNWo5YV9kajNEdmp0SjlDVlIyVU1xdmxQMkhFeG5nQzgtaXhjVWY3a1RTVzh6WnlLVjNBYnkzbjNBMHlhaDN4ckhEY0Z0d1l2ai1GVEEyNDhpVjBkRmpyVnVsaVVvSTNCRUJrc25aempnNzVwTDFGbUFR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWEtSExpYzJ1TlJ3M3pXd3locl9YU2R3TERMVUlZa1ljOHlwMmg2SWFZQV80bFkzTXR3S0ZiSXpRMkN1SHpxZDVILTVJRmlyc3RMZE1IaFU3QVpsNng0VzBTT1FYRlZqdTFuQTdKa3VqeUEwRGl5emNhZ0YzN004eWlRc2UwSEVTV2tUNU9RTlVFbVk3eWQ5OU5QOUFOR0RiVy1jQXdrUmgwMDNEYjdtYXhzbm52WFUxNFN5eUZCRDJzb0g1ckRzaDhZRHJ4WWl1aU1fek00clNETDUwOWR4QzIxTVhCMTczbXc?oc=5",
       "keywords": [
         "offshore"
       ]
     },
     {
-      "id": "848a2f90f3fa",
-      "titulo": "Bram Offshore abre vaga de emprego para Enfermeiro Marítimo para atuação offshore no Rio de Janeiro, com salário a combi",
+      "id": "d6683738fa1d",
+      "titulo": "Governo do Rio oferece quase 290 vagas para cursos de qualificação profissional em áreas ligadas à economia do mar e ao ",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOczNtTFJJQXd3LThyZVRYQzlBZ0pVN2pRczNMc3hZYlVIMzIzdTk3NXcyNEV4NUs2QWdMWGM5b051aXFCS1FITklfZFNrUVlrOVpPanRfWTBvVzB1VXRBX2F3blNhTjRtY2xhc2lpdU1SbVhTMm9zLXEyUExsa2c5RGhZZ0ViS3VYOVZuTFZkZ2tybXVuX2hvTUd1R1pPOGhqZ1F4cXBIeFd5REE3cVhRem9IOUFGRnJJZDVyRFNtOGE5S2xrTkJZTmVfOHl2bzlvWTdYRDg4TGxtQjg0WVBlZGg5YWhxOEptQzlhSHB4Q2hVTXgyQ3ROeUQ4Z0pYRGJXV2lmRUJhRkp6bFZyUURicHA0X2o5NWk4WU5FdnlGekh0by1oVGQ3MmFoaWlqdmV1b3l2RkxvVTJyWUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR1N3SjRyeEpHeGpzUGdqTlRlNGpubWRwclRZQ0tzblUwYWxXWTFmSURTR2tRck1hOTh0Ymx5Wk9RWjZoUTl3Sk93T2JRc2NOaGdxYW56NHZja3kxQUoxNnZXVEhWM1J5UVVmclVuSF9TckNCWjFRQ2FqRkVfZF9NUUhxOFN1NldQNkNuOTlzS3I2dlRjQm83MEVLZTBkSFM4YkV6OEZxSnlCampLSTd4ZFFMaDRsWmhNczFpMEdYSGtmUlJXUVBwc3IxTTVBQmlSTVV0S0EtR2dDTnd5VTJjX25YY2VNQ2dSUndzY080SQ?oc=5",
       "keywords": [
-        "enfermeiro offshore",
         "offshore"
       ]
     },
     {
-      "id": "1c617db21663",
-      "titulo": "Marinha do Brasil abre vagas para curso de formação de aquaviários no CIABA - PCI Concursos",
+      "id": "725adbfaf073",
+      "titulo": "OSM convoca Marinheiro de Convés para trabalhar embarcado em navio de apoio offshore no Brasil, com inscrições até 1º de",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnp0X1V4aVBVaWhfeEhTVWV2XzVZdmNOUUlLWGlEMDJJTXlleWJXUkRZeU9PbTZoVWo1TXc3RzI3alpCTkMxczl2QXJONXpWUjQ0M19jb1RsRllmVWVUcGhHOHdtNDNjVXFaVHRNUmhJaC1RbzB6Yno2RWMyZk9lWkRZSm5ZTk9sYWZES0tJbUJucUFhX1Rfbm9DMEloR1VFc2lPOFEtRVI3LVYtNnhhdGxCS2JDMzA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQThGZl9NU1dNeWNmeXd0NzNlX2p2d2daV3NyOG1qUGxYZk5qellUMlVtQl9BblVSRjdMejJzYW9uVHItVTYxcXh3aG4zdnhxVUxZLTN3U0FRT3c1aGF1V1hWbmFvWFp4bk1ncG5ETFJoX3Z0YksycW51bHllb1RBS3R5bFFKMUJDb3BjZHFTcU1QeTB1bUkyWjJKNTFUdUZpOFlOZWh3ZkR6TjBVYWVjLUp1enpHa0VNbm1CbDlreWZKUVlIaUVYejVvaWFudTk4Tl9mRTNXeDdFSXBXUTdWNmY4dlZ5MEJuQS1zbWZiRVc3dnE5RHlxdWM2NEdJV3lnWDVYUW9wUG1rTEFZSjdvMmNoTjV6SndjV0xQWVV6RTNIeklCVllFTk1uc2tYUnFXX0hzZUV4ckE?oc=5",
       "keywords": [
-        "aquaviário"
-      ]
-    },
-    {
-      "id": "af3e8fa4848e",
-      "titulo": "Marinha do Brasil abre 270 vagas para os cursos CFAQ-I C/M e CAAQ-I CT/S - PCI Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMTVOSkMyNEJsd0dLb3hILUk4M1duWUtiYjZ1aDlkMTdudFppYlAtVVY0UkhFazRoam5lUE01NlRpbjQyQ3kwUlF2bUJZVzBJcHFfbUpHdmNxTXVvX0dld3NJN0UySDd2MG5Dd0NJNnF5ampvdkcyVThYZHhzM2xiZXFMZ2REQktHbjRBdGVESjg3LVM4alZ0cE5pekdHS09NSkJvc18tbUNmWk43aFlUMGxCcw?oc=5",
-      "keywords": [
+        "offshore",
         "embarcado"
       ]
     }
