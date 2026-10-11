@@ -1,56 +1,8 @@
 {
-  "updated_at": "2026-10-10T08:00:21.167243",
+  "updated_at": "2026-10-11T08:00:17.598806",
   "stats": {
-    "total_vagas": 4,
-    "vagas_hoje": 4
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "b2b240d1b815",
-      "titulo": "Subsea7 abre seleção offshore para enfermeiros, eletricistas, mecânicos, marinheiros, almoxarifes e operadores de rádio ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRHZQb3JtR1lJblJ0LTJLRHlrTVZZYzVTZ3JSVXl5RUZZMThXbTJCXzFlUU9TaDFicWQ2WldMejNXbVhVSlRUYWNwZExmQ1NGUEl4LUNBUUx3eTlaLVVNRTJBLWtJcnZ4YU12cVJiOGhYaEwtU0RtdzdvR3JfU1UxR2J5Ym96TU8yQ0dYY0VtMl9KdEN5Ui1QbzRPY2RDdGJZZnRzdnNDNVZNcXI5Rng5Z19uVVBYaVdqcGswTmlPWU1uTkRwNE9BdnVRLUhhaW4tZkJPVE9rc2xERDJhSUJMWHNDQWhReFdTVmxCNmpMcC1IdWk5TDNQQkIwQjBabDgwNHlYX2ZoaHMzMXph?oc=5",
-      "keywords": [
-        "eletricista",
-        "enfermeiro offshore",
-        "offshore"
-      ]
-    },
-    {
-      "id": "ab33207893c4",
-      "titulo": "Governo do Rio oferece 290 vagas em cursos gratuitos para trabalhar no setor offshore - Diário do Rio",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSWEtSExpYzJ1TlJ3M3pXd3locl9YU2R3TERMVUlZa1ljOHlwMmg2SWFZQV80bFkzTXR3S0ZiSXpRMkN1SHpxZDVILTVJRmlyc3RMZE1IaFU3QVpsNng0VzBTT1FYRlZqdTFuQTdKa3VqeUEwRGl5emNhZ0YzN004eWlRc2UwSEVTV2tUNU9RTlVFbVk3eWQ5OU5QOUFOR0RiVy1jQXdrUmgwMDNEYjdtYXhzbm52WFUxNFN5eUZCRDJzb0g1ckRzaDhZRHJ4WWl1aU1fek00clNETDUwOWR4QzIxTVhCMTczbXc?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "d6683738fa1d",
-      "titulo": "Governo do Rio oferece quase 290 vagas para cursos de qualificação profissional em áreas ligadas à economia do mar e ao ",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR1N3SjRyeEpHeGpzUGdqTlRlNGpubWRwclRZQ0tzblUwYWxXWTFmSURTR2tRck1hOTh0Ymx5Wk9RWjZoUTl3Sk93T2JRc2NOaGdxYW56NHZja3kxQUoxNnZXVEhWM1J5UVVmclVuSF9TckNCWjFRQ2FqRkVfZF9NUUhxOFN1NldQNkNuOTlzS3I2dlRjQm83MEVLZTBkSFM4YkV6OEZxSnlCampLSTd4ZFFMaDRsWmhNczFpMEdYSGtmUlJXUVBwc3IxTTVBQmlSTVV0S0EtR2dDTnd5VTJjX25YY2VNQ2dSUndzY080SQ?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "725adbfaf073",
-      "titulo": "OSM convoca Marinheiro de Convés para trabalhar embarcado em navio de apoio offshore no Brasil, com inscrições até 1º de",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNQThGZl9NU1dNeWNmeXd0NzNlX2p2d2daV3NyOG1qUGxYZk5qellUMlVtQl9BblVSRjdMejJzYW9uVHItVTYxcXh3aG4zdnhxVUxZLTN3U0FRT3c1aGF1V1hWbmFvWFp4bk1ncG5ETFJoX3Z0YksycW51bHllb1RBS3R5bFFKMUJDb3BjZHFTcU1QeTB1bUkyWjJKNTFUdUZpOFlOZWh3ZkR6TjBVYWVjLUp1enpHa0VNbm1CbDlreWZKUVlIaUVYejVvaWFudTk4Tl9mRTNXeDdFSXBXUTdWNmY4dlZ5MEJuQS1zbWZiRVc3dnE5RHlxdWM2NEdJV3lnWDVYUW9wUG1rTEFZSjdvMmNoTjV6SndjV0xQWVV6RTNIeklCVllFTk1uc2tYUnFXX0hzZUV4ckE?oc=5",
-      "keywords": [
-        "offshore",
-        "embarcado"
-      ]
-    }
-  ]
+  "vagas": []
 }
