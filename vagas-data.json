@@ -1,8 +1,42 @@
 {
-  "updated_at": "2026-10-21T08:06:02.829539",
+  "updated_at": "2026-10-24T08:00:22.130152",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 3,
+    "vagas_hoje": 3
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "48706a09dfc7",
+      "titulo": "Marinha Mercante amplia investimentos: Fundo destina R$ 2,29 bilhões a 55 obras, incluindo 40 barcaças em São Paulo e um",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOU2VSQ05hMFFJYjJiNGs5RVhOR2RnTGJ1QWI0cnN3Z2dnY3k2WEdMd2pCUTBxOWZxblJCWDVmUkxfY0xLbHJnVnpfUk0xcU1Kazc1cTE2bFlFdUN2LXNFVHMxT25YTjFDSnowcFoxanU4b01BbEc1VUt2bVNjSkVIU2xVaUk2YjFxemtMMjNsYklnQTlSWVNDM0RvSlduZ1JPQmRpRTV6NjRDbjU1anI1U2RxUWg0TmFiTnNHOG1wRWpOSVp5dnRJd0NHU3Raa0x3UUQ4NFhVZ1pZMEVKOU83N0NnSXpGLWxHWkMxZDJ2SmhxQTRwdG5fQnBrTlR1MUNGRERESHd2c2tXRzFFdFBV?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "529c00d0558e",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 8,3 bilhões em investimentos - www.gov.br",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NWdUVVcTI2dmF0bnBNb0dWOVkxcGlCY2JrOUlmTHBtMF9hSEFBdzhJU3YzNU4wQmJIclhSWnlRTHVxZ09MNWhTeXp6THFVRkt6X3J5MFhIQlNfc0QwbXlkSDRPWUt5ZXQ2cjVRQWg2SHhIbFA2a0JzbnFDZkNiMmFGdEhPSklKOWFmRTRpRTVjeGYxeTI2TG1oYzdrVFh4N0ZleURBVjRheXZKOGNMWmZCSTBpd00yZzQ1MDlMbnRtaEhtYlliRlFROGdEQms?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "96ef650bfb03",
+      "titulo": "Governo do Rio oferece quase 300 vagas de cursos de qualificação profissional em áreas ligadas à economia do mar e ao se",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fU2kzaWNMU1VoU0ZNeE4teC1mU1ZfZWZ2TWVCSTgtTkpZTkVTNmJhRUppWGxOVE9ZMkFoblQtZkxlR0FTc2pwTTVRTDFyOGJHUlpSQVJJMmxXaVhKOGlwQ3VuUTE?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    }
+  ]
 }
