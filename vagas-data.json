@@ -1,41 +1,30 @@
 {
-  "updated_at": "2026-10-24T08:00:22.130152",
+  "updated_at": "2026-10-29T08:00:18.803424",
   "stats": {
-    "total_vagas": 3,
-    "vagas_hoje": 3
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
   "vagas": [
     {
-      "id": "48706a09dfc7",
-      "titulo": "Marinha Mercante amplia investimentos: Fundo destina R$ 2,29 bilhões a 55 obras, incluindo 40 barcaças em São Paulo e um",
+      "id": "fd25c4aef1de",
+      "titulo": "Entenda como funciona o financiamento do Fundo da Marinha Mercante - GOV.BR",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOU2VSQ05hMFFJYjJiNGs5RVhOR2RnTGJ1QWI0cnN3Z2dnY3k2WEdMd2pCUTBxOWZxblJCWDVmUkxfY0xLbHJnVnpfUk0xcU1Kazc1cTE2bFlFdUN2LXNFVHMxT25YTjFDSnowcFoxanU4b01BbEc1VUt2bVNjSkVIU2xVaUk2YjFxemtMMjNsYklnQTlSWVNDM0RvSlduZ1JPQmRpRTV6NjRDbjU1anI1U2RxUWg0TmFiTnNHOG1wRWpOSVp5dnRJd0NHU3Raa0x3UUQ4NFhVZ1pZMEVKOU83N0NnSXpGLWxHWkMxZDJ2SmhxQTRwdG5fQnBrTlR1MUNGRERESHd2c2tXRzFFdFBV?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT0xRb0xqWXUzS1V6ZXRaV0N2ay11SGdKUndjREtMT0o3Sm5uX3lKQ29pazBVQVJLRWtyT1RpWUlZZG9KNzdPMmptUzlWcEVuVUN4LUNQTjlxUGNVRV9Pd19yZmMwY0NhS0IyN0dta3VRWXlsZ2NBcjB4bF9LUjg5cTliNENpMHB3S0FUcWRHSmdJOUx6b21VcVpwbXRDdnNTM3dhOUxUZ0JKWGhyMnNzeHVPblFqRUdMcUg4OXVJaEYwTExQTjNWS1hpXzVoT2dyUFpz?oc=5",
       "keywords": [
         "embarcado"
       ]
     },
     {
-      "id": "529c00d0558e",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 8,3 bilhões em investimentos - www.gov.br",
+      "id": "fb8dc77eef96",
+      "titulo": "Fundo da Marinha Mercante aprova R$ 585,9 milhões para a indústria naval da Região Norte - GOV.BR",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NWdUVVcTI2dmF0bnBNb0dWOVkxcGlCY2JrOUlmTHBtMF9hSEFBdzhJU3YzNU4wQmJIclhSWnlRTHVxZ09MNWhTeXp6THFVRkt6X3J5MFhIQlNfc0QwbXlkSDRPWUt5ZXQ2cjVRQWg2SHhIbFA2a0JzbnFDZkNiMmFGdEhPSklKOWFmRTRpRTVjeGYxeTI2TG1oYzdrVFh4N0ZleURBVjRheXZKOGNMWmZCSTBpd00yZzQ1MDlMbnRtaEhtYlliRlFROGdEQms?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcVlWY2JIcnQ5aWdtbzZPc0pjcDhYeDRqNXhrdmVkcy0zcTJqSmgyS1N6cjFfSVNUaUQ2aE9KTW5oRkN2TjJoU2VGYjJzc2F3ajlqV05VQ3k1WmE1UkdvbF8tU3Z1LUE2d1p5TnlmdzI4QlJEdkVLMTF1cVgwQngxZXRwZGdXWFFiMWhWRTdiZk5IUHRBZ2Z0UzQwRmRKTDhTTk1SNk1TdjBqQ05kYTItalI3Q3ctSVI4UXc2Y2dLZEZUaUxRYXBlUlpfbXV2RmpnQjRLU3k2TnBEYzRmQ0c3TGlrQ1dYZHJyZk9odGxZZw?oc=5",
       "keywords": [
         "embarcado"
-      ]
-    },
-    {
-      "id": "96ef650bfb03",
-      "titulo": "Governo do Rio oferece quase 300 vagas de cursos de qualificação profissional em áreas ligadas à economia do mar e ao se",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fU2kzaWNMU1VoU0ZNeE4teC1mU1ZfZWZ2TWVCSTgtTkpZTkVTNmJhRUppWGxOVE9ZMkFoblQtZkxlR0FTc2pwTTVRTDFyOGJHUlpSQVJJMmxXaVhKOGlwQ3VuUTE?oc=5",
-      "keywords": [
-        "offshore"
       ]
     }
   ]
