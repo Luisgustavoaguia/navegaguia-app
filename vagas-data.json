@@ -1,13 +1,24 @@
 {
-  "updated_at": "2026-10-29T08:00:18.803424",
+  "updated_at": "2026-10-30T08:00:18.267633",
   "stats": {
-    "total_vagas": 2,
-    "vagas_hoje": 2
+    "total_vagas": 4,
+    "vagas_hoje": 4
   },
   "vagas": [
     {
-      "id": "fd25c4aef1de",
-      "titulo": "Entenda como funciona o financiamento do Fundo da Marinha Mercante - GOV.BR",
+      "id": "94b8f953db05",
+      "titulo": "Quem fez a prova da Efomm em julho pode ver mudar a nota de corte: o MPF pede à Justiça que 30% das 368 vagas de oficial",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLU0wTDJPa0RsSmJoSUF6N1ZPWmR3OUdWbjZ1WERTTEZPMGJDN0dCeGpsZ2NSUWxhR0Q5MDRWLUtIVVBHZFF2MGVxVGgzLTcyWExrN2diTThrdjBqOGtPZWVoUVJDMlA2bGU0YkN4YXRVQnNpeWRkeEE1dnFJYXdkeTlCbjRnMExSVG9JR09wT3VZUQ?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "263571de0f07",
+      "titulo": "Entenda como funciona o financiamento do Fundo da Marinha Mercante - www.gov.br",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
@@ -17,12 +28,23 @@
       ]
     },
     {
-      "id": "fb8dc77eef96",
-      "titulo": "Fundo da Marinha Mercante aprova R$ 585,9 milhões para a indústria naval da Região Norte - GOV.BR",
+      "id": "c74659ade4fb",
+      "titulo": "Multinacional Modec está recrutando profissionais Offshore para vagas imediatas no Rio de Janeiro - Petrosolgas",
       "fonte": "GOOGLE-JOBS",
       "data": "Hoje",
       "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcVlWY2JIcnQ5aWdtbzZPc0pjcDhYeDRqNXhrdmVkcy0zcTJqSmgyS1N6cjFfSVNUaUQ2aE9KTW5oRkN2TjJoU2VGYjJzc2F3ajlqV05VQ3k1WmE1UkdvbF8tU3Z1LUE2d1p5TnlmdzI4QlJEdkVLMTF1cVgwQngxZXRwZGdXWFFiMWhWRTdiZk5IUHRBZ2Z0UzQwRmRKTDhTTk1SNk1TdjBqQ05kYTItalI3Q3ctSVI4UXc2Y2dLZEZUaUxRYXBlUlpfbXV2RmpnQjRLU3k2TnBEYzRmQ0c3TGlrQ1dYZHJyZk9odGxZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEt4UlE0cGliNFNydEFNQU1wRDJlVUQwUG5sNmNTVEJYMUZSQVpjX1RfbXZ4R25uY0E4RUxnNW1vdUw4WVZvMlJYeEZPRFJLbDJXcGRsbERwWnZJRWNadXc0M3VmV1VJM0g3VkxaTGN1Y1J2VDRJcnJ3LU5EbzROaVFSYllJd3J4TkJyZHFxQQ?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    },
+    {
+      "id": "a91230a8cbba",
+      "titulo": "Marinha Mercante: veja como começar a carreira em 2027 e quais cursos permitem trabalhar em navios - O Petróleo",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVNuUUN6eFNlUElscXlwTGcySVRmZXVWemIxRV9lV3RCSF9HMEN2eW9YdEJmZDcwLTNENXgzSjVtTFd4NUgtTUI1SUhYWlZXcmVudFJPMDBHSjJrX2NHSUsxZXdjX2tvV2l1U1VwdnpnT0lGdV9zNURLOUhYY3g4WDljVXlaYTZYSjhxV19kM0hDY2EwMlRjdlpBM0t0MWhzdE9UOE11SzNTQXRrd1k2Nm40QUJxTTRwSlQ2b202OGc?oc=5",
       "keywords": [
         "embarcado"
       ]
