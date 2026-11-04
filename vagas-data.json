@@ -1,64 +1,8 @@
 {
-  "updated_at": "2026-11-03T08:00:22.020805",
+  "updated_at": "2026-11-04T08:00:15.699728",
   "stats": {
-    "total_vagas": 5,
-    "vagas_hoje": 5
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "9ecc63d93a22",
-      "titulo": "Marinha Mercante abre seleção para 60 vagas em Manaus-AM - Ache Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWlUdXlmNGpxOEpKd1d3WGNVbkgxRlhTV2xMOHpxRklPRzBXeGpGRHg0eUkwOTkwQ0FuN0JCdVlPN2JrWVhRWEhSUWdhOGdXb0VqQlRXVHFMdjZkUkh2SHkwOUpKZzREdzc1SWpSR0FXblI4dVpNQmx0RjhfbnliZjVIV2RhQWpxaFBsVk1LSW04RlVyaW5ZYnIyc29NdnFEcGx3cW90Ymd3UGFTNlkxZGk1TQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "83dc8445b02e",
-      "titulo": "Resultado Marinha Mercante 2026: classificação na EFOMM sai nesta sexta (11) - Ache Concursos",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTZzc3c3cHVaazMzWVF2RWlBa0p1LW90MU5zbXNFY2ZydnU5LXdyMzFzTXJDQWkxYTRRRmg2RUx0bXZGREVEdW1Ga0NTbzlkc21QT1pZb1VkVEJJNXRUYWxiNV9lR0ZVLUdDY2ZmZmJGMWdfbDZBM1lScVgwZ0k2Xzh2ZWlSQUxQc3p3TEcyZ0xXUTR5TFBwcnEta0MxTThlTDFPN2VvWjdFcUloa3JXR2tVUU9VeDFEMmZqaDd3?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "04c1ab7c0ade",
-      "titulo": "Comandante da Marinha Mercante: salário (out/2026) - Portal Salário",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWVOUmVoU1hvT1R0dkRjLUI0NzF5WmVITGMzQ0VPajR2QWsxdXV3dW1leUtudTJyYzVrR0tfNlhKUEE2LVFNblJVeHRJZmIyQmxoMk9NZDdKSXltUEdwTE4xRWY3VWVXUW1OdkZKcFhZMDRObThyOU05R1FyM1dUazQ4cTdnUQ?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    },
-    {
-      "id": "cbb0b8220fca",
-      "titulo": "Governo do Rio oferece quase 300 vagas de cursos de qualificação profissional em áreas ligadas à economia do mar e ao se",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fU2kzaWNMU1VoU0ZNeE4teC1mU1ZfZWZ2TWVCSTgtTkpZTkVTNmJhRUppWGxOVE9ZMkFoblQtZkxlR0FTc2pwTTVRTDFyOGJHUlpSQVJJMmxXaVhKOGlwQ3VuUTE?oc=5",
-      "keywords": [
-        "offshore"
-      ]
-    },
-    {
-      "id": "b5c3eb71f14f",
-      "titulo": "Empresa de perfuração de petróleo procura profissionais no Rio e oferece 16 oportunidades para trabalhar em terra ou emb",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQndxYUdjVUpHUExGTW9rQ1JJakxoUEYxY09oQ05BQjZLbmJvV2Y4amREUXg5TmhkdURyU3k3T1NSaFdGT3I4elQwVUIwTWEtbm1FSzF3WlRoZVE1WHhQa2tjVXFfMXRTV3ZrUW1lQl9VX09zQWd0aEhvZ2VSRS1oaVRyNVRnM29MRTY4eHFwcWJ2aExYVTRkMmZVSl9EQWl6Q1A1enBaNG9Fa1RadnpyQlBROFlYT3ZnRF85aVdCTG1rVDY1TnpKak1jeThIWks5cnRKTFZ2aVBDc2pGRmI5d0hQa2w0eUhLWE9KUmpGZFRxZ0xWSDVUanAzZHhVV1dCVnpzcWRvTXg?oc=5",
-      "keywords": [
-        "embarcado"
-      ]
-    }
-  ]
+  "vagas": []
 }
