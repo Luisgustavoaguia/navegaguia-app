@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-11-07T08:00:20.052962",
+  "updated_at": "2026-11-10T08:00:15.005761",
   "stats": {
-    "total_vagas": 1,
-    "vagas_hoje": 1
+    "total_vagas": 0,
+    "vagas_hoje": 0
   },
-  "vagas": [
-    {
-      "id": "afae6fc1644a",
-      "titulo": "IFRS Campus Rio Grande e Capitania dos Portos oferecem curso de Moço de Máquinas com 50 vagas - IFRS",
-      "fonte": "GOOGLE-JOBS",
-      "data": "Hoje",
-      "urgente": true,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGJVU3hIUXF5X0U2ekRSam50dVpGdXk4ZlVKYjBfMmUwR190dGpoMGNHU2hKMEhnWUhIN0pWRlE2MDBZVzU0b3g0akZzUGpiRndBTnpvdV9nUlY2WXlrbzc4NnN3U3hVU2VVMHAyTWNaUE1Qem1PZk01T1duRmhxaVl3Z084Q3Q4MkcwSnhNMDNUaEZHakpldzMtNXJMdkx4ODVTa0hOckU4MzJsbW5oeVNFYlo0QkhEQVNSZGV6NXBIUQ?oc=5",
-      "keywords": [
-        "moço de máquinas"
-      ]
-    }
-  ]
+  "vagas": []
 }
