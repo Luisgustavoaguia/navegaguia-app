@@ -1,8 +1,31 @@
 {
-  "updated_at": "2026-11-10T08:00:15.005761",
+  "updated_at": "2026-11-12T08:00:17.491954",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 2,
+    "vagas_hoje": 2
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "482afefbcc9f",
+      "titulo": "CPRJ realiza 1ª etapa do processo seletivo para admissão ao CFAQ-MOC e CAAQ-CTS | Com1DN - Marinha do Brasil",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYkl6U1RLNUFnN2hiakhTaGZfRjVWWVdXaTEyazFhejU5QkI5b3VRc3lwcHlNZUh6VkVMcWRVSWlqVFlmR3dyQmswd1BkOXBTY1ByZl96WmI0aEY0VEtGSldNZURJTHNFOGxyQTR6QVJ4SUtaMi1XcVhYOTBrOHUzY0VISDhkNW4yeHVKOWdISHcxdXpDUzJVWmZMcWtFM1lDVG1YS3hucEtJOGIxSy1RMGU2R0JUTkd1R3g5Z0JQa1JYZw?oc=5",
+      "keywords": [
+        "embarcado"
+      ]
+    },
+    {
+      "id": "70a5044d2b25",
+      "titulo": "Capitania dos Portos de Pernambuco forma primeira turma de Moço de Convés e Máquinas em Fernando de Noronha - Marinha do",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yZW15TWF4QWRsTFJUOGQ0aW5GQXVEbWN1bFZlM2s1eUpEYXJnY1NoNkozRWNmODdFejgwc1RPdlFEZEhJelRaQ09vMDVCeWUxU2pJ?oc=5",
+      "keywords": [
+        "moço de convés"
+      ]
+    }
+  ]
 }
