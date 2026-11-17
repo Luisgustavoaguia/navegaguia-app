@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-16T08:00:13.892352",
+  "updated_at": "2026-11-17T08:00:17.292474",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "f6717a83c98b",
+      "titulo": "Marinha abre 118 vagas em Santarém para cursos de formação de aquaviários - G1",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTjNPcnFtUFZXSjh1eGpKYXZtcVBGOGRxcThXb2lQNmNCeXZNWFVPMWo0T1NYWmktV0w5LVNOaGg5UWNYYXZyQ1NRREZ5czhGczFMVldXLVVudU02VXIydmxjdHhqbkhfRHZXR0I3SGtLaVZ6QVQtX1NzX0s4aVItX3FFcUxtcWVUck1BR3czckcyMF9JaTlkcDd1SlQtRUI3QVFzTGVTRm1VbHRxYjdnRU1OeFlWQ1huMUpvSHktMFVZUVVJNy1LMlAwaTZ5ZG1jVlBhVA?oc=5",
+      "keywords": [
+        "aquaviário"
+      ]
+    }
+  ]
 }
