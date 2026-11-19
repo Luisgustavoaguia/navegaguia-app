@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-11-18T08:00:14.170612",
+  "updated_at": "2026-11-19T08:00:20.028950",
   "stats": {
-    "total_vagas": 0,
-    "vagas_hoje": 0
+    "total_vagas": 1,
+    "vagas_hoje": 1
   },
-  "vagas": []
+  "vagas": [
+    {
+      "id": "79d3d2b59733",
+      "titulo": "Grande nome da indústria de petróleo e gás contrata Técnico de Enfermagem em Rio das Ostras para atuar em terra e apoiar",
+      "fonte": "GOOGLE-JOBS",
+      "data": "Hoje",
+      "urgente": true,
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQQWVCTHZEek1oM2xEc09PdlpmS3lXQTVjd0ViSkM3STlDakJka0RaUjZYUlQ2Nk9JNXp4cE1WZmY1eEg1RnhvRk8tR3ZBNU1SQ18wdXRtWXlaTm55MHl3RHROX1ViV3ZGb2MwOGpwWmJ6UHM5NXNBQm9WQkNkZFRlUmlEQ1VzM1Zmb0RTT0dRdTRBMDFaUGJveXJtNm9HMEp4ZHlrNmFtaFhSd2FiejB6QUhvajNEVThWSWJoaWxGZk51ejdOeVJ1VHRGN3Bya3ZaSTVJLUJFZ0NPN20wbGJ4bE1hSU5RbWhFS1pJYURiam1lR3UzWUYtZ2k3OXU0eklsaS16cFRNbzRETm9lR0Mwcmt0dE9qLUlJbEJVS0ptSzdFQmdy?oc=5",
+      "keywords": [
+        "offshore"
+      ]
+    }
+  ]
 }
